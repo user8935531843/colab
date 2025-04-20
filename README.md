@@ -3,14 +3,12 @@
 ## Overview
 
 This project implements a pipeline within a Google Colab environment to:
-1.  **Paraphrase AI-generated text:** Using the RAFT (Robustness Assessment for Fairness and Trustworthiness) toolkit, specifically its synonym replacement capabilities.
-2.  **Prepare datasets:** Format data from various sources (Hugging Face datasets, custom TSV files) for use with the SICO (Style Imitation and Comparison) toolkit.
-3.  **Train SICO components (Implicit):** Although full SICO model training isn't explicitly shown, the scripts prepare data and potentially train/fine-tune paraphrasing prompts or detector-assisting prompts using `SICO_train.py`.
-4.  **Generate SICO paraphrases (Optional):** Use `SICO_test_gen.py` to generate paraphrased text based on a trained SICO setup.
+1.  **Prepare datasets:** Format data from various sources (Hugging Face datasets, custom TSV files) for use with the SICO (Style Imitation and Comparison) toolkit.
+2.  **Train SICO components:** The scripts prepare data and train paraphrasing prompts using `SICO_train.py`.
+3.  **Generate SICO paraphrases:** Use `SICO_test_gen.py` to generate paraphrased text based on a trained SICO setup.
+4.  **Paraphrase AI-generated text:** Using the RAFT (Robustness Assessment for Fairness and Trustworthiness) toolkit, specifically its synonym replacement capabilities.
 5.  **Detect AI-generated text:** Employ SICO's detection capabilities (`run_test_detection.py`) with various detectors (e.g., `chatdetect`, `logrank`, `detectgpt`) on both original AI text and text modified by RAFT.
 6.  **Evaluate detector performance:** Aggregate detection scores and calculate performance metrics (AUC, F1-score) to compare detectability between original and RAFT-modified texts.
-
-The primary workflow demonstrated involves taking original AI-generated text, modifying it with RAFT, and then using the SICO detection framework to assess how well detectors identify the original AI text versus the RAFT-modified text.
 
 ## Prerequisites and Setup
 
@@ -55,18 +53,7 @@ The primary workflow demonstrated involves taking original AI-generated text, mo
 
 ## Workflow Steps
 
-### 1. RAFT - Synonym Replacement
-
-* **Input:** A JSONL file containing text to be paraphrased (e.g., `abstracts_long.jsonl`), placed in `/content/drive/MyDrive/raft/datasets/custom_input/test.jsonl`.
-* **Process:** The `experiment.py` script is run with specific configurations:
-    * `--dataset custom_input`: Uses the custom input file.
-    * `--mask_pct 0.1`: Percentage of words to potentially replace.
-    * `--top_k 10`: Number of synonym candidates to consider.
-    * `--proxy_model`, `--detector`, `--candidate_generation`, `--local_llm_model_id`: Specify the models used in the RAFT process.
-    * `--output_path`: Directory for results.
-* **Output:** A JSON file (e.g., `result_0.json`) inside a subdirectory within `./experiments/` containing the original text, the RAFT-sampled (paraphrased) text, and indices of changed words. A subsequent cell processes this JSON to show changes. *Note:* Later scripts assume RAFT results are converted to a CSV format (e.g., `abstracts_long.csv`) and stored in `/content/drive/MyDrive/data/RAFT_modification/`.
-
-### 2. SICO - Environment and Data Setup
+### 1. SICO - Environment and Data Setup
 
 * **Environment:** Set up the Conda environment as described in Prerequisites.
 * **Training Data Formatting (Example):**
@@ -79,6 +66,19 @@ The primary workflow demonstrated involves taking original AI-generated text, mo
     * Run `SICO_train.py`. This likely trains prompts or helper models for paraphrasing or detection based on the formatted training data. Requires specifying dataset, LLM, detector, task, and sizes.
 * **SICO Paraphrase Generation (Optional Example):**
     * Run `SICO_test_gen.py` to apply a trained SICO paraphrasing method to a test set. Outputs generated text to `outputs/test_results/.../generated_text.tsv`.
+
+
+### 2. RAFT - Synonym Replacement
+
+* **Input:** A JSONL file containing text to be paraphrased (e.g., `abstracts_long.jsonl`), placed in `/content/drive/MyDrive/raft/datasets/custom_input/test.jsonl`.
+* **Process:** The `experiment.py` script is run with specific configurations:
+    * `--dataset custom_input`: Uses the custom input file.
+    * `--mask_pct 0.1`: Percentage of words to potentially replace.
+    * `--top_k 10`: Number of synonym candidates to consider.
+    * `--proxy_model`, `--detector`, `--candidate_generation`, `--local_llm_model_id`: Specify the models used in the RAFT process.
+    * `--output_path`: Directory for results.
+* **Output:** A JSON file (e.g., `result_0.json`) inside a subdirectory within `./experiments/` containing the original text, the RAFT-sampled (paraphrased) text, and indices of changed words. A subsequent cell processes this JSON to show changes. *Note:* Later scripts assume RAFT results are converted to a CSV format (e.g., `abstracts_long.csv`) and stored in `/content/drive/MyDrive/data/RAFT_modification/`.
+
 
 ### 3. Script 1: Processing RAFT Results + SICO Detection
 
@@ -140,12 +140,13 @@ Key parameters that can be modified in the scripts include:
 ## Data Formats
 
 * **Original AI Text:** Expected in TSV format, often with multiple columns. The relevant AI text column index is specified (`ORIGINAL_AI_COL_INDEX`). Header might be present or absent depending on the script section. Script 1 and 2 read it assuming a header row (`header=0`).
+* * **SICO Data:** TSV files (`incontext.tsv`, `eval.tsv`, `test.tsv`) with columns 'input', 'human', 'ai'.
+* **SICO `generated_text.tsv`:** TSV file with columns 'input', 'SICO-output' used as input for detection.
+* **SICO `*_score.tsv`:** Single-column TSV file (no header) containing raw detection scores.
 * **RAFT Input:** JSONL format, where each line is a JSON object containing text.
 * **RAFT Output (Raw):** JSON file with 'original', 'sampled', 'replacement_keys'.
 * **RAFT Output (Processed for Script 1):** CSV format with at least a column named `sampled_text` (or as configured by `RAFT_SAMPLED_COL_NAME`). Header assumed.
-* **SICO Data:** TSV files (`incontext.tsv`, `eval.tsv`, `test.tsv`) with columns 'input', 'human', 'ai'.
-* **SICO `generated_text.tsv`:** TSV file with columns 'input', 'SICO-output' used as input for detection.
-* **SICO `*_score.tsv`:** Single-column TSV file (no header) containing raw detection scores.
+
 
 ## Notes
 
@@ -153,4 +154,3 @@ Key parameters that can be modified in the scripts include:
 * Error handling is present but might need enhancement for robustness in different scenarios.
 * The SICO environment setup (Conda within Colab) can sometimes be fragile.
 * Ensure sufficient compute resources (RAM, GPU VRAM) are available, especially for larger models used in RAFT and SICO.
-* The interpretation of results depends on the goal: if RAFT successfully evades detection, scores for RAFT-modified text (label 0) should be lower (or closer to human scores) than scores for Original AI text (label 1), leading to good AUC/F1 performance for the *detector distinguishing between them*.
