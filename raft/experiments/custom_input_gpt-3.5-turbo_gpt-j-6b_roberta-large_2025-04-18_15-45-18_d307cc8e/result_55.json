@@ -1,9 +1,0 @@
-{
-    "original": "Once, a beautiful princess, fond of dancing and singing, stumbled upon a skeleton in the forest. Initially frightened, she quickly realized it was merely a tree marking and chuckled before resuming her joyful dance. And so, the princess continued her merriment with a heart full of laughter. The end.",
-    "sampled": "Once, a beautiful princess, fond of dancing and singing, stumbled upon a skeleton in the forest. Initially frightened, she quickly realized it was merely a tree marking and chuckled before resuming her joyful dance. And so, the princess continued her merriment with a heart full of laughter. The end.",
-    "replacement_keys": [],
-    "original_crit": 0.019595801830291748,
-    "sampled_crit": 0.019595801830291748,
-    "original_llm_likelihood": 0.019595801830291748,
-    "sampled_llm_likelihood": 0.019595801830291748
-}

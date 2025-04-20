@@ -1,9 +1,0 @@
-{
-    "original": "A quantum circuit has been developed to generate a pure state representing the quantum superposition of prime numbers below 2^n, utilizing Grover's algorithm with a quantum implementation of the Miller-Rabin primality test. This Prime state exhibits high entanglement, encoding number theoretical functions like twin prime distribution and Chebyshev bias. Incorporating the quantum Fourier transform enables an efficient estimation of the prime counting function, surpassing classical algorithms with minimal error to potentially verify the Riemann hypothesis. Additionally, a Twin Prime state is introduced for twin prime enumeration, and another state to test the Goldbach conjecture. Prime number arithmetic properties are theoretically verifiable on quantum systems, offering promising experimental potential.",
-    "sampled": "A quantum circuit has been developed to generate a pure state representing the quantum superposition of prime numbers below 2^n, utilizing Grover's algorithm with a quantum implementation of the Miller-Rabin primality test. This Prime state exhibits high entanglement, encoding number theoretical functions like twin prime distribution and Chebyshev bias. Incorporating the quantum Fourier transform enables an efficient estimation of the prime counting function, surpassing classical algorithms with minimal error to potentially verify the Riemann hypothesis. Additionally, a Twin Prime state is introduced for twin prime enumeration, and another state to test the Goldbach conjecture. Prime number arithmetic properties are theoretically verifiable on quantum systems, offering promising experimental potential.",
-    "replacement_keys": [],
-    "original_crit": 0.0023151293862611055,
-    "sampled_crit": 0.0023151293862611055,
-    "original_llm_likelihood": 0.0023151293862611055,
-    "sampled_llm_likelihood": 0.0023151293862611055
-}

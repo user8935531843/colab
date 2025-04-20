@@ -1,9 +1,0 @@
-{
-    "original": "Once, a swift and colorful train journeyed to a bustling station teeming with people. With its vibrant red and blue hues, the train sped through the serene and verdant countryside, only to mysteriously disappear into thin air!",
-    "sampled": "Once, a swift and colorful train journeyed to a bustling station teeming with people. With its vibrant red and blue hues, the train sped through the serene and verdant countryside, only to mysteriously disappear into thin air!",
-    "replacement_keys": [],
-    "original_crit": 0.5895969867706299,
-    "sampled_crit": 0.5895969867706299,
-    "original_llm_likelihood": 0.5895969867706299,
-    "sampled_llm_likelihood": 0.5895969867706299
-}

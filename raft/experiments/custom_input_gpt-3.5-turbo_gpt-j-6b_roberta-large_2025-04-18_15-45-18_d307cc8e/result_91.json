@@ -1,9 +1,0 @@
-{
-    "original": "Once, a small bug sought out juice to drink. The bug diligently searched the ground until it discovered a lovely flower filled with juice. After savoring the refreshing juice, the bug felt content and joyful. And so, the bug's quest for juice came to a delightful end.",
-    "sampled": "Once, a small bug sought out juice to drink. The bug diligently searched the ground until it discovered a lovely flower filled with juice. After savoring the refreshing juice, the bug felt content and joyful. And so, the bug's quest for juice came to a delightful end.",
-    "replacement_keys": [],
-    "original_crit": 0.043099720031023026,
-    "sampled_crit": 0.043099720031023026,
-    "original_llm_likelihood": 0.043099720031023026,
-    "sampled_llm_likelihood": 0.043099720031023026
-}

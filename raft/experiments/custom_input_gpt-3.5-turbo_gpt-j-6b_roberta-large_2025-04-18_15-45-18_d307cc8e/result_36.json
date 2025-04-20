@@ -1,9 +1,0 @@
-{
-    "original": "In a grassy field, a pale rabbit frolicked joyfully. Stumbling upon a large carrot during its skip, the rabbit's delight knew no bounds as it devoured the carrot before continuing its playful scamper. And so, the tale of the contented rabbit comes to a close.",
-    "sampled": "In a grassy field, a pale rabbit frolicked joyfully. Stumbling upon a large carrot during its skip, the rabbit's delight knew no bounds as it devoured the carrot before continuing its playful scamper. And so, the tale of the contented rabbit comes to a close.",
-    "replacement_keys": [],
-    "original_crit": 0.014789951033890247,
-    "sampled_crit": 0.014789951033890247,
-    "original_llm_likelihood": 0.014789951033890247,
-    "sampled_llm_likelihood": 0.014789951033890247
-}

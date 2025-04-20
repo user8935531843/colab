@@ -1,9 +1,0 @@
-{
-    "original": "There was a vibrant bird with red, blue, and yellow feathers that flew into a large steel cage, causing sadness and tears as it longed to soar freely once more.",
-    "sampled": "There was a vibrant bird with red, blue, and yellow feathers that flew into a large steel cage, causing sadness and tears as it longed to soar freely once more.",
-    "replacement_keys": [],
-    "original_crit": 0.11806491017341614,
-    "sampled_crit": 0.11806491017341614,
-    "original_llm_likelihood": 0.11806491017341614,
-    "sampled_llm_likelihood": 0.11806491017341614
-}

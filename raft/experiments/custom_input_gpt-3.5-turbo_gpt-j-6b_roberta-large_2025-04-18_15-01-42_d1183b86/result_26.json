@@ -1,9 +1,0 @@
-{
-    "original": "Origin of the text not provided.",
-    "sampled": "Origin of the text not provided.",
-    "replacement_keys": [],
-    "original_crit": 0.5375630259513855,
-    "sampled_crit": 0.5375630259513855,
-    "original_llm_likelihood": 0.5375630259513855,
-    "sampled_llm_likelihood": 0.5375630259513855
-}

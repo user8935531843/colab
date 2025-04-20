@@ -1,9 +1,0 @@
-{
-    "original": "AI",
-    "sampled": "AI",
-    "replacement_keys": [],
-    "original_crit": 0.7488138675689697,
-    "sampled_crit": 0.7488138675689697,
-    "original_llm_likelihood": 0.7488138675689697,
-    "sampled_llm_likelihood": 0.7488138675689697
-}

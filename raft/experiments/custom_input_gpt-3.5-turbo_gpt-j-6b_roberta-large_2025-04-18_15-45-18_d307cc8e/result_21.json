@@ -1,9 +1,0 @@
-{
-    "original": "In a park, there stood a grand tree with sprawling branches and an abundance of lush leaves. One day, a young girl arrived at the park with her mother.",
-    "sampled": "In a park, there stood a grand tree with sprawling branches and an abundance of lush leaves. One day, a young girl arrived at the park with her mother.",
-    "replacement_keys": [],
-    "original_crit": 0.4464557468891144,
-    "sampled_crit": 0.4464557468891144,
-    "original_llm_likelihood": 0.4464557468891144,
-    "sampled_llm_likelihood": 0.4464557468891144
-}

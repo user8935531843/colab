@@ -1,9 +1,0 @@
-{
-    "original": "Once, nestled in a tree, a small bird noticed an unusual occurrence. A grimy, red figure descended through the chimney, alarming the bird, causing it to swiftly take flight.",
-    "sampled": "Once, nestled in a tree, a small bird noticed an unusual occurrence. A grimy, red figure descended through the chimney, alarming the bird, causing it to swiftly take flight.",
-    "replacement_keys": [],
-    "original_crit": 0.20946383476257324,
-    "sampled_crit": 0.20946383476257324,
-    "original_llm_likelihood": 0.20946383476257324,
-    "sampled_llm_likelihood": 0.20946383476257324
-}

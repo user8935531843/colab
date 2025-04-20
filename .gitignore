@@ -9,10 +9,17 @@
 *.pt
 *.safetensors
 *.npy
+*.json
+*.jsonl
+*.csv
+*.tsv
+*.xlsx
+*.pdf
 
 # — duże pliki i assets —
 **/assets/**
 **/raft/assets/**
+raft/exp_main/results/**
 miniconda.sh
 
 # — notebooki, logi, configi —

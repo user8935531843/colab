@@ -1,9 +1,0 @@
-{
-    "original": "Once, a squirrel discovered a nut in a box and attempted to retrieve it. However, in its fervor to access the nut, the squirrel inadvertently damaged the box, resulting in an injury that prevented it from enjoying the treat. Ultimately, the squirrel's quest for the nut ended in disappointment.",
-    "sampled": "Once, a squirrel discovered a nut in a box and attempted to retrieve it. However, in its fervor to access the nut, the squirrel inadvertently damaged the box, resulting in an injury that prevented it from enjoying the treat. Ultimately, the squirrel's quest for the nut ended in disappointment.",
-    "replacement_keys": [],
-    "original_crit": 0.11858747154474258,
-    "sampled_crit": 0.11858747154474258,
-    "original_llm_likelihood": 0.11858747154474258,
-    "sampled_llm_likelihood": 0.11858747154474258
-}

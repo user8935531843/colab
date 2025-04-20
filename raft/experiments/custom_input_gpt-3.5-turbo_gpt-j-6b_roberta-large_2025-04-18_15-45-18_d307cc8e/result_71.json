@@ -1,9 +1,0 @@
-{
-    "original": "Once there was a young boy named Timmy who accompanied his mother to the store. Enthralled by a ball in the shop, Timmy desired to purchase it. His mother highlighted its entertainment value, prompting Timmy's delight as he threw the ball into the air, relishing the joy it brought.",
-    "sampled": "Once there was a young boy named Timmy who accompanied his mother to the store. Enthralled by a ball in the shop, Timmy desired to purchase it. His mother highlighted its entertainment value, prompting Timmy's delight as he threw the ball into the air, relishing the joy it brought.",
-    "replacement_keys": [],
-    "original_crit": 0.05797826871275902,
-    "sampled_crit": 0.05797826871275902,
-    "original_llm_likelihood": 0.05797826871275902,
-    "sampled_llm_likelihood": 0.05797826871275902
-}

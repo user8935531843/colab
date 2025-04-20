@@ -1,9 +1,0 @@
-{
-    "original": "No origin provided.",
-    "sampled": "No origin provided.",
-    "replacement_keys": [],
-    "original_crit": 0.4985056221485138,
-    "sampled_crit": 0.4985056221485138,
-    "original_llm_likelihood": 0.4985056221485138,
-    "sampled_llm_likelihood": 0.4985056221485138
-}

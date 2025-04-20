@@ -1,9 +1,0 @@
-{
-    "original": "Once, a farmer owned a vast field and numerous animals. One fine day, the farmer resolved to construct a barn for his livestock.",
-    "sampled": "Once, a farmer owned a vast field and numerous animals. One fine day, the farmer resolved to construct a barn for his livestock.",
-    "replacement_keys": [],
-    "original_crit": 0.2954263687133789,
-    "sampled_crit": 0.2954263687133789,
-    "original_llm_likelihood": 0.2954263687133789,
-    "sampled_llm_likelihood": 0.2954263687133789
-}
