@@ -1,0 +1,12 @@
+{
+    "original": "Once upon a time, in a serene town, Lily, a troubled little girl, searched for her lost toy, a triangle, in vain. However, a visit to the park led to her rediscovery of the toy in a puddle. Since that day, Lily cherished her triangle, sparking newfound joy in her heart. Tim, a spirited boy, embarked on a race in the park with his friend Sarah and emerged victorious, basking in the joy of their achievements. Max, a clever dog, sought advice from the wise owl on managing a knee injury, eventually learning the importance of listening to his body and enjoying playtime with friends once more. Fast driver Tim and his friend Sam enjoyed a thrilling ride in a loud car, culminating in a playful day at the park. Dependable, a trusted car, led a family to victory in a fun race, solidifying the bond shared between them. Tim, a hat-wearing boy, discovered a pencil and embarked on a creative journey, while Mia's bravery freed a captive bird, forging a lasting friendship and overflow of happiness.",
+    "sampled": "Once upon a time, in a serene town, Lily, a troubled little girl, searched for her lost toy, a triangle, in vain. However, a visit to the park led to her rediscovery of the toy in a puddle. Since that day, Lily cherished her triangle, sparking newfound joy in her heart. Tim, a spirited boy, embarked on a race in the park with his friend Sarah and emerged victorious, basking in the joy of their achievements. Max, a clever dog, sought advice from the wise owl on managing a knee injury, eventually learning the importance of listening to his body and enjoying playtime with friends once more. Rapid driver Tim and his friend Sam enjoyed a thrilling ride in a loud car, culminating in a playful day at the park. Dependable, a trusted car, led a family to victory in a fun race, solidifying the bond shared between them. Tim, a hat-wearing boy, discovered a pen and embarked on a creative journey, while Mia's bravery freed a captive bird, forging a lasting friendship and overflow of happiness.",
+    "replacement_keys": [
+        107,
+        155
+    ],
+    "original_crit": 0.0010386776411905885,
+    "sampled_crit": 0.0009149461984634399,
+    "original_llm_likelihood": 0.0010386776411905885,
+    "sampled_llm_likelihood": 0.0009149461984634399
+}

@@ -1,0 +1,12 @@
+{
+    "original": "In the jungle, Bob the monkey felt lonely as he watched other animals play. But when an elephant barged in, looking for his lost trunk, Bob was forced to help. However, the elephant grew angrier when they couldn't find his trunk and lashed out at Bob, leading him to flee. Similarly, Jack, feeling fatigued, found solace under a tree where a butterfly lifted his spirits. He left rejuvenated, grateful for the brief encounter. Meanwhile, Fred the robot embarked on a thrilling adventure to a colossal planet, meeting a friendly giant who guided him on an exploration. Lastly, Tom learned the value of sharing when he borrowed a stamp from a friend instead of taking what he didn't need. In another tale, Mia constructed shapes with blocks, impressing her father with her creativity. Lastly, a rude prince found companionship in a kind three-year-old girl, learning the power of kindness and mutual respect through their conversations.",
+    "sampled": "In the jungle, Bob the monkey felt lonely as he watched other animals play. But when an elephant barged in, looking for his lost trunk, Bob was forced to help. However, the elephant grew angrier when they couldn't find his trunk and lashed out at Bob, leading him to flee. Similarly, Jack, feeling exhausted, found solace under a tree where a butterfly lifted his spirits. He left rejuvenated, grateful for the brief encounter. Meanwhile, Fred the robot embarked on a thrilling adventure to a enormous planet, meeting a friendly giant who guided him on an exploration. Lastly, Tom learned the value of sharing when he borrowed a stamp from a friend instead of taking what he didn't need. In another tale, Mia constructed shapes with blocks, impressing her father with her creativity. Lastly, a rude prince found companionship in a kind three-year-old girl, learning the power of kindness and mutual respect through their conversations.",
+    "replacement_keys": [
+        53,
+        84
+    ],
+    "original_crit": 0.0016370425000786781,
+    "sampled_crit": 0.0011373736197128892,
+    "original_llm_likelihood": 0.0016370425000786781,
+    "sampled_llm_likelihood": 0.0011373736197128892
+}

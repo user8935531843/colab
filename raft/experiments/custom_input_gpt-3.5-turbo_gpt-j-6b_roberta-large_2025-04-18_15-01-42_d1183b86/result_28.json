@@ -1,0 +1,9 @@
+{
+    "original": "The input is missing required information to generate a response.",
+    "sampled": "The input is missing required information to generate a response.",
+    "replacement_keys": [],
+    "original_crit": 0.5280513763427734,
+    "sampled_crit": 0.5280513763427734,
+    "original_llm_likelihood": 0.5280513763427734,
+    "sampled_llm_likelihood": 0.5280513763427734
+}

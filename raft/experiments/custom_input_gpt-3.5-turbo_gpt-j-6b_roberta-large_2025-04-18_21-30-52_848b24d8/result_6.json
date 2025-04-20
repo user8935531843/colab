@@ -1,0 +1,15 @@
+{
+    "original": "Type IIb supernovae, a subcategory of core-collapse supernovae, present unique characteristics such as hydrogen lines in their early spectra that eventually fade. This study delves into discerning the observable attributes of Type IIb supernova progenitors to enhance comprehension of the processes underpinning these explosive events. By scrutinizing a dataset of Type IIb supernovae with known origins, discernible patterns in the characteristics of stars before detonation are identified. Notably, Type IIb supernova progenitors typically manifest as low-mass stars, with initial masses ranging from 3 to 20 solar masses, and often shed most of their hydrogen envelope prior to explosion. Furthermore, an evaluation of the metallicity levels of progenitor stars reveals a potential association with the material production and dissemination surrounding the supernova event. The implications of these findings are explored in relation to the broader population of Type IIb supernovae and potential correlations with other transient astronomical events. Through a meticulous analysis of observable properties of Type IIb supernova progenitors, this study sheds light on the intricate mechanisms guiding the final phases of massive star evolution and the ensuing explosive phenomena.",
+    "sampled": "Type IIb supernovae, a subcategory of core-collapse supernovae, present unique characteristics such as hydrogen lines in their early spectra that ultimately fade. This study delves into discerningly the observable attributes of Type IIb supernova progenitors to enhance comprehension of the processes underpinning these explosive events. By scrutinizing a dataset of Type IIb supernovae with known origins, discernible patterns in the characteristics of stars before detonation are identified. Significantly, Type IIb supernova progenitors typically manifest as low-mass stars, with initial masses ranging from 3 to 20 solar masses, and often shed most of their hydrogen envelope prior to explosion. Furthermore, an assessment of the metallicity levels of progenitor stars reveals a potential association with the material production and dissemination surrounding the supernova event. The implications of these findings are explored in relation to the broader population of Type IIb supernovae and potential correlations with other transient astronomical events. Through a meticulous analysis of observable properties of Type IIb supernova progenitors, this study sheds light on the intricate mechanisms directing the final phases of massive star evolution and the ensuing explosive phenomena.",
+    "replacement_keys": [
+        20,
+        26,
+        67,
+        100,
+        167
+    ],
+    "original_crit": 0.000895592151209712,
+    "sampled_crit": 0.0007870395202189684,
+    "original_llm_likelihood": 0.000895592151209712,
+    "sampled_llm_likelihood": 0.0007870395202189684
+}

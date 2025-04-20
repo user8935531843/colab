@@ -1,0 +1,12 @@
+{
+    "original": "The concepts of competition and cooperation hold significant importance in various facets of life and work, where children must learn to navigate both realms effectively. Competition involves individuals striving to gain an advantage over each other, whether in job applications or goal achievement scenarios. Conversely, cooperation entails individuals working together to achieve shared goals, be it solving problems or enjoying activities collectively. Children observe and learn about competition and cooperation by watching adults and peers engage in these behaviors. Competition can foster problem-solving skills but may lead to negative self-perception, while cooperation cultivates teamwork and empathy. Educating children to value cooperation alongside competition is crucial for their social development and future success. Embracing both competition and cooperation allows individuals to strike a balance, promoting healthy relationships and mutual growth.",
+    "sampled": "The concepts of contest and cooperation hold significant importance in various facets of life and work, where youngsters must learn to navigate both realms effectively. Competition involves individuals striving to gain an advantage over each other, whether in job applications or goal achievement scenarios. Conversely, cooperation entails individuals working together to achieve shared goals, be it solving problems or enjoying activities collectively. Children observe and learn about competition and cooperation by watching adults and peers engage in these behaviors. Competition can foster problem-solving skills but may lead to negative self-perception, while cooperation cultivates teamwork and empathy. Educating children to value cooperation alongside competition is crucial for their social development and future success. Embracing both competition and cooperation allows individuals to strike a balance, promoting healthy relationships and mutual growth.",
+    "replacement_keys": [
+        3,
+        17
+    ],
+    "original_crit": 0.002013619290664792,
+    "sampled_crit": 0.0014221265446394682,
+    "original_llm_likelihood": 0.002013619290664792,
+    "sampled_llm_likelihood": 0.0014221265446394682
+}

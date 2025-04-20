@@ -1,0 +1,15 @@
+{
+    "original": "Risk taking is inherent in human decision-making, as individuals often face dilemmas that require navigating through potential uncertainties. While embarking on strategic risks can lead to positive outcomes, individuals must exercise caution when contemplating these decisions. It is crucial to thoroughly evaluate the potential consequences of risky actions, as the outcomes can be unpredictable. For example, investing in a high-risk business venture may result in financial success or substantial losses, emphasizing the importance of informed decision-making. Engaging in risk-taking can offer lucrative rewards, but it also poses inherent uncertainties that must be carefully assessed. By conducting thorough research and weighing the potential outcomes, individuals can make informed decisions that align with their goals and aspirations. Ultimately, while risk-taking is an integral aspect of life, it is essential to approach it with a conscious understanding of the associated risks and rewards.",
+    "sampled": "Risk taking is inherent in human decision-making, as individuals often face dilemmas that require navigating through potential uncertainty. While embark on strategic risks can lead to positive outcomes, individuals must exercise caution when contemplating these decisions. It is crucial to meticulously evaluate the potential consequences of risky actions, as the outcomes can be unpredictable. For example, investing in a high-risk business venture may result in financial success or substantial losses, emphasizing the importance of informed decision-making. Engaging in risk-taking can offer lucratively rewards, but it also poses inherent uncertainty that must be carefully assessed. By conducting thorough research and weighing the potential outcomes, individuals can make informed decisions that align with their goals and aspirations. Ultimately, while risk-taking is an integral aspect of life, it is essential to approach it with a conscious understanding of the associated risks and rewards.",
+    "replacement_keys": [
+        17,
+        19,
+        40,
+        81,
+        88
+    ],
+    "original_crit": 0.0029932132456451654,
+    "sampled_crit": 0.0009969016537070274,
+    "original_llm_likelihood": 0.0029932132456451654,
+    "sampled_llm_likelihood": 0.0009969016537070274
+}

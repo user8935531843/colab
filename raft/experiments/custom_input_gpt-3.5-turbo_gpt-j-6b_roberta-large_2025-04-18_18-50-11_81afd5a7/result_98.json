@@ -1,0 +1,14 @@
+{
+    "original": "Emphasizing the importance of degree certificates to the point of being the primary determinant of one's advancement may potentially mislead young individuals. While a degree certificate signifies academic accomplishments, it falls short of encompassing all essential skills required for a prosperous career. Effective communication and teamwork abilities, crucial in professional environments, are not reflected solely by a degree certificate. Moreover, the capacity for creative thinking and problem-solving, pivotal for success across various domains, is not adequately represented by academic achievements. Numerous individuals have achieved remarkable success without possessing a formal degree. For instance, Bill Gates and Steve Jobs, renowned for founding Microsoft and Apple respectively, did not complete their college education. These visionaries have significantly impacted the world through their innovative thinking and problem-solving skills. Success in life can be attained through various avenues, with a degree certificate being just one of many possible paths. It is imperative to acknowledge that success is multifaceted, extending beyond academic qualifications to encompass a diverse range of skills and capabilities essential for a thriving career.",
+    "sampled": "Emphasizing the importance of degree certificates to the point of being the primary determinant of one's advancement may possibly mislead young individuals. While a degree certificate signifies academic accomplishments, it falls short of all-encompassing all essential skills required for a wealth career. Effective communication and teamwork abilities, crucial in professional environments, are not reflected solely by a degree certificate. Moreover, the capacity for creative thinking and problem-solving, pivotal for success across various domains, is not adequately represented by academic achievements. Many individuals have achieved remarkable success without possessing a formal degree. For instance, Bill Gates and Steve Jobs, renowned for founding Microsoft and Apple respectively, did not complete their college education. These visionaries have significantly impacted the world through their innovative thinking and problem-solving skills. Success in life can be attained through various avenues, with a degree certificate being just one of many possible paths. It is imperative to acknowledge that success is multifaceted, extending beyond academic qualifications to encompass a diverse range of skills and capabilities essential for a thriving career.",
+    "replacement_keys": [
+        18,
+        33,
+        40,
+        80
+    ],
+    "original_crit": 0.0004616658843588084,
+    "sampled_crit": 0.0004501726943999529,
+    "original_llm_likelihood": 0.0004616658843588084,
+    "sampled_llm_likelihood": 0.0004501726943999529
+}

@@ -1,0 +1,11 @@
+{
+    "original": "A car, due to excessive speed, met with an unfortunate accident, rendering it irreparable. The driver, who never allowed anyone else to operate the vehicle, was left devastated by the loss.",
+    "sampled": "A suv, due to excessive speed, met with an unfortunate accident, rendering it irreparable. The driver, who never allowed anyone else to operate the vehicle, was left devastated by the loss.",
+    "replacement_keys": [
+        1
+    ],
+    "original_crit": 0.6958562135696411,
+    "sampled_crit": 0.5339187383651733,
+    "original_llm_likelihood": 0.6958562135696411,
+    "sampled_llm_likelihood": 0.5339187383651733
+}

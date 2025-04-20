@@ -1,0 +1,11 @@
+{
+    "original": "In a fairy tale land, resided a young girl named Lily, who cherished her beloved toy, Teddy. Teddy accompanied Lily on all her adventures, filling her heart with joy. During a playful outing at the park, Lily lost Teddy, prompting her to search diligently but alas, Teddy remained elusive.",
+    "sampled": "In a fairy tale land, inhabited a young girl named Lily, who cherished her beloved toy, Teddy. Teddy accompanied Lily on all her adventures, filling her heart with joy. During a playful outing at the park, Lily lost Teddy, prompting her to search diligently but alas, Teddy remained elusive.",
+    "replacement_keys": [
+        5
+    ],
+    "original_crit": 0.007159046828746796,
+    "sampled_crit": 0.005619503557682037,
+    "original_llm_likelihood": 0.007159046828746796,
+    "sampled_llm_likelihood": 0.005619503557682037
+}

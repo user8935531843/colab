@@ -1,0 +1,14 @@
+{
+    "original": "The concept of secure w-domination in graphs has been extensively studied, especially in the context of protecting lexicographic product graphs. Defined by a function that assigns weights to vertices based on neighboring interactions, w-domination ensures a minimum weight sum for all vertices in the graph. A secure w-domination function adds an additional layer of protection, requiring that every vertex with a weight of zero has a neighboring vertex with a positive weight, maintaining the graph's w-domination property. This study explores the application of w-domination concepts in lexicographic product graphs, which are formed by combining two graphs. By establishing conditions under which these graphs can be securely w-dominated, researchers aim to enhance the security and resilience of complex network structures. Through innovative analyses and simulations, the study unveils insights into the effectiveness of secure w-domination in safeguarding against malicious attacks or network failures, shedding light on future research opportunities in graph and network protection protocols.",
+    "sampled": "The concept of safeguarded w-domination in graphs has been extensively studied, especially in the context of guarding lexicographic product graphs. Defined by a function that assigns weights to vertices based on nearby interactions, w-domination ensures a minimum weight sum for all vertices in the graph. A secure w-domination function adds an additional layer of protection, requiring that every vertex with a weight of zero has a neighboring vertex with a positive weight, sustaining the graph's w-domination property. This study explores the application of w-domination concepts in lexicographic product graphs, which are formed by combining two graphs. By establishing conditions under which these graphs can be securely w-dominated, researchers aim to enhance the security and resilience of complex network structures. Through innovative analyses and simulations, the study unveils insights into the effectiveness of secure w-domination in safeguarding against malicious attacks or network failures, shedding light on future research opportunities in graph and network protection protocols.",
+    "replacement_keys": [
+        3,
+        16,
+        31,
+        72
+    ],
+    "original_crit": 0.002054607728496194,
+    "sampled_crit": 0.0007780485902912915,
+    "original_llm_likelihood": 0.002054607728496194,
+    "sampled_llm_likelihood": 0.0007780485902912915
+}

@@ -1,0 +1,15 @@
+{
+    "original": "The debate over whether or not famous individuals are treated unfairly by the media is a contentious issue that is subject to personal viewpoints. While some argue that celebrities voluntarily place themselves in the public eye and should expect a lack of privacy, others contend that famous figures, like everyday individuals, have a right to privacy. The media's relentless focus on negative aspects of a celebrity's life, the publication of private information without consent, and the pervasive intrusion of paparazzi all contribute to their unfair treatment. This constant scrutiny not only affects their reputation but also has detrimental effects on their mental health and well-being. While fame may come with heightened scrutiny, celebrities should still be entitled to a certain level of privacy and respect in the media. The media should aim to highlight positive aspects of their lives and refrain from exploiting private moments without consent. Ultimately, the treatment of famous individuals by the media should be more balanced and respectful, recognizing their humanity and right to privacy.",
+    "sampled": "The discussion over whether or not renowned individuals are treated unfairly by the media is a contentious issue that is subject to personal perspectives. While some argue that celebrities voluntarily place themselves in the public eye and should expect a lack of privacy, others contend that famous figures, like everyday individuals, have a right to privacy. The media's relentless focus on negative aspects of a celebrity's life, the publication of private information without consent, and the pervasiveness intrusion of paparazzi all contribute to theirs unfair treatment. This constant scrutiny not only affects their reputation but also has detrimental effects on their mental health and well-being. While fame may come with heightened scrutiny, celebrities should still be entitled to a certain level of privacy and respect in the media. The media should aim to highlight positive aspects of their lives and refrain from exploiting private moments without consent. Ultimately, the treatment of famous individuals by the media should be more balanced and respectful, recognizing their humanity and right to privacy.",
+    "replacement_keys": [
+        1,
+        6,
+        23,
+        76,
+        83
+    ],
+    "original_crit": 0.0017262931214645505,
+    "sampled_crit": 0.00045726035023108125,
+    "original_llm_likelihood": 0.0017262931214645505,
+    "sampled_llm_likelihood": 0.00045726035023108125
+}

@@ -1,0 +1,9 @@
+{
+    "original": "nan",
+    "sampled": "nan",
+    "replacement_keys": [],
+    "original_crit": 0.7549465298652649,
+    "sampled_crit": 0.7549465298652649,
+    "original_llm_likelihood": 0.7549465298652649,
+    "sampled_llm_likelihood": 0.7549465298652649
+}

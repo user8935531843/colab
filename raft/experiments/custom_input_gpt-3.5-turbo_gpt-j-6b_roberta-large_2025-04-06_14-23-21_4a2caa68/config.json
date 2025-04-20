@@ -1,0 +1,19 @@
+{
+    "dataset": "custom_input",
+    "data_generator_llm": "gpt-3.5-turbo",
+    "proxy_model": "gpt-j-6b",
+    "proxy_type": "next-token-generation",
+    "mask_pct": 0.2,
+    "detector": "roberta-large",
+    "output_path": "./experiments/",
+    "dataset_dir": "./datasets",
+    "timestamp_created": "2025-04-06 14:23:21.651855",
+    "candidate_generation": "gpt-3.5-turbo",
+    "local_llm_model_id": null,
+    "sentence_similarity_threshold": 0.85,
+    "word_semantic_threshold": 0.65,
+    "experiment_name": "custom_input_gpt-3.5-turbo_gpt-j-6b_roberta-large_2025-04-06_14-23-21_4a2caa68",
+    "experiment_path": "./experiments/custom_input_gpt-3.5-turbo_gpt-j-6b_roberta-large_2025-04-06_14-23-21_4a2caa68",
+    "grammar_tool": "language_tool_python",
+    "antonym_check": true
+}

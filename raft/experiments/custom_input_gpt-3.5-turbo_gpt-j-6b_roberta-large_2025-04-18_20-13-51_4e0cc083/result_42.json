@@ -1,0 +1,12 @@
+{
+    "original": "Teaching children to compete versus cooperate is a topic that sparks debate, with valuable arguments on both sides. Competition can lead to increased motivation and drive to excel, but it may also foster negative emotions and hinder overall development. On the contrary, cooperation instills teamwork skills, boosts academic success, and nurtures positive self-esteem. It is crucial for children to learn both competitive and cooperative skills to navigate successfully in various aspects of life. While competition may enhance skill development, cooperation lays a strong foundation for effective teamwork and problem-solving. In essence, a balanced approach incorporating both competitive and cooperative learning methods is essential for children to thrive and succeed in today's society.",
+    "sampled": "Teaching children to compete versus cooperate is a topic that sparks debate, with valuable arguments on both sides. Contest can lead to increased motivation and drive to excel, but it may also foster negative emotions and hinder overall development. On the contrary, cooperation instills teamwork skills, boosts academic success, and nurtures positive self-esteem. It is crucial for children to learn both competitive and cooperative skills to navigate successfully in numerous aspects of life. While competition may enhance skill development, cooperation lays a strong foundation for effective teamwork and problem-solving. In essence, a balanced approach incorporating both competitive and cooperative learning methods is essential for children to thrive and succeed in today's society.",
+    "replacement_keys": [
+        18,
+        69
+    ],
+    "original_crit": 0.00237213890068233,
+    "sampled_crit": 0.0011447917204350233,
+    "original_llm_likelihood": 0.00237213890068233,
+    "sampled_llm_likelihood": 0.0011447917204350233
+}

@@ -1,0 +1,12 @@
+{
+    "original": "This study explores the impact of magnetic field orientation on the launching of jets in binary neutron star mergers utilizing magnetohydrodynamic simulations in general relativity. The orientation of the magnetic field significantly influences the dynamics and stability of the jet launching process, determining the speed and stability of the resulting jets. Our findings reveal that aligned magnetic fields lead to faster and more stable jet formations, while anti-aligned magnetic fields hinder the launching process, resulting in slower and less stable jets. Additionally, the magnetic field affects the global accretion flow of the merger, influencing the accretion rate and the location of the accretion shock, which in turn impacts the jet launch and evolution. The study also examines the correlation between magnetic field strength and jet launch properties, demonstrating that stronger magnetic fields produce faster and more stable jets. These results provide valuable insights into the phenomena associated with binary neutron star mergers and shed light on the jet launching process with broad astrophysical implications.",
+    "sampled": "This study explores the impact of magnetic field orientation on the launching of jets in binary neutron star mergers utilizing magnetohydrodynamic simulations in general relativity. The orientation of the magnetic field noticeably influences the dynamics and stability of the jet launching process, determining the speedy and stability of the resulting jets. Our findings reveal that aligned magnetic fields lead to faster and more stable jet formations, while anti-aligned magnetic fields hinder the launching process, resulting in slower and less stable jets. Additionally, the magnetic field affects the global accretion flow of the merger, influencing the accretion rate and the location of the accretion shock, which in turn impacts the jet launch and evolution. The study also examines the correlation between magnetic field strength and jet launch properties, demonstrating that stronger magnetic fields produce faster and more stable jets. These results provide valuable insights into the phenomena associated with binary neutron star mergers and shed light on the jet launching process with broad astrophysical implications.",
+    "replacement_keys": [
+        31,
+        44
+    ],
+    "original_crit": 0.0006952006951905787,
+    "sampled_crit": 0.0005213472177274525,
+    "original_llm_likelihood": 0.0006952006951905787,
+    "sampled_llm_likelihood": 0.0005213472177274525
+}

@@ -1,0 +1,11 @@
+{
+    "original": "Verification of robustness in deep neural networks poses a significant challenge, especially in image recognition, natural language processing, and autonomous driving applications. Addressing this challenge, we introduce a novel approach for enhancing neural network verification through spurious region guided refinement. This method involves identifying regions in the input space where the network may yield incorrect predictions, termed as spurious regions, and iteratively refining the network to enhance its accuracy in these regions. Our experimental results demonstrate the effectiveness of this approach on various benchmarks, showcasing superior verification accuracy compared to existing methods. Moreover, we analyze the discovered spurious regions and highlight how they offer valuable insights into network behavior. Our proposed method represents a crucial step towards enhancing the reliability and verifiability of neural networks, particularly in safety-critical applications.",
+    "sampled": "Verification of robustness in deepnesses neural networks poses a significant challenge, especially in image recognition, natural language processing, and autonomous driving applications. Addressing this challenge, we introduce a novel approach for enhancing neural network verification through spurious region guided refinement. This method involves identifying regions in the input space where the network may yield incorrect predictions, termed as spurious regions, and iteratively refining the network to enhance its accuracy in these regions. Our experimental results demonstrate the effectiveness of this approach on various benchmarks, showcasing superior verification accuracy compared to existing methods. Moreover, we analyze the discovered spurious regions and highlight how they offer valuable insights into network behavior. Our proposed method represents a crucial step towards enhancing the reliability and verifiability of neural networks, particularly in safety-critical applications.",
+    "replacement_keys": [
+        4
+    ],
+    "original_crit": 0.0008797177579253912,
+    "sampled_crit": 0.0007490834104828537,
+    "original_llm_likelihood": 0.0008797177579253912,
+    "sampled_llm_likelihood": 0.0007490834104828537
+}

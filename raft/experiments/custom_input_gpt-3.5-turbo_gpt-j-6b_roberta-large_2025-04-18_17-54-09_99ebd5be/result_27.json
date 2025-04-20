@@ -1,0 +1,14 @@
+{
+    "original": "The traditional Chinese practice of not informing cancer patients about their diagnosis should be reconsidered in light of modernization and ethical considerations. Cancer patients have the fundamental right to be informed about their health status and prognosis to make informed decisions about their treatment and overall well-being. Concealing such critical information can inflict unnecessary emotional distress and worry upon patients, hindering their ability to cope with their condition effectively. Furthermore, the advancements in modern medicine have significantly improved the prognosis and quality of life for cancer patients, offering hope and extended survival rates. In light of these factors, it is imperative to align with contemporary principles of transparency and patient autonomy by advocating for the disclosure of accurate information to cancer patients. As such, updating traditional practices surrounding cancer patient communication is essential in promoting patient empowerment, reducing suffering, and enhancing the overall care experience within the healthcare system.",
+    "sampled": "The traditional Chinese practice of not informing malignancy patients about their diagnosis should be reconsidered in light of modernization and morally considerations. Cancer patients have the fundamental right to be informed about their health status and prognosis to make informed decisions about their treatment and overall well-being. Veiling such critical information can inflict unnecessary emotional distress and concern upon patients, hindering their ability to cope with their condition effectively. Furthermore, the advancements in modern medicine have significantly improved the prognosis and quality of life for cancer patients, offering hope and extended survival rates. In light of these factors, it is imperative to align with contemporary principles of transparency and patient autonomy by advocating for the disclosure of accurate information to cancer patients. As such, updating traditional practices surrounding cancer patient communication is essential in promoting patient empowerment, reducing suffering, and enhancing the overall care experience within the healthcare system.",
+    "replacement_keys": [
+        7,
+        20,
+        47,
+        57
+    ],
+    "original_crit": 0.0005510185146704316,
+    "sampled_crit": 0.0004534229519777,
+    "original_llm_likelihood": 0.0005510185146704316,
+    "sampled_llm_likelihood": 0.0004534229519777
+}

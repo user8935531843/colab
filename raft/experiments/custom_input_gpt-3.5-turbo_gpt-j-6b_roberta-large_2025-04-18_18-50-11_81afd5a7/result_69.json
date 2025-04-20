@@ -1,0 +1,14 @@
+{
+    "original": "Education plays a foundational role in societal success, shaping individuals into well-rounded beings by instilling knowledge and critical thinking skills. A crucial aspect of education lies in comprehending ideas and concepts rather than mere memorization of facts. Understanding ideas and concepts fosters critical thinking abilities, enabling students to analyze, evaluate, and draw conclusions–essential skills applicable across disciplines and life situations. Unlike facts that are easily forgotten, a deep understanding of ideas and concepts provides lasting insights and the ability to make connections between different fields of knowledge. By grasping concepts like gravity, students can bridge disciplines such as physics and astronomy, enhancing their overall education. Furthermore, understanding ideas and concepts equips students to apply their knowledge to practical, real-world scenarios, particularly in fields like science where creative problem-solving is paramount. In essence, prioritizing the understanding of ideas and concepts over rote memorization of facts enriches students' critical thinking abilities, fosters interdisciplinary connections, and empowers them to apply knowledge effectively in diverse contexts.",
+    "sampled": "Education plays a foundation role in society success, shaping individuals into well-rounded humans by instilling knowledge and critical thinking skills. A crucial aspect of education lies in comprehending ideas and concepts rather than mere memorization of facts. Understanding ideas and concepts fosters critical thinking abilities, enabling students to analyze, evaluate, and draw conclusions–essential skills applicable across disciplines and life situations. Unlike facts that are easily forgotten, a deep understanding of ideas and concepts provides lasting insights and the ability to make connections between different fields of knowledge. By grasping concepts like gravity, students can bridge disciplines such as physics and astronomy, enhancing their overall education. Furthermore, understanding ideas and concepts equips students to apply their knowledge to practical, real-world scenarios, notably in fields like science where creative problem-solving is paramount. In essence, prioritizing the understanding of ideas and concepts over rote memorization of facts enriches students' critical thinking abilities, fosters interdisciplinary connections, and empowers them to apply knowledge effectively in diverse contexts.",
+    "replacement_keys": [
+        3,
+        6,
+        12,
+        120
+    ],
+    "original_crit": 0.0005057386588305235,
+    "sampled_crit": 0.0004843282513320446,
+    "original_llm_likelihood": 0.0005057386588305235,
+    "sampled_llm_likelihood": 0.0004843282513320446
+}

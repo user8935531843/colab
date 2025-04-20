@@ -1,0 +1,9 @@
+{
+    "original": "Once, a kitty with soft fur enjoyed playing with yarn. One day, the kitty discovered a lifeless mouse and kindly placed it outside. And so, the story of the kitty and the mouse came to a peaceful end.",
+    "sampled": "Once, a kitty with soft fur enjoyed playing with yarn. One day, the kitty discovered a lifeless mouse and kindly placed it outside. And so, the story of the kitty and the mouse came to a peaceful end.",
+    "replacement_keys": [],
+    "original_crit": 0.6700999736785889,
+    "sampled_crit": 0.6700999736785889,
+    "original_llm_likelihood": 0.6700999736785889,
+    "sampled_llm_likelihood": 0.6700999736785889
+}

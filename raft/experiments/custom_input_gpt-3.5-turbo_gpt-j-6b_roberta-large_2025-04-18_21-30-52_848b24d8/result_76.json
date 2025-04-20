@@ -1,0 +1,13 @@
+{
+    "original": "The reduced-density-matrix (RDM) theory offers a robust framework for analyzing the electronic structure of molecular systems by incorporating correlation and relaxation effects. The issue of size-consistency within the RDM method has been a point of contention within quantum chemistry. This study explores the source of this inconsistency and proposes a resolution method utilizing the unitary invariant diagonal $N$-representability conditions, which are applicable to any $N$-particle system. These conditions ensure the compatibility of subsystem RDMs and enable the construction of a size-consistent RDM for the entire system. Furthermore, the $N$-representability conditions can be leveraged to develop efficient algorithms for computing RDMs in large molecules. Through numerical experiments, our approach demonstrates size-consistent energy calculations for diverse chemical systems, even those with significant electronic correlation, and proves to be computationally achievable for systems with numerous atoms. This research establishes a theoretical groundwork for enhancing the precision and efficacy of the RDM method, with profound implications for the advancement of quantum chemistry.",
+    "sampled": "The reduced-density-matrix (RDM) theory offers a robust framework for analyzing the electronic structure of molecular systems by incorporating correlation and relaxation effects. The issue of size-consistency within the RDM method has been a point of contention within quantum chemistry. This study explores the source of this inconsistency and proposes a resolution approach utilizing the unitary invariant diagonal $N$-representability conditions, which are applicable to any $N$-particle system. These conditions ensure the compatibility of subsystem RDMs and enable the construction of a size-consistent RDM for the entire system. Furthermore, the $N$-representability conditions can be leveraged to develop efficient algorithms for computing RDMs in large molecules. Through numerical experiments, our approach demonstrates size-consistent power calculations for diverse chemical systems, even those with significant electronic correlation, and proves to be computationally achievable for systems with many atoms. This research establishes a theoretical groundwork for enhancing the precision and efficacy of the RDM method, with profound implications for the advancement of quantum chemistry.",
+    "replacement_keys": [
+        51,
+        110,
+        131
+    ],
+    "original_crit": 0.003625317942351103,
+    "sampled_crit": 0.0026438094209879637,
+    "original_llm_likelihood": 0.003625317942351103,
+    "sampled_llm_likelihood": 0.0026438094209879637
+}

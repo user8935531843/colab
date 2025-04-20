@@ -1,0 +1,11 @@
+{
+    "original": "Once, a duck was walking in the darkness when it was unexpectedly taken by a malefactor. The duck, overwhelmed with sadness and fear, never returned after being taken away. The tale concludes with the unfortunate disappearance of the duck at the hands of the wrongdoer.",
+    "sampled": "Once, a duck was walking in the darkness when it was unexpectedly taken by a malefactor. The duck, overwhelmed with sadness and fear, never returned after being taken away. The tale concludes with the unfortunate disappear of the duck at the hands of the wrongdoer.",
+    "replacement_keys": [
+        35
+    ],
+    "original_crit": 0.8849682807922363,
+    "sampled_crit": 0.7724045515060425,
+    "original_llm_likelihood": 0.8849682807922363,
+    "sampled_llm_likelihood": 0.7724045515060425
+}

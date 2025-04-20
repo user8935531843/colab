@@ -1,0 +1,13 @@
+{
+    "original": "A green plane soared through the sky, with the pilot spotting a cloud and daringly flying through it. As water began filling the interior of the plane, fear gripped the pilot. However, he skillfully guided the plane to a safe landing, averting disaster.",
+    "sampled": "A green aircraft soared through the sky, with the pilot spotting a cloud and daringly flying through it. As water began filling the interior of the plane, phobia gripped the pilot. However, he masterfully guided the plane to a safe landing, averting disaster.",
+    "replacement_keys": [
+        2,
+        27,
+        33
+    ],
+    "original_crit": 0.1311454027891159,
+    "sampled_crit": 0.06764030456542969,
+    "original_llm_likelihood": 0.1311454027891159,
+    "sampled_llm_likelihood": 0.06764030456542969
+}

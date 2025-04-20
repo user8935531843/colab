@@ -1,0 +1,13 @@
+{
+    "original": "A tale is spun about a mommy and her toddler, as they embark on a journey of practicing yoga together. The toddler struggles to touch his toes initially, but with encouragement and perseverance from mommy, he eventually succeeds. A story unfolds about a three-year-old girl who immerses herself in the world of books, particularly exploring a large history book. Encouraged by the librarian, she delves into the realm of history and gains a wealth of knowledge. Lucy, a curious three-year-old, finds herself in a confusing situation at a mysterious stage show. Despite feeling helpless, she learns a valuable lesson about wandering too far. Andy, a hairy panda, stumbles upon a strange cave filled with bamboo and encounters a fellow panda in need of help, showcasing the importance of teamwork and companionship. Finally, two adventurous brothers, Billy and Joe, encounter a glowing ball of light in the woods, embarking on a thrilling adventure that leaves them excited for more. Each of these tales carries a moral lesson about perseverance, learning, wisdom, compassion, teamwork, and curiosity, illustrating the power of practice, patience, and companionship in overcoming challenges and embracing new experiences.",
+    "sampled": "A tale is spun about a mommy and her toddler, as they embark on a journey of practicing yoga together. The toddler struggles to touch his toes firstly, but with encouragement and perseverance from mommy, he eventually succeeds. A story unfolds about a three-year-old girl who immerses herself in the world of books, particularly exploring a large history book. Encouraged by the librarian, she delves into the realm of history and gains a wealth of knowledge. Lucy, a curious three-year-old, finds herself in a confusing situation at a mysterious stage show. Despite feeling helpless, she learns a valuable lesson about wandering too far. Andy, a hairy panda, stumbles upon a strange cave filled with bamboo and encounters a fellow panda in need of help, presenting the importance of teamwork and companionship. Finally, two adventurous brothers, Billy and Joe, encounter a luminous ball of light in the woods, embarking on a thrilling adventure that leaves them excited for more. Each of these tales carries a moral lesson about perseverance, learning, wisdom, compassion, teamwork, and curiosity, illustrating the power of practice, patience, and companionship in overcoming challenges and embracing new experiences.",
+    "replacement_keys": [
+        27,
+        124,
+        140
+    ],
+    "original_crit": 0.06332148611545563,
+    "sampled_crit": 0.031160254031419754,
+    "original_llm_likelihood": 0.06332148611545563,
+    "sampled_llm_likelihood": 0.031160254031419754
+}

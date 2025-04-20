@@ -1,0 +1,13 @@
+{
+    "original": "Spectral graph filters have garnered significant attention in signal processing, computer vision, and machine learning domains. However, the issue of spectral graph filter transferability across diverse datasets and domains remains a key concern. In this study, the transferability of four widely used spectral graph filtering methods is examined across various datasets, encompassing social and biological networks. The evaluation focuses on the robustness, stability, and generalization of spectral graph filters across datasets. The findings indicate that while spectral graph filters are generally transferable across datasets, the level of transferability varies based on the specific filtering method and dataset under consideration. Moreover, incorporating additional domain-specific information, such as node features or labels, can enhance transferability performance. This study sheds light on the generalization of spectral graph filtering methods and presents potential avenues for future research in this area.",
+    "sampled": "Spectral graph filters have obtained significant attention in signal processing, computer vision, and machine learning domains. However, the issue of spectral graph filter transferability across diverse datasets and domains remains a key concern. In this study, the transferability of four widely used spectral graph filtering methods is examined across various datasets, all-encompassing social and biological networks. The evaluation focuses on the robustness, stability, and generalization of spectral graph filters across datasets. The findings indicate that while spectral graph filters are generally transferable across datasets, the level of transferability varies based on the specific filtering method and dataset under consideration. Moreover, incorporating additional domain-specific information, such as node features or labels, can enhance transferability efficiency. This study sheds light on the generalization of spectral graph filtering methods and presents potential avenues for future research in this area.",
+    "replacement_keys": [
+        4,
+        51,
+        113
+    ],
+    "original_crit": 0.0016092093428596854,
+    "sampled_crit": 0.0011843048268929124,
+    "original_llm_likelihood": 0.0016092093428596854,
+    "sampled_llm_likelihood": 0.0011843048268929124
+}

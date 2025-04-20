@@ -1,0 +1,9 @@
+{
+    "original": "Optical coherence tomography (OCT) angiography is a widely-used imaging technique for assessing tissue vascular morphology and blood flow dynamics. A modified scanning based correlation mapping OCT (cmOCT) using a high-speed swept source OCT system operating at 1300 nm was developed in this study to demonstrate its wide field imaging capability in ocular angiographic studies. The feasibility of using cmOCT for in vivo microcirculation imaging applications was evaluated using a 200 kHz VCSEL source in a rabbit ear model. The results showcase the technique's ability to visualize microvascular systems with high resolution and contrast, indicating its potential for clinical applications in assessing microcirculation disorders.",
+    "sampled": "Optical coherence tomography (OCT) angiography is a widely-used imaging technique for assessing tissue vascular morphology and blood flow dynamics. A modified scanning based correlation mapping OCT (cmOCT) using a high-speed swept source OCT system operating at 1300 nm was developed in this study to demonstrate its wide field imaging capability in ocular angiographic studies. The feasibility of using cmOCT for in vivo microcirculation imaging applications was evaluated using a 200 kHz VCSEL source in a rabbit ear model. The results showcase the technique's ability to visualize microvascular systems with high resolution and contrast, indicating its potential for clinical applications in assessing microcirculation disorders.",
+    "replacement_keys": [],
+    "original_crit": 0.010710639879107475,
+    "sampled_crit": 0.010710639879107475,
+    "original_llm_likelihood": 0.010710639879107475,
+    "sampled_llm_likelihood": 0.010710639879107475
+}

@@ -1,0 +1,9 @@
+{
+    "original": "Mommy intended to cook but encountered a setback when she found the refrigerator broken. Unable to retrieve any ingredients, Daddy intervened, successfully repairing the refrigerator with a tool. With the refrigerator fixed, Mommy prepared a delightful dinner for the family, resulting in a joyous and satisfying meal that brought happiness to all.",
+    "sampled": "Mommy intended to cook but encountered a setback when she found the refrigerator broken. Unable to retrieve any ingredients, Daddy intervened, successfully repairing the refrigerator with a tool. With the refrigerator fixed, Mommy prepared a delightful dinner for the family, resulting in a joyous and satisfying meal that brought happiness to all.",
+    "replacement_keys": [],
+    "original_crit": 0.01732271909713745,
+    "sampled_crit": 0.01732271909713745,
+    "original_llm_likelihood": 0.01732271909713745,
+    "sampled_llm_likelihood": 0.01732271909713745
+}

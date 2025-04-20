@@ -1,0 +1,11 @@
+{
+    "original": "An innovative network meta-architecture has been developed to learn world dynamics from raw, continuous video, facilitating the understanding of common-sense visual knowledge in various environments. Leveraging prediction over time, signal dimensionality reduction, and contextual information for prediction, this architecture offers scalability and parallelization, with components implemented using multi-layer perceptrons. The network demonstrates exceptional performance in stable and robust visual tracking, with results surpassing state-of-the-art tracking algorithms. It can be trained in supervised or unsupervised-then-briefly-supervised regimes, indicating the valuable insights extracted by the unsupervised phase about visual reality. This model represents a novel class of AI algorithms that uniquely blend prediction and scalability, making them well-suited for real-world applications, thereby contributing significantly to the realm of artificial intelligence.",
+    "sampled": "An innovative network meta-architecture has been developed to learn world dynamics from raw, continuous video, facilitating the understanding of common-sense visual knowledge in various environments. Leveraging forecast over time, signal dimensionality reduction, and contextual information for prediction, this architecture offers scalability and parallelization, with components implemented using multi-layer perceptrons. The network demonstrates exceptional performance in stable and robust visual tracking, with results surpassing state-of-the-art tracking algorithms. It can be trained in supervised or unsupervised-then-briefly-supervised regimes, indicating the valuable insights extracted by the unsupervised phase about visual reality. This model represents a novel class of AI algorithms that uniquely blend prediction and scalability, making them well-suited for real-world applications, thereby contributing significantly to the realm of artificial intelligence.",
+    "replacement_keys": [
+        26
+    ],
+    "original_crit": 0.23336872458457947,
+    "sampled_crit": 0.0979485958814621,
+    "original_llm_likelihood": 0.23336872458457947,
+    "sampled_llm_likelihood": 0.0979485958814621
+}

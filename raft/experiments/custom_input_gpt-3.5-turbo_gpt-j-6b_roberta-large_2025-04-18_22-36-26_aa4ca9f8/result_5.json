@@ -1,0 +1,15 @@
+{
+    "original": "The study of influential nodes in information networks has significant implications in biology, medicine, and social science domains, aiding in the control of viral spread and rumor propagation in real-world networks. To address limitations in existing methods that rely on local network features and overlook diffusion dynamics, a new randomized sampling algorithm was introduced in this study. The algorithm incorporates both local and global structural network attributes and considers underlying diffusion dynamics and parameters. Through reachability assessments in a set of random graphs, the influentiality of nodes is measured, leveraging a hypergraph for approximation. The proposed method demonstrated superior performance in ranking influential nodes, showcasing a high level of uniqueness and uniformity. The approach's competitive running time, as confirmed by theoretical and practical analyses, adds to its effectiveness in complex network studies. By integrating dynamic-sensitive strategies into the assessment of influential node ranking, this research contributes to a deeper exploration of complex network dynamics.",
+    "sampled": "The study of influential nodes in information networks has significant implications in biology, medicine, and social science domains, assisting in the control of viral spread and rumor propagation in real-world networks. To address limitations in existing methods that rely on local network features and overlook diffusion dynamics, a new randomly sampling algorithm was introduced in this study. The algorithm incorporates both local and global structural network attributes and considers underlying diffusion dynamics and parameters. Through reachability assessments in a set of random graphs, the influentiality of nodes is measured, leveraging a hypergraph for approximation. The proposed method demonstrated superior performance in ranking influential nodes, exhibiting a high level of distinctiveness and uniformness. The approach's competitive running time, as confirmed by theoretical and practical analyses, adds to its effectiveness in complex network studies. By integrating dynamic-sensitive strategies into the assessment of influential node ranking, this research contributes to a deeper exploration of complex network dynamics.",
+    "replacement_keys": [
+        18,
+        49,
+        104,
+        109,
+        111
+    ],
+    "original_crit": 0.00371871842071414,
+    "sampled_crit": 0.0016767316265031695,
+    "original_llm_likelihood": 0.00371871842071414,
+    "sampled_llm_likelihood": 0.0016767316265031695
+}

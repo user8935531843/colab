@@ -1,0 +1,11 @@
+{
+    "original": "Learning English is crucial for Chinese learners as it enables communication with a global audience. While some argue for prioritizing reading skills, I believe that speaking is more essential for Chinese learners of English. Effective communication requires back-and-forth conversation, which is challenging to achieve through reading alone. Therefore, prioritizing speaking skills enhances communication proficiency, crucial for social and professional interactions. Furthermore, speaking aids in improving listening skills by exposing learners to various accents and pronunciations. This is vital in a global context where English is spoken by individuals from diverse backgrounds. Moreover, speaking boosts learners' confidence, facilitating comfortable interaction in English-speaking environments. In conclusion, prioritizing speaking skills is paramount for Chinese learners of English in fostering effective communication and enhancing language proficiency.",
+    "sampled": "Learning English is crucial for Chinese learners as it enables communication with a global audience. While some argue for prioritizing reading skills, I believe that speaking is more essential for Chinese learners of English. Effective communication requires back-and-forth conversation, which is challenging to achieve through reading alone. Therefore, prioritizing speaking skills enhances communication proficiency, crucial for social and professional interactions. Furthermore, speaking aids in improving listening skills by exposing learners to various accents and pronunciations. This is vital in a global context where English is spoken by people from diverse backgrounds. Moreover, speaking boosts learners' confidence, facilitating comfortable interaction in English-speaking environments. In conclusion, prioritizing speaking skills is paramount for Chinese learners of English in fostering effective communication and enhancing language proficiency.",
+    "replacement_keys": [
+        87
+    ],
+    "original_crit": 0.0009327453444711864,
+    "sampled_crit": 0.0008688759407959878,
+    "original_llm_likelihood": 0.0009327453444711864,
+    "sampled_llm_likelihood": 0.0008688759407959878
+}

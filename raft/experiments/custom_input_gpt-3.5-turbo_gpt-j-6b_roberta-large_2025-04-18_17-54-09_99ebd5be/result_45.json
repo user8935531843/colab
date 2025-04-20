@@ -1,0 +1,15 @@
+{
+    "original": "The ongoing discourse on whether modern work environments are more stressful and less leisurely than those of the past is multifaceted. While some argue that contemporary workplaces are more demanding and less enjoyable, others contend that they are actually less stressful and more engaging. In my view, the modern workplace is characterized by increased levels of stress and decreased leisure compared to the past. Firstly, modern jobs require a higher level of expertise and knowledge compared to the more straightforward roles of the past, necessitating constant learning and adaptation to new technologies and processes, leading to potential burnout. Secondly, the expectation for workers to be available round-the-clock and to respond to communications at all hours results in a feeling of being constantly on call, making it challenging to find time for relaxation and leisure activities. Lastly, the heightened competition in the modern workplace necessitates workers to constantly seek new opportunities and be open to career advancement through job changes, fostering feelings of insecurity and anxiety. In summary, the modern workplace's increased demands, decreased leisure opportunities, and heightened competition contribute to heightened stress levels, anxiety, and burnout among workers.",
+    "sampled": "The ongoing discourse on whether contemporary-era job environments are more stressful and less leisurely than those of the past is multifaceted. While some argue that contemporary workplaces are more demanding and less enjoyable, others contend that they are actually less stressful and more engaging. In my view, the modern workplace is characterized by increased levels of stress and decreased leisure contrasted to the past. Initially, modern jobs require a higher level of expertise and knowledge compared to the more straightforward roles of the past, necessitating constant learning and adaptation to new technologies and processes, leading to potentiality burnout. Secondly, the expectation for workers to be available round-the-clock and to respond to communications at all hours results in a feeling of being constantly on call, making it challenging to find time for relaxation and leisure activities. Lastly, the heightened competition in the modern workplace necessitates workers to constantly seek new opportunities and be open to career advancement through job changes, fostering feelings of insecurity and anxiety. In summary, the modern workplace's increased demands, decreased leisure opportunities, and heightened competition contribute to heightened stress levels, anxiety, and burnout among workers.",
+    "replacement_keys": [
+        5,
+        6,
+        60,
+        64,
+        96
+    ],
+    "original_crit": 0.009856922551989555,
+    "sampled_crit": 0.0004537675704341382,
+    "original_llm_likelihood": 0.009856922551989555,
+    "sampled_llm_likelihood": 0.0004537675704341382
+}

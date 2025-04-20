@@ -1,0 +1,15 @@
+{
+    "original": "Lily and Max were enjoying their time in Lily's vibrant garden when they stumbled upon a fascinating yellow butterfly, creating a cherished memory. On the other hand, a hairy monster's mischievous ways led him to encounter a kind mouse, teaching him the value of cooperation and restraint. Tim and Jack discovered that even when apart, true friendship endures through communication and understanding. Meanwhile, Sam's encounter with a compassionate old man resulted in a heartwarming interaction that left a lasting impression. Lastly, a group of yellow chickens shared a joyful feast, culminating in a lively party and the discovery of a giant yellow egg, reinforcing the importance of unity and celebration. Additionally, a friendly yellow truck offered a pleasant ride to a polite little girl, showcasing the joy of exploration and companionship.",
+    "sampled": "Lily and Max were enjoying their time in Lily's vibrant garden when they stumbled upon a fascinating yellow butterfly, forming a cherished memory. On the other hand, a hairy monster's mischievous ways led him to encounter a kind mouse, teaching him the value of cooperation and self-restraint. Timothy and Jack discovered that even when separately, true friendship endures through communication and understanding. Meanwhile, Sam's encounter with a compassionate old man resulted in a heartwarming interaction that left a lasting impression. Lastly, a group of yellow chickens shared a joyful feast, culminating in a lively party and the discovery of a giant yellow egg, reinforcing the importance of unity and celebration. Besides, a friendly yellow truck offered a pleasant ride to a polite little girl, showcasing the joy of exploration and companionship.",
+    "replacement_keys": [
+        19,
+        46,
+        47,
+        54,
+        110
+    ],
+    "original_crit": 0.20659123361110687,
+    "sampled_crit": 0.07977147400379181,
+    "original_llm_likelihood": 0.20659123361110687,
+    "sampled_llm_likelihood": 0.07977147400379181
+}

@@ -1,0 +1,12 @@
+{
+    "original": "Results from a study on TESS Sector 1 and 2 light curves of eight evolved massive stars in the LMC, including yellow supergiants and luminous blue variables like S Doradus, are presented. Utilizing an iterative prewhitening method to analyze short-timescale variability in these stars, intriguing findings emerged. HD 269953, a YSG, exhibited multiple strong peaks at higher frequencies relative to its counterparts. Despite being situated in a densely populated field, HD 269953's luminosity and dusty infrared colors hint at a post-red supergiant evolutionary phase. Notably, the LBV HD 269582 displayed a discernible signal with a period of around 5 days. S Doradus yielded a complex periodogram, featuring peaks below frequencies of 1.5 cycles per day. By modeling the background noise of all eight light curves, a common red noise component was identified, with variations in the power law slope and timescale of coherent patterns for each star. These findings showcase the potential of utilizing TESS for studying evolved massive stars.",
+    "sampled": "Results from a study on TESS Sector 1 and 2 light curves of eight evolved massive stars in the LMC, including yellow supergiants and luminous blue variables like S Doradus, are presented. Utilizing an iterative prewhitening method to analyze short-timescale variability in these stars, fascinating findings emerged. HD 269953, a YSG, exhibited multiple strong peaks at higher frequencies relative to its counterparts. Despite being situated in a densely populated field, HD 269953's luminosity and dusty infrared colors hint at a post-red supergiant evolutionary phase. Prominently, the LBV HD 269582 displayed a discernible signal with a period of around 5 days. S Doradus yielded a complex periodogram, featuring peaks below frequencies of 1.5 cycles per day. By modeling the background noise of all eight light curves, a common red noise component was identified, with variations in the power law slope and timescale of coherent patterns for each star. These findings showcase the potential of utilizing TESS for studying evolved massive stars.",
+    "replacement_keys": [
+        44,
+        84
+    ],
+    "original_crit": 0.001650212681852281,
+    "sampled_crit": 0.001548277447000146,
+    "original_llm_likelihood": 0.001650212681852281,
+    "sampled_llm_likelihood": 0.001548277447000146
+}

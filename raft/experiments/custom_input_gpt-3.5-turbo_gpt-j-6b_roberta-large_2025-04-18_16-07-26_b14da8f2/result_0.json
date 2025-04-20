@@ -1,0 +1,12 @@
+{
+    "original": "AI (artificial intelligence) is a branch of computer science that focuses on developing algorithms and systems that can simulate human-like intelligence and behavior. AI systems can learn from data, adapt to new situations, and perform tasks that typically require human intelligence, such as problem-solving, decision-making, and natural language processing. AI has a wide range of applications across various industries, including healthcare, finance, and transportation, and continues to advance at a rapid pace with ongoing research and development.",
+    "sampled": "AI (artificial intelligence) is a branch of computer science that focuses on developing algorithms and systems that can simulate intelligent-like intelligence and behavior. AI systems can learn from data, adapt to new situations, and perform tasks that generally require human intelligence, such as problem-solving, decision-making, and natural language processing. AI has a wide range of applications across various industries, including healthcare, finance, and transportation, and continues to advance at a rapid pace with ongoing research and development.",
+    "replacement_keys": [
+        19,
+        37
+    ],
+    "original_crit": 0.21412032842636108,
+    "sampled_crit": 0.11183422803878784,
+    "original_llm_likelihood": 0.21412032842636108,
+    "sampled_llm_likelihood": 0.11183422803878784
+}

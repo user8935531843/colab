@@ -1,0 +1,14 @@
+{
+    "original": "Origin: In the realm of famous personalities, media portrayal often raises questions of fairness and privacy considerations. While some argue that famous individuals face unjust treatment from the media and deserve increased privacy, others contend that public figures must accept heightened scrutiny as a consequence of their fame. The media, integral to society and democracy, plays a pivotal role in keeping the public informed and holding public figures accountable. Notably, the media sheds light on newsworthy events involving celebrities and ensures transparency in their actions. Nevertheless, the intrusive nature of media coverage, including paparazzi intrusion and privacy violations, can encroach on the personal lives of celebrities and hinder their normal routines. Despite this, skeptics argue that celebrity status entails a sacrifice of privacy in exchange for widespread recognition and influence. Ultimately, the debate surrounding media treatment of famous individuals underscores complex ethical considerations and the delicate balance between fame, privacy, and public responsibility.",
+    "sampled": "Origin: In the realm of renowned personalities, media depiction often raises questions of fairness and privacy considerations. While some argue that famous individuals face unjustified treatment from the media and deserve increased privacy, others contend that public figures must accept heightened scrutiny as a consequence of their fame. The media, integral to society and democracy, plays a pivotal role in keeping the public informed and holding public figures accountable. Notably, the media sheds light on newsworthy events involving celebrities and ensures transparency in their actions. Nevertheless, the intrusive nature of media coverage, including paparazzi intrusion and privacy violations, can encroach on the personal lives of celebrities and hinder their normal routines. Despite this, skeptical argue that celebrity status entails a sacrifice of privacy in exchange for widespread recognition and influence. Ultimately, the debate surrounding media treatment of famous individuals underscores complex ethical considerations and the delicate balance between fame, privacy, and public responsibility.",
+    "replacement_keys": [
+        5,
+        8,
+        24,
+        113
+    ],
+    "original_crit": 0.0011344256345182657,
+    "sampled_crit": 0.0006201668875291944,
+    "original_llm_likelihood": 0.0011344256345182657,
+    "sampled_llm_likelihood": 0.0006201668875291944
+}

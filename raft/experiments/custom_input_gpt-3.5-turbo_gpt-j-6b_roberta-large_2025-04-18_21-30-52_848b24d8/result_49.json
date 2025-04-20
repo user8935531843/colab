@@ -1,0 +1,13 @@
+{
+    "original": "This study introduces a cutting-edge electrochemical model-based adaptive interconnected observer for real-time capacity estimation of lithium-ion battery cells. By leveraging voltage and current measurements of the battery cell, the observer accurately estimates electrochemical states and parameters, enabling the determination of state-of-charge and capacity. The observer design incorporates adaptive mechanisms to combat model uncertainties and disturbances, while interconnected features enhance estimation accuracy and stability. Experimental evaluations on commercial lithium-ion battery cells demonstrate the observer's ability to accurately estimate battery cell capacity, even in challenging conditions such as temperature variations, aging effects, and diverse discharge rates. This observer can be seamlessly integrated into battery management systems for electric vehicles and grid storage systems, facilitating precise monitoring and control of battery performance and health. The outcomes underscore the potential benefits of the proposed observer in enhancing efficiency, safety, and longevity of lithium-ion batteries across a range of practical applications.",
+    "sampled": "This study debuts a cutting-edge chemical-electrical model-based adaptive interconnected observer for real-time capacity estimation of lithium-ion battery cells. By leveraging voltage and current measurements of the battery cell, the observer accurately estimates chemical-electrical states and parameters, enabling the determination of state-of-charge and capacity. The observer design incorporates adaptive mechanisms to combat model uncertainties and disturbances, while interconnected features enhance estimation accuracy and stability. Experimental evaluations on commercial lithium-ion battery cells demonstrate the observer's ability to accurately estimate battery cell capacity, even in challenging conditions such as temperature variations, aging effects, and diverse discharge rates. This observer can be seamlessly integrated into battery management systems for electric vehicles and grid storage systems, facilitating precise monitoring and control of battery performance and health. The outcomes underscore the potential benefits of the proposed observer in enhancing efficiency, safety, and longevity of lithium-ion batteries across a range of practical applications.",
+    "replacement_keys": [
+        2,
+        5,
+        32
+    ],
+    "original_crit": 0.0017911188770085573,
+    "sampled_crit": 0.00085131247760728,
+    "original_llm_likelihood": 0.0017911188770085573,
+    "sampled_llm_likelihood": 0.00085131247760728
+}

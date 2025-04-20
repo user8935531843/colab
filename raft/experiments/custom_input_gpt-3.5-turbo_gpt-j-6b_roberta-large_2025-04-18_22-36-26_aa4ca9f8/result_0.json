@@ -1,0 +1,9 @@
+{
+    "original": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and act like humans. AI is a broad field that encompasses various technologies and techniques, such as machine learning, natural language processing, and computer vision. Its applications range from chatbots and virtual assistants to self-driving cars and medical diagnosis. AI is transforming industries and societies, offering new opportunities and challenges for the future.",
+    "sampled": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and act like humans. AI is a broad field that encompasses various technologies and techniques, such as machine learning, natural language processing, and computer vision. Its applications range from chatbots and virtual assistants to self-driving cars and medical diagnosis. AI is transforming industries and societies, offering new opportunities and challenges for the future.",
+    "replacement_keys": [],
+    "original_crit": 0.33439263701438904,
+    "sampled_crit": 0.33439263701438904,
+    "original_llm_likelihood": 0.33439263701438904,
+    "sampled_llm_likelihood": 0.33439263701438904
+}

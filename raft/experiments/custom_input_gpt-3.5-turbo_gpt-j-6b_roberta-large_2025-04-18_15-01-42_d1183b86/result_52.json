@@ -1,0 +1,15 @@
+{
+    "original": "This study introduces a new method for drawing causal inferences utilizing instrumental variables, aiming to overcome limitations of traditional approaches that tend to be biased in the presence of violated assumptions. The proposed method is grounded in randomization inference, which offers greater robustness against violations of underlying assumptions by not relying on stringent modeling assumptions. Our analysis demonstrates the consistency of the method, even in scenarios with a large number of instruments, and highlights its favorable finite-sample properties. Furthermore, a simulation study is conducted to compare the performance of our method with traditional approaches, revealing lower bias and reduced mean-squared error with our approach. As an illustration of its practical utility, we apply the method to a dataset on educational outcomes, estimating the causal impact of class size on test scores using randomization inference. Overall, the findings suggest that randomization inference presents a promising avenue for making causal inferences with instrumental variables.",
+    "sampled": "This study introduces a new method for drawing causal inferences utilizing instrumental variables, targeting to overcome limitations of traditional approaches that tend to be biased in the presence of violated assumptions. The proposed method is grounded in randomly inference, which offers greater robustness against violations of underlying assumptions by not relying on stringent modeling assumptions. Our analysis demonstrates the consistent of the method, even in scenarios with a large number of instruments, and highlights its favorable finite-sample properties. Furthermore, a simulation study is conducted to compare the performance of our method with traditional approaches, revealing less bias and diminished mean-squared error with our approach. As an illustration of its practical utility, we apply the method to a dataset on educational outcomes, estimating the causal impact of class size on test scores using randomization inference. Overall, the findings suggest that randomization inference presents a promising avenue for making causal inferences with instrumental variables.",
+    "replacement_keys": [
+        13,
+        37,
+        59,
+        95,
+        98
+    ],
+    "original_crit": 0.03353489562869072,
+    "sampled_crit": 0.01036200299859047,
+    "original_llm_likelihood": 0.03353489562869072,
+    "sampled_llm_likelihood": 0.01036200299859047
+}

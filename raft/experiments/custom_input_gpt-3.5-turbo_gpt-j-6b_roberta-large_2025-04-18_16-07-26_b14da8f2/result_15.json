@@ -1,0 +1,14 @@
+{
+    "original": "Once upon a time, a little girl named Rachel tried on a coat frame for a special occasion. Her mother fixed the frame so it fit perfectly, and Rachel looked beautiful. The same day, Lizzie's careful car chased a speedy rabbit down a country road, maintaining a modest pace. Eventually, the rabbit hopped into the sunset. Later, Mary discovered a silver necklace in the park, gifted to her by a kind old woman. She cherished it always. Joe realized the beauty of the sky filled with birds, and his mum was proud. Lastly, Lucy and Mary cut a chalk in half, but Lucy learned not to mess with the original. In another story, Amy sought out a painter to decorate her bedroom, and she was delighted with the magical transformation. Each tale had its own lesson or message, leaving a mark on those involved. The End.",
+    "sampled": "Once upon a time, a little girl named Rachel tried on a coat framed for a special occasion. Her mother fixed the frame so it fit perfectly, and Rachel looked beautiful. The same day, Lizzie's careful car pursued a speedy rabbit down a country road, maintaining a modest pace. Eventually, the rabbit hopped into the dusk. Later, Mary discovered a silver necklace in the park, gifted to her by a kind old woman. She cherished it always. Joe realized the beauty of the sky filled with birds, and his mama was proud. Lastly, Lucy and Mary cut a chalk in half, but Lucy learned not to mess with the original. In another story, Amy sought out a painter to decorate her bedroom, and she was delighted with the magical transformation. Each tale had its own lesson or message, leaving a mark on those involved. The End.",
+    "replacement_keys": [
+        13,
+        37,
+        55,
+        89
+    ],
+    "original_crit": 0.13103993237018585,
+    "sampled_crit": 0.025039125233888626,
+    "original_llm_likelihood": 0.13103993237018585,
+    "sampled_llm_likelihood": 0.025039125233888626
+}

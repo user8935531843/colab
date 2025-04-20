@@ -1,0 +1,11 @@
+{
+    "original": "A beautiful flower once resided in the soil, nourished by rainwater to grow and flourish. With a heavy downpour, the flower absorbed the water and thrived, blossoming into a robust and vibrant plant. And so, the flower's story came to a satisfying conclusion.",
+    "sampled": "A lovely flower once resided in the soil, nourished by rainwater to grow and flourish. With a heavy downpour, the flower absorbed the water and thrived, blossoming into a robust and vibrant plant. And so, the flower's story came to a satisfying conclusion.",
+    "replacement_keys": [
+        1
+    ],
+    "original_crit": 0.5342503190040588,
+    "sampled_crit": 0.5129762887954712,
+    "original_llm_likelihood": 0.5342503190040588,
+    "sampled_llm_likelihood": 0.5129762887954712
+}

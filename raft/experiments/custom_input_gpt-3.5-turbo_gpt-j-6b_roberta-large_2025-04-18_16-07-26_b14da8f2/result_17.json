@@ -1,0 +1,12 @@
+{
+    "original": "There once was a girl named Joy, who encountered a bug that scared her in the garden. Her parents came to her rescue, and after the bug was removed, Joy felt relieved. Similarly, Rita found a broken toy in the park and fixed it, teaching a young boy about kindness and respect. Meanwhile, John found lumber for his toy boat in an ancient chest, leading to a thrilling adventure. Additionally, Thomas discovered a broken branch by a river at an oasis, learning to be cautious. Lastly, a lazy figure was convinced by a persistent child to play and had an amazing day. Chloe experienced an earthquake in the forest and learned about being cautious from a wise old owl. Each tale highlights the importance of kindness, courage, and learning from new experiences.",
+    "sampled": "There once was a girl named Joy, who encountered a bug that scared her in the garden. Her parents came to her rescue, and after the bug was removed, Joy felt relieved. Similarly, Rita found a broken toy in the park and fixed it, teaching a young boy about kindness and respect. Meanwhile, John found timber for his toy boat in an ancient chest, leading to a thrilling adventure. Furthermore, Thomas discovered a broken branch by a river at an oasis, learning to be cautious. Lastly, a lazy figure was convinced by a persistent child to play and had an amazing day. Chloe experienced an earthquake in the forest and learned about being cautious from a wise old owl. Each tale highlights the importance of kindness, courage, and learning from new experiences.",
+    "replacement_keys": [
+        55,
+        69
+    ],
+    "original_crit": 0.02504883147776127,
+    "sampled_crit": 0.019881777465343475,
+    "original_llm_likelihood": 0.02504883147776127,
+    "sampled_llm_likelihood": 0.019881777465343475
+}

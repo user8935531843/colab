@@ -1,0 +1,21 @@
+# — modele, dane, wyniki, cache —
+**/models/**
+**/local_models/**
+**/outputs/**
+**/data/**
+**/datasets/**
+**/.cache/**
+*.bin
+*.pt
+*.safetensors
+*.npy
+
+# — duże pliki i assets —
+**/assets/**
+**/raft/assets/**
+miniconda.sh
+
+# — notebooki, logi, configi —
+**/.ipynb_checkpoints/
+*.log
+.env*

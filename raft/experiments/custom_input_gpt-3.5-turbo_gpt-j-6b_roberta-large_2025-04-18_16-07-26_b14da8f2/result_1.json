@@ -1,0 +1,12 @@
+{
+    "original": "Once upon a time, Lily, a young girl, stumbled upon a needle in her room and sought her mother's help to sew a button on her shirt. Together, they skillfully utilized the needle to mend Lily's shirt, showcasing the power of collaboration and assistance. Similarly, Beep, a cheerful car, found joy in playing with falling leaves under a tree, symbolizing the importance of joyful moments and self-care. Additionally, Fin, a friendly fish, extended a helping fin to a cold crab, demonstrating the significance of compassion and warmth in fostering friendships. Likewise, a cherry tree found solace in its unique cherries, attracting friends from all around, emphasizing the value of self-acceptance and diversity. Lastly, Lily and her animal friends collaborated to clear a cobweb in their castle, showcasing teamwork and unity in overcoming challenges. These heartwarming tales echo the essence of kindness, camaraderie, and resilience, ultimately leading to harmonious and happy endings.",
+    "sampled": "Once upon a time, Lily, a young girl, stumbled upon a needle in her room and sought her mother's help to sew a button on her shirt. Together, they skillfully utilized the needle to mend Lily's shirt, presenting the power of collaboration and assistance. Similarly, Beep, a cheerful car, found joy in playing with falling leaves under a tree, symbolizing the importance of joyful moments and self-care. Additionally, Fin, a friendly fish, extended a helping fin to a cold crab, demonstrating the significance of compassion and warmth in fostering friendships. Likewise, a cherry tree found solace in its unique cherries, attracting friends from all around, emphasizing the value of self-acceptance and diversity. Lastly, Lily and her animal friends collaborated to clear a spiderweb in their castle, showcasing teamwork and unity in overcoming challenges. These heartwarming tales echo the essence of kindness, camaraderie, and resilience, ultimately leading to harmonious and happy endings.",
+    "replacement_keys": [
+        37,
+        122
+    ],
+    "original_crit": 0.001193292555399239,
+    "sampled_crit": 0.0008737551979720592,
+    "original_llm_likelihood": 0.001193292555399239,
+    "sampled_llm_likelihood": 0.0008737551979720592
+}

@@ -1,0 +1,9 @@
+{
+    "original": "\"Sorry, I couldn't find any information regarding the provided topic \"\"nan.\"\"\"",
+    "sampled": "\"Sorry, I couldn't find any information regarding the provided topic \"\"nan.\"\"\"",
+    "replacement_keys": [],
+    "original_crit": 0.49016228318214417,
+    "sampled_crit": 0.49016228318214417,
+    "original_llm_likelihood": 0.49016228318214417,
+    "sampled_llm_likelihood": 0.49016228318214417
+}

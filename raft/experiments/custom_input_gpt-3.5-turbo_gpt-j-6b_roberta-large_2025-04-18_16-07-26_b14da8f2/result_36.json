@@ -1,0 +1,13 @@
+{
+    "original": "Once upon a time, a girl named Emma displayed exemplary obedience in her classroom, impressing her teacher with her prompt greeting and willingness to follow instructions. Emma diligently wrote her name on the whiteboard as instructed, receiving praise for her obedient behavior. Similarly, Molly, a curious and enthusiastic learner, demonstrated persistence and care in nurturing a plant, celebrating its growth with joy and pride. In another tale, Jack and Jane's love story culminated in a joyous wedding celebration, symbolizing their deep affection and commitment. The couple's happiness and love radiated as they cuddled each other in blissful contentment. Similarly, a compassionate bear assisted a mouse in distress, providing comfort and support until the mouse's recovery, showcasing the importance of kindness and empathy. In a cautionary tale, John's overconfidence led to a humbling experience, teaching him the value of caution and restraint. Lastly, a magical tower granted a girl's wish to touch it, leaving her feeling enchanted and grateful for the extraordinary experience.",
+    "sampled": "Once upon a time, a girl named Emma displayed exceptional obedience in her classroom, impressing her teacher with her prompt greet and willingness to follow instructions. Emma diligently wrote her name on the whiteboard as instructed, receiving praise for her obedient behavior. Similarly, Molly, a intrigued and enthusiastic learner, demonstrated persistence and care in nurturing a plant, celebrating its growth with joy and pride. In another tale, Jack and Jane's love story culminated in a joyous wedding celebration, symbolizing their deep affection and commitment. The couple's happiness and love radiated as they cuddled each other in blissful contentment. Similarly, a compassionate bear assisted a mouse in distress, providing comfort and support until the mouse's recovery, showcasing the importance of kindness and empathy. In a cautionary tale, John's overconfidence led to a humbling experience, teaching him the value of caution and restraint. Lastly, a magical tower granted a girl's wish to touch it, leaving her feeling enchanted and grateful for the extraordinary experience.",
+    "replacement_keys": [
+        9,
+        20,
+        45
+    ],
+    "original_crit": 0.0017274373676627874,
+    "sampled_crit": 0.0008016912615858018,
+    "original_llm_likelihood": 0.0017274373676627874,
+    "sampled_llm_likelihood": 0.0008016912615858018
+}

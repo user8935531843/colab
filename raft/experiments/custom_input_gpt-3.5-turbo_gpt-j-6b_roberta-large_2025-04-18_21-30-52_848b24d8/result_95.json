@@ -1,0 +1,12 @@
+{
+    "original": "The investigation focuses on examining the characteristics of the central star and plasma properties of PC 22, a planetary nebula enriched with heavy elements. Through a comprehensive approach utilizing ground-based and space-based observations, high-resolution spectra were obtained across various wavelengths to analyze plasma conditions and infer electron density and temperature using theoretical methods. Results reveal the central star of PC 22 as a hot subdwarf O star with an effective temperature of approximately 80 kK, with prominent neon lines indicating the existence of a He-burning shell within the star. The ionization of the nebula by the central star is implied by the plasma conditions, showcasing a nearly flat density profile in the inner region and a sharp decline towards the outer boundaries. Comparative analysis with other planetary nebulae suggests that PC 22 belongs to a category of \"mature\" nebulae derived from a high-mass progenitor star, advancing our understanding of planetary nebula formation, evolution, and the role of central stars in shaping their characteristics.",
+    "sampled": "The investigation focuses on inspecting the characteristics of the central star and plasma properties of PC 22, a planetary nebula enriched with heavy elements. Through a comprehensive approach utilizing ground-based and space-based observations, high-resolution spectra were obtained across various wavelengths to analyze plasma conditions and infer electron density and temperature using theoretical methods. Results reveal the central star of PC 22 as a hot subdwarf O star with an effective temperature of approximately 80 kK, with prominent neon lines indicating the existence of a He-burning shell within the star. The ionization of the nebula by the central star is implied by the plasma conditions, showcasing a nearly flat density profile in the inner region and a sharp decline towards the outer boundaries. Comparative analysis with other planetary nebulae suggests that PC 22 belongs to a category of \"mature\" nebulae derived from a high-mass progenitor star, progressing our understanding of planetary nebula formation, evolution, and the role of central stars in shaping their characteristics.",
+    "replacement_keys": [
+        4,
+        145
+    ],
+    "original_crit": 0.0017745887162163854,
+    "sampled_crit": 0.0013748122146353126,
+    "original_llm_likelihood": 0.0017745887162163854,
+    "sampled_llm_likelihood": 0.0013748122146353126
+}

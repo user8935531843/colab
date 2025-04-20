@@ -1,0 +1,16 @@
+{
+    "original": "Education is a valuable investment that can be costly, but the repercussions of not obtaining an education, particularly in a globally connected world, can be even more detrimental. There are various factors contributing to the high cost of education, such as the financial resources required, the time and effort needed to acquire knowledge, and the challenges of securing employment post-graduation. Moreover, many professions necessitate a college degree, further adding to the financial burden. Apart from the monetary aspect, not having a college degree can limit job opportunities, particularly in industries like healthcare and business. The significance of education lies in its ability to equip individuals with skills, knowledge, and opportunities for personal growth, civic responsibility, and global awareness. While education may seem expensive, its absence can lead to challenges such as unemployment, limited job prospects, and financial instability. In a world where education is a key determinant of success, the costs associated with obtaining it and the consequences of lacking it underscore the importance of investing in one's education for future prospects.",
+    "sampled": "Education is a valuable investment that can be costly, but the consequences of not obtaining an education, particularly in a worldwide connected world, can be even more detrimental. There are various factors contributing to the high cost of education, such as the financial resources required, the time and effort needed to acquire knowledge, and the challenges of securing employment post-graduation. Moreover, many careers necessitate a college degree, further adding to the financial burden. Separate from the monetary aspect, not having a college degree can limit job opportunities, particularly in industries like healthcare and business. The significance of education lies in its ability to equip individuals with skills, knowledge, and opportunities for personal growth, civic responsibility, and global awareness. While education may seem expensive, its absent can lead to difficulties such as unemployment, limited job prospects, and financial instability. In a world where education is a key determinant of success, the costs associated with obtaining it and the consequences of lacking it underscore the importance of investing in one's education for future prospects.",
+    "replacement_keys": [
+        11,
+        20,
+        62,
+        73,
+        124,
+        128
+    ],
+    "original_crit": 0.09818480163812637,
+    "sampled_crit": 0.004537425935268402,
+    "original_llm_likelihood": 0.09818480163812637,
+    "sampled_llm_likelihood": 0.004537425935268402
+}

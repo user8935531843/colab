@@ -1,0 +1,11 @@
+{
+    "original": "Little Lily had a large boo-boo on her knee that was causing her immense pain, leaving her feeling very sad and tearful. Her mother comforted her by providing her with a",
+    "sampled": "Little Lily had a large boo-boo on her knee that was causing her immense pain, exiting her feeling very sad and tearful. Her mother comforted her by providing her with a",
+    "replacement_keys": [
+        15
+    ],
+    "original_crit": 0.2657400965690613,
+    "sampled_crit": 0.16099782288074493,
+    "original_llm_likelihood": 0.2657400965690613,
+    "sampled_llm_likelihood": 0.16099782288074493
+}

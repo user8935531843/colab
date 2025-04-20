@@ -1,0 +1,9 @@
+{
+    "original": "Once, there lived a man with a bald head who enjoyed sculpting with clay. After crafting a large ball that unfortunately crumbled, he persevered and successfully molded a small dog, filling him with joy and leaving a smile on his face. And so, his clay sculpting adventure came to a delightful end.",
+    "sampled": "Once, there lived a man with a bald head who enjoyed sculpting with clay. After crafting a large ball that unfortunately crumbled, he persevered and successfully molded a small dog, filling him with joy and leaving a smile on his face. And so, his clay sculpting adventure came to a delightful end.",
+    "replacement_keys": [],
+    "original_crit": 0.03228188678622246,
+    "sampled_crit": 0.03228188678622246,
+    "original_llm_likelihood": 0.03228188678622246,
+    "sampled_llm_likelihood": 0.03228188678622246
+}

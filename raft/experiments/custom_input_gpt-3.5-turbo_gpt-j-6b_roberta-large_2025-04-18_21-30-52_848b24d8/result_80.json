@@ -1,0 +1,13 @@
+{
+    "original": "This paper introduces a novel method for rare event sampling to enhance monitoring of fluid dynamics and chemical reactions, particularly in detecting infrequent occurrences in small or long-duration systems. Utilizing enhanced sampling techniques, the study showcases improvements in statistical estimations concerning the instability of chemical species, using mercury as a practical example. By scrutinizing rare event statistics, the research establishes a predictive model for assessing the probability of mercury instability across diverse experimental conditions. These insights shed light on the efficacy of rare event sampling in enhancing instability detection within intricate systems, offering valuable implications for chemical and environmental monitoring practices. The study advances the field through the introduction of innovative techniques for statistical estimation improvement, showcasing the broader applications of rare event sampling in various research domains.",
+    "sampled": "This paper introduces a novel method for uncommon event sampling to enhance monitoring of liquid dynamics and chemical reactions, particularly in detecting infrequent occurrences in small or long-duration systems. Utilizing improved sampling techniques, the study showcases improvements in statistical estimations concerning the instability of chemical species, using mercury as a practical example. By scrutinizing rare event statistics, the research establishes a predictive model for assessing the probability of mercury instability across diverse experimental conditions. These insights shed light on the efficacy of rare event sampling in enhancing instability detection within intricate systems, offering valuable implications for chemical and environmental monitoring practices. The study advances the field through the introduction of innovative techniques for statistical estimation improvement, showcasing the broader applications of rare event sampling in various research domains.",
+    "replacement_keys": [
+        7,
+        14,
+        30
+    ],
+    "original_crit": 0.016290483996272087,
+    "sampled_crit": 0.008458107709884644,
+    "original_llm_likelihood": 0.016290483996272087,
+    "sampled_llm_likelihood": 0.008458107709884644
+}

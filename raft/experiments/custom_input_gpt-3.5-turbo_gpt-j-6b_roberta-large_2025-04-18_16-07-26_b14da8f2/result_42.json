@@ -1,0 +1,11 @@
+{
+    "original": "Lucy the bee found a perfect spot to build her hive and learned the importance of teamwork when a butterfly suggested working together. Little Joe helped Mrs. Mouse out of a hole, showcasing the value of lending a helping hand. The man with a shirt that was too big sought his friend's advice on shrinking it, exemplifying the benefits of seeking assistance. Winnie and Peter discovered the importance of honesty and kindness while playing together, and Jack and his mum observed a shy rabbit, practicing patience and respect. Jane learned a valuable lesson about curiosity and respect from a creature in the forest, emphasizing the importance of making wise choices. Each story highlights important moral lessons about collaboration, assistance, honesty, respect, and mindfulness.",
+    "sampled": "Lucy the bee found a perfect spot to build her hive and learned the importance of teamwork when a butterfly suggested working together. Little Joe helped Mrs. Mouse out of a hole, presenting the value of lending a helping hand. The man with a shirt that was too big sought his friend's advice on shrinking it, exemplifying the benefits of seeking assistance. Winnie and Peter discovered the importance of honesty and kindness while playing together, and Jack and his mum observed a shy rabbit, practicing patience and respect. Jane learned a valuable lesson about curiosity and respect from a creature in the forest, emphasizing the importance of making wise choices. Each story highlights important moral lessons about collaboration, assistance, honesty, respect, and mindfulness.",
+    "replacement_keys": [
+        32
+    ],
+    "original_crit": 0.004581416957080364,
+    "sampled_crit": 0.0027318382635712624,
+    "original_llm_likelihood": 0.004581416957080364,
+    "sampled_llm_likelihood": 0.0027318382635712624
+}

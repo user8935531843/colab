@@ -1,0 +1,15 @@
+{
+    "original": "Once upon a time, a courageous warrior embarked on a journey to explore new lands. Sailing on a small boat, they encountered a friendly bird that showed them a faster sailing route. Grateful for the bird's guidance, the warrior continued their voyage, never forgetting the act of kindness. Another tale unfolds with a young girl reveling in the warmth of the sun and discovering a surprising snowfall. With her mother's guidance, she enjoyed playing with the snow all day, turning it into a mini snowstorm. Additionally, a boy named Tom discovered a magnet on a high mountain, leading to an encounter with a mesmerizing rainbow. Delightful moments continue with a young boy, Andy, rescuing a white rabbit from two green spiders by cleverly using small stones. Lucy, a little girl, learns a valuable lesson from her father about the true essence of wealth, opting to play with her toys instead. Lastly, a boy, driven by his passion for running, carries a weight on his journey, symbolizing the weight of his ambitions. However, as he falls due to the burden being too heavy, he realizes the importance of balance and turning back home.",
+    "sampled": "Once upon a time, a courageous warrior embarked on a journey to explore new lands. Sailing on a small boat, they encountered a friendly bird that showed them a quicker sailing route. Grateful for the bird's guidance, the warrior continued their voyage, never forgetting the act of kindness. Another tale unfolds with a young girl reveling in the warmth of the sun and discovering a surprising snowfall. With her mother's guidance, she enjoyed playing with the snow all day, turning it into a mini snowstorm. Moreover, a boy named Tom discovered a magnet on a high mountain, leading to an encounter with a mesmerizing rainbow. Delightful moments continue with a young boy, Andy, rescuing a white rabbit from two green spiders by cleverly using petite stones. Lucy, a little girl, learns a valuable lesson from her father about the true essence of riches, opting to play with her toys instead. Lastly, a boy, driven by his passion for running, carries a weight on his journey, symbolizing the weight of his ambitions. However, as he falls due to the burden being too heavy, he realizes the importance of balance and turned back home.",
+    "replacement_keys": [
+        29,
+        85,
+        124,
+        142,
+        189
+    ],
+    "original_crit": 0.033119551837444305,
+    "sampled_crit": 0.01269767340272665,
+    "original_llm_likelihood": 0.033119551837444305,
+    "sampled_llm_likelihood": 0.01269767340272665
+}

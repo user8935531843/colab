@@ -1,0 +1,14 @@
+{
+    "original": "University education plays a pivotal role in preparing students for employment, but its functions extend beyond this aspect. Alongside equipping students with the necessary skills for the workforce, university education fosters critical thinking, problem-solving, and effective communication. Furthermore, it broadens students' perspectives and nurtures an understanding of diverse cultures and beliefs. Moreover, university education helps students discover their passions and strengths, guiding them towards a fulfilling career path. While employment readiness is a significant outcome of university education, its multifaceted functions encompass skill development, global awareness, and personal growth.",
+    "sampled": "University learning plays a pivotal role in preparing students for employment, but its functions extend beyond this aspect. Alongside equipping students with the necessary skills for the workforce, university education fosters critical thinking, problem-solving, and effective communication. Furthermore, it broadens students' perspectives and nurtures an understanding of diverse cultures and beliefs. Moreover, university education helps students discover their passions and strengths, directing them towards a fulfilling career path. While occupation readiness is a significant outcome of university education, its multifaceted functions encompass ability development, global awareness, and personal growth.",
+    "replacement_keys": [
+        1,
+        61,
+        69,
+        82
+    ],
+    "original_crit": 0.003211833769455552,
+    "sampled_crit": 0.0008062795968726277,
+    "original_llm_likelihood": 0.003211833769455552,
+    "sampled_llm_likelihood": 0.0008062795968726277
+}

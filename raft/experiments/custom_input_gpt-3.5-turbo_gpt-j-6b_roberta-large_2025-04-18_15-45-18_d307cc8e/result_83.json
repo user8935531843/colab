@@ -1,0 +1,9 @@
+{
+    "original": "A playful triangle was enjoying its day when it encountered a stop sign. Demonstrating good judgment, the triangle halted and carefully observed its surroundings before proceeding. The triangle's adventure concluded with a responsible decision, ensuring its safety.",
+    "sampled": "A playful triangle was enjoying its day when it encountered a stop sign. Demonstrating good judgment, the triangle halted and carefully observed its surroundings before proceeding. The triangle's adventure concluded with a responsible decision, ensuring its safety.",
+    "replacement_keys": [],
+    "original_crit": 0.14616040885448456,
+    "sampled_crit": 0.14616040885448456,
+    "original_llm_likelihood": 0.14616040885448456,
+    "sampled_llm_likelihood": 0.14616040885448456
+}

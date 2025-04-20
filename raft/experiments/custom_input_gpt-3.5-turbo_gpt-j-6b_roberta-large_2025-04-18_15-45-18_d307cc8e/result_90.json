@@ -1,0 +1,11 @@
+{
+    "original": "Once, a woman adored donning unique attire, leading her to a rainy stroll that left her drenched. Upon returning home, she swapped her soaked clothes for dry ones, instantly feeling refreshed. And so, the anecdote concludes.",
+    "sampled": "Once, a woman adored donning unique attire, leading her to a downpour stroll that left her drenched. Upon returning home, she swapped her soaked clothes for dry ones, instantly feeling refreshed. And so, the anecdote concludes.",
+    "replacement_keys": [
+        11
+    ],
+    "original_crit": 0.09855647385120392,
+    "sampled_crit": 0.08447136729955673,
+    "original_llm_likelihood": 0.09855647385120392,
+    "sampled_llm_likelihood": 0.08447136729955673
+}

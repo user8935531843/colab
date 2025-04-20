@@ -1,0 +1,16 @@
+{
+    "original": "University education is a topic of much debate, with contrasting views on its primary purpose. While some argue that university education is primarily aimed at preparing students for employment, others believe it serves additional functions. In my view, university education serves a multifaceted role that extends beyond employment preparation. Firstly, university education acts as a platform for skill development across various domains. Through exposure to a diverse range of subjects, students can hone critical thinking, problem-solving, and communication skills. These skills are vital in the workplace and can set students apart when seeking employment. Secondly, university education offers students the opportunity to explore different career paths and gain practical work experience through internships and placements. This enables students to make informed decisions about their future career and gain valuable insights into the professional world. Lastly, university education fosters the development of personal interests by allowing students to engage with a wide range of topics, thereby expanding their knowledge and understanding of the world. Additionally, it provides an avenue for students to build social connections and enhance their social skills. Overall, university education plays a crucial role in skill development, career exploration, and personal growth, making it a valuable experience that goes beyond mere employment preparation.",
+    "sampled": "University learning is a topic of much debate, with contrasting views on its primary purpose. While some argue that university education is primarily aimed at preparing students for employment, others believe it serves extra functions. In my view, university education serves a multifaceted role that extends beyond employment preparation. Firstly, university education acts as a platform for ability development across various domains. Through exposure to a diverse range of subjects, students can hone critical thinking, problem-solving, and communication skills. These skills are vital in the workplace and can set students apart when seeking employment. Secondly, university education offers students the opportunity to explore different career paths and gain practicality work experience through internships and placements. This enables students to make informed decisions about their future career and gain valuable insights into the professional world. Lastly, university education fosters the development of personal interests by allowing students to engage with a wide range of topics, thereby expanding their knowledge and understanding of the world. Besides, it provides an avenue for students to build social connections and enhance their social skills. Overall, university education plays a crucial role in ability development, career exploration, and personal growth, making it a valuable experience that goes beyond mere employment preparation.",
+    "replacement_keys": [
+        1,
+        33,
+        57,
+        108,
+        163,
+        187
+    ],
+    "original_crit": 0.1216370239853859,
+    "sampled_crit": 0.0006653972086496651,
+    "original_llm_likelihood": 0.1216370239853859,
+    "sampled_llm_likelihood": 0.0006653972086496651
+}

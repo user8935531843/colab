@@ -1,0 +1,14 @@
+{
+    "original": "Once upon a time, a young girl named Molly expressed a desire to wear a skirt to her mother, who instead suggested she try on shorts. Excited by the idea, Molly swiftly searched for a pair of shorts to wear. Meanwhile, in the park, a young boy named John felt embarrassed after catching the attention of others while eating ice cream. When his mother noticed his discomfort, she encouraged him to embrace the attention and share his enjoyment with others. Despite feeling self-conscious, John was reassured by his mother's comforting words. Jack and Jill, on the other hand, encountered a dry riverbank while seeking water. With the help of a kind old man, they were able to quench their thirst and learned the importance of kindness and assistance. Later, at a dinner table, Isabel's curiosity piqued when her parents hinted at an unusual dinner. Upon its unveiling, Isabel found the meal both unusual and delicious, sparking joy and memorable family moments. Lastly, Henry's perseverance in learning to swim paid off, teaching him the valuable lesson that determination can lead to success. Furthermore, an encounter between an old man and a little girl resulted in a heartwarming exchange of sharing and cooperation over a simple old brick.",
+    "sampled": "Once upon a time, a young girl named Molly expressed a desire to wear a skirt to her mother, who instead suggested she try on shorts. Enthusiastic by the idea, Molly rapidly sought for a pair of shorts to wear. Meanwhile, in the park, a young boy named John felt embarrassed after catching the attention of others while eating ice cream. When his mother noticed his discomfort, she encouraged him to embrace the attention and share his enjoyment with others. Despite feeling self-conscious, John was reassured by his mother's comforting words. Jack and Jill, on the other hand, encountered a dry riverbank while seeking water. With the help of a kind old man, they were able to quench their thirst and learned the importance of kindness and assistance. Later, at a dinner table, Isabel's curiosity piqued when her parents hinted at an unusual dinner. Upon its unveiling, Isabel found the meal both unusual and delicious, sparking joy and memorable family moments. Lastly, Henry's perseverance in learning to swim paid off, teaching him the valuable lesson that determination can lead to success. Furthermore, an encounter between an old man and a little girl resulted in a heartwarming exchange of sharing and cooperation over a simple aged brick.",
+    "replacement_keys": [
+        26,
+        31,
+        32,
+        204
+    ],
+    "original_crit": 0.016843516379594803,
+    "sampled_crit": 0.006157440599054098,
+    "original_llm_likelihood": 0.016843516379594803,
+    "sampled_llm_likelihood": 0.006157440599054098
+}

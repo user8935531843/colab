@@ -1,0 +1,13 @@
+{
+    "original": "There is a growing trend among young individuals to prioritize personal endeavors over community involvement, evident in their emphasis on social media, personal growth, and relationships rather than charitable activities. While some young individuals remain active in community service, overall, this generation appears to exhibit lower levels of engagement than previous generations. Various factors contribute to this shift, including a sense of cynicism regarding the impact of individual efforts, increased focus on self-expression, decreased altruism, financial constraints, and busy lifestyles. Despite these challenges, it is crucial for young people to recognize their responsibility in supporting their communities. Even if direct contributions like volunteering or monetary donations are not feasible, young individuals can still make a difference by raising awareness, advocating for social issues, and connecting with like-minded individuals to promote community involvement. By setting positive examples and actively participating in community initiatives, young people can play a vital role in fostering positive change within their communities.",
+    "sampled": "There is a growing trend among young individuals to prioritize personal endeavors over community involvement, unmistakable in their emphasis on social media, personal growth, and relationships rather than philanthropic activities. While some young individuals remain active in community service, overall, this generation appears to exhibit lower levels of engagement than previous generations. Various factors contribute to this shift, including a sense of cynicism regarding the impact of individual efforts, increased focus on self-expression, decreased altruism, finance constraints, and busy lifestyles. Despite these challenges, it is crucial for young people to recognize their responsibility in supporting their communities. Even if direct contributions like volunteering or monetary donations are not feasible, young individuals can still make a difference by raising awareness, advocating for social issues, and connecting with like-minded individuals to promote community involvement. By setting positive examples and actively participating in community initiatives, young people can play a vital role in fostering positive change within their communities.",
+    "replacement_keys": [
+        15,
+        28,
+        75
+    ],
+    "original_crit": 0.027049127966165543,
+    "sampled_crit": 0.0008412511670030653,
+    "original_llm_likelihood": 0.027049127966165543,
+    "sampled_llm_likelihood": 0.0008412511670030653
+}

@@ -1,0 +1,11 @@
+{
+    "original": "Education is undoubtedly a life-long journey that encompasses both formal and informal learning experiences. The dynamic nature of the world constantly introduces new knowledge and technological advancements, necessitating continuous education to remain relevant and competitive. Embracing a mindset of ongoing learning aids in personal growth and development, fostering critical thinking skills and a comprehensive understanding of the world. Education serves as a gateway to exploring different perspectives, enhancing cultural awareness, and fostering self-improvement. The enjoyment and satisfaction derived from acquiring new knowledge make education a rewarding and enriching endeavor. Ultimately, education is a continuous process that empowers individuals to adapt to change, broaden their horizons, and evolve as well-rounded, informed global citizens.",
+    "sampled": "Education is undoubtedly a life-long journey that encompasses both formal and informal learning experiences. The dynamic nature of the world relentlessly introduces new knowledge and technological advancements, necessitating continuous education to remain relevant and competitive. Embracing a mindset of ongoing learning aids in personal growth and development, fostering critical thinking skills and a comprehensive understanding of the world. Education serves as a gateway to exploring different perspectives, enhancing cultural awareness, and fostering self-improvement. The enjoyment and satisfaction derived from acquiring new knowledge make education a rewarding and enriching endeavor. Ultimately, education is a continuous process that empowers individuals to adapt to change, broaden their horizons, and evolve as well-rounded, informed global citizens.",
+    "replacement_keys": [
+        20
+    ],
+    "original_crit": 0.010823612101376057,
+    "sampled_crit": 0.0070853764191269875,
+    "original_llm_likelihood": 0.010823612101376057,
+    "sampled_llm_likelihood": 0.0070853764191269875
+}

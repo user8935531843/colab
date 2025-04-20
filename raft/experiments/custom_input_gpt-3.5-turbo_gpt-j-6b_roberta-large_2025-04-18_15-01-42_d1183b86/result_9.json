@@ -1,0 +1,9 @@
+{
+    "original": "Please provide more information so that I can create a P2 style writing response.",
+    "sampled": "Please provide more information so that I can create a P2 style writing response.",
+    "replacement_keys": [],
+    "original_crit": 0.597443699836731,
+    "sampled_crit": 0.597443699836731,
+    "original_llm_likelihood": 0.597443699836731,
+    "sampled_llm_likelihood": 0.597443699836731
+}

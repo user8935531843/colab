@@ -1,0 +1,12 @@
+{
+    "original": "The enigmatic concept of dark matter has captivated scientists for years, with its enigmatic nature continuing to defy explanation. Recent studies have delved into the intriguing notion of \"dark matter hairs\" emanating from compact celestial bodies like Earth and Jupiter. This hypothesis suggests the presence of elongated dark matter regions enveloping these astronomical entities, potentially influencing nearby astrophysical processes. This analysis scrutinizes the theoretical underpinnings of dark matter hairs, including projections on their formation and interaction with visible matter. Furthermore, it explores methodologies for their potential detection, shedding light on previous research correlating these structures with observable cosmic irregularities. These findings hold significant implications for our comprehension of the universe's composition and dynamics, offering insights into the missing mass quandary and celestial object behaviors. Continued research and advancements in theoretical modeling and observational technology promise to deepen our understanding of this enigmatic cosmic component.",
+    "sampled": "The enigmatical concept of dark matter has captivated scientists for years, with its enigmatic nature continuing to defy explanation. Recent studies have delved into the intriguing notion of \"dark matter hairs\" emanating from compact celestial bodies like Earth and Jupiter. This hypothesis suggests the presence of elongated dark matter regions enveloping these astronomical entities, potentially influencing nearby astrophysical processes. This analysis scrutinizes the theoretical underpinnings of dark matter hairs, including projections on their formation and interaction with visible matter. Furthermore, it explores methods for their potential detection, shedding light on previous research correlating these structures with observable cosmic irregularities. These findings hold significant implications for our comprehension of the universe's composition and dynamics, offering insights into the missing mass quandary and celestial object behaviors. Continued research and advancements in theoretical modeling and observational technology promise to deepen our understanding of this enigmatic cosmic component.",
+    "replacement_keys": [
+        1,
+        82
+    ],
+    "original_crit": 0.1269034892320633,
+    "sampled_crit": 0.01026768609881401,
+    "original_llm_likelihood": 0.1269034892320633,
+    "sampled_llm_likelihood": 0.01026768609881401
+}

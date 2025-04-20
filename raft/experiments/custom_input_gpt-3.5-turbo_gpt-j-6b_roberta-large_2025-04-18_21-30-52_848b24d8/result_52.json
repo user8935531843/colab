@@ -1,0 +1,12 @@
+{
+    "original": "Perovskite heterojunction solar cells have garnered attention for their impressive performance and cost-effective processing potential, but face challenges regarding instability due to an electric field response. This study introduces a novel strategy to mitigate the electric field response in perovskite heterojunction solar cells by inserting a highly efficient insulating layer between the perovskite and hole transport layer. By integrating this layer, enhancements in charge carrier mobility and minimized external electric field impact are achieved. The proposed approach showcases improved operational stability for perovskite heterojunction solar cells, offering a promising avenue for the development of efficient and reliable perovskite solar cells. These insights contribute to the advancement of perovskite solar cell design and pave the way for practical applications in the future.",
+    "sampled": "Perovskite heterojunction solar cells have garnered attention for their impressive performance and cost-effective processing potentiality, but face challenges regarding instability due to an electric field response. This study introduces a novel strategy to mitigate the electric field response in perovskite heterojunction solar cells by inserting a highly efficient insulating layer between the perovskite and hole transport layer. By integrating this layer, enhancements in charge carrier mobility and minimized external electric field impact are achieved. The proposed approach showcases improved operating stability for perovskite heterojunction solar cells, offering a promising avenue for the development of efficient and reliable perovskite solar cells. These insights contribute to the advancement of perovskite solar cell design and pave the way for practical applications in the future.",
+    "replacement_keys": [
+        14,
+        79
+    ],
+    "original_crit": 0.06395085901021957,
+    "sampled_crit": 0.055628206580877304,
+    "original_llm_likelihood": 0.06395085901021957,
+    "sampled_llm_likelihood": 0.055628206580877304
+}

@@ -1,0 +1,9 @@
+{
+    "original": "In a vast field, a man with a large sack desired to paint it. With paint and a brush in hand, he began the task and transformed the sack into a beautiful sight.",
+    "sampled": "In a vast field, a man with a large sack desired to paint it. With paint and a brush in hand, he began the task and transformed the sack into a beautiful sight.",
+    "replacement_keys": [],
+    "original_crit": 0.3476620018482208,
+    "sampled_crit": 0.3476620018482208,
+    "original_llm_likelihood": 0.3476620018482208,
+    "sampled_llm_likelihood": 0.3476620018482208
+}

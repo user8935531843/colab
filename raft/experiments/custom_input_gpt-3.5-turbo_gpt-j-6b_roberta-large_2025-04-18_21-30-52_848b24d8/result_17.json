@@ -1,0 +1,13 @@
+{
+    "original": "DDSSD (Dilation and Deconvolution Single Shot Multibox Detector) is an augmented version of the successful SSD (Single Shot Multibox Detector), known for its rapid speed and high precision in object detection. Through a novel feature fusion module, DDSSD aims to enhance the performance of SSD, particularly in detecting small objects. By incorporating dilation convolution to expand the field of view of features from shallow layers and utilizing deconvolution to upscale feature maps from higher layers, DDSSD seeks to address the semantic information deficiency in shallow layer features observed in SSD. The proposed network has achieved impressive results, boasting 79.7% mAP on PASCAL VOC2007 test and 28.3% mmAP on MS COCO test-dev, operating at 41 FPS with a single Nvidia 1080 GPU and a 300x300 input. Notably, DDSSD excels in detecting small objects, surpassing numerous state-of-the-art object detection algorithms in both speed and accuracy, achieving 10.5% on MS COCO and 22.8% on the FLIR thermal dataset.",
+    "sampled": "DDSSD (Dilation and Deconvolution Single Shot Multibox Detector) is an augmented version of the successful SSD (Single Shot Multibox Detector), well-known for its rapid speed and high precision in object detection. Through a novel feature fusion module, DDSSD aims to enhance the performance of SSD, particularly in detecting small objects. By incorporating dilation convolution to expand the field of view of features from shallow layers and utilizing deconvolution to upscale feature maps from higher layers, DDSSD seeks to address the semantic information deficiency in shallow layer features observed in SSD. The proposed network has achieved impressive results, boasting 79.7% mAP on PASCAL VOC2007 test and 28.3% mmAP on MS COCO test-dev, operating at 41 FPS with a single Nvidia 1080 GPU and a 300x300 input. Significantly, DDSSD excels in detecting small objects, surpassing several state-of-the-art object detection algorithms in both speed and accuracy, achieving 10.5% on MS COCO and 22.8% on the FLIR thermal dataset.",
+    "replacement_keys": [
+        20,
+        125,
+        133
+    ],
+    "original_crit": 0.020190084353089333,
+    "sampled_crit": 0.014505419880151749,
+    "original_llm_likelihood": 0.020190084353089333,
+    "sampled_llm_likelihood": 0.014505419880151749
+}

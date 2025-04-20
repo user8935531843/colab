@@ -1,0 +1,14 @@
+{
+    "original": "University education is a topic of great debate, with some arguing that its primary function is to prepare students for employment, while others believe it serves other important purposes. In my view, while employment readiness is undoubtedly a significant aspect of university education, it is not the sole focus. University education also plays a crucial role in personal development, nurturing critical thinking, problem-solving, and communication skills essential for both professional success and everyday life. Moreover, university education fosters civic engagement, creating informed citizens who can contribute positively to society. Additionally, university education cultivates leadership skills, nurturing individuals who can inspire and collaborate effectively in various fields. While securing jobs is important, it is equally essential to recognize the broader benefits of university education in shaping well-rounded individuals capable of success in all aspects of life, not just in the workplace.",
+    "sampled": "University learning is a topic of great debate, with some arguing that its primary function is to prepare students for employment, while others believe it serves other important purposes. In my view, while labor readiness is undoubtedly a significant aspect of university education, it is not the sole focus. University education also plays a crucial role in personal development, nurturing critical thinking, problem-solving, and communication skills essential for both professional success and everyday life. Moreover, university education fosters civic engagement, developing informed citizens who can contribute positively to society. Additionally, university education cultivates leadership skills, nurturing individuals who can inspire and collaborate effectively in various fields. While securing jobs is important, it is equally essential to recognize the broader benefits of university education in shaping rounded individuals capable of success in all aspects of life, not just in the workplace.",
+    "replacement_keys": [
+        1,
+        33,
+        80,
+        125
+    ],
+    "original_crit": 0.0005350033170543611,
+    "sampled_crit": 0.0004817571898456663,
+    "original_llm_likelihood": 0.0005350033170543611,
+    "sampled_llm_likelihood": 0.0004817571898456663
+}

@@ -1,0 +1,12 @@
+{
+    "original": "In a whimsical tale, a hungry monkey searched for a tasty banana until a generous man appeared with a shiny, yellow fruit, fulfilling the monkey's desire and bringing joy to the tale.",
+    "sampled": "In a whimsy tale, a hungry monkey searched for a tasty banana until a generous man appeared with a shiny, yellow fruit, satisfying the monkey's desire and bringing joy to the tale.",
+    "replacement_keys": [
+        2,
+        22
+    ],
+    "original_crit": 0.1197153851389885,
+    "sampled_crit": 0.1030554324388504,
+    "original_llm_likelihood": 0.1197153851389885,
+    "sampled_llm_likelihood": 0.1030554324388504
+}

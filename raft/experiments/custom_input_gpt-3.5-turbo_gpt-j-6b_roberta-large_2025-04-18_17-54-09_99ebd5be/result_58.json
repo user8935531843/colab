@@ -1,0 +1,12 @@
+{
+    "original": "While it may seem reasonable to reward college graduates with higher salaries due to their investment in education, exempting them from paying tuition is a contentious issue. The argument in favor of exempting college graduates from tuition is based on the premise that they contribute to the economy through employment and higher earnings. However, this argument is flawed as evidence suggests that college graduates are not guaranteed higher employment rates or salaries compared to non-graduates. Even if college graduates do contribute more to the economy, this does not absolve them from paying the full cost of their education, as everyone is expected to pay their fair share of taxes regardless of their contributions. Furthermore, the government cannot be expected to fund the education of every college graduate, as it is already financially burdened. Individuals should take responsibility for their own education investment and bear the associated costs.",
+    "sampled": "While it may seem reasonable to reward academia graduates with higher salaries due to their investment in education, exempting them from paying tuition is a disputed issue. The argument in favor of exempting college graduates from tuition is based on the premise that they contribute to the economy through employment and higher earnings. However, this argument is flawed as evidence suggests that college graduates are not guaranteed higher employment rates or salaries compared to non-graduates. Even if college graduates do contribute more to the economy, this does not absolve them from paying the full cost of their education, as everyone is expected to pay their fair share of taxes regardless of their contributions. Furthermore, the government cannot be expected to fund the education of every college graduate, as it is already financially burdened. Individuals should take responsibility for their own education investment and bear the associated costs.",
+    "replacement_keys": [
+        7,
+        25
+    ],
+    "original_crit": 0.012461754493415356,
+    "sampled_crit": 0.005599159747362137,
+    "original_llm_likelihood": 0.012461754493415356,
+    "sampled_llm_likelihood": 0.005599159747362137
+}

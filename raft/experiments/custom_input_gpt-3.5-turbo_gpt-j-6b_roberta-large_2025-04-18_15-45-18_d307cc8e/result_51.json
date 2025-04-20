@@ -1,0 +1,9 @@
+{
+    "original": "Once in a large tree, there resided a contemplative raven.",
+    "sampled": "Once in a large tree, there resided a contemplative raven.",
+    "replacement_keys": [],
+    "original_crit": 0.368183434009552,
+    "sampled_crit": 0.368183434009552,
+    "original_llm_likelihood": 0.368183434009552,
+    "sampled_llm_likelihood": 0.368183434009552
+}

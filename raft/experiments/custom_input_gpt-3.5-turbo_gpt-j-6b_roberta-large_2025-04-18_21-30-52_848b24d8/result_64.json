@@ -1,0 +1,14 @@
+{
+    "original": "High-energy astrophysics has recently emerged as a promising avenue for exploring the most extreme cosmic environments. The forefront of this exploration is the VERITAS observatory, offering a unique perspective into the characteristics of blazars, a type of active galactic nucleus known for their intense and variable emissions across the electromagnetic spectrum. By studying the physics of blazars, VERITAS has unveiled valuable insights into the universe at large. Notably, the observatory has measured the energy spectra of blazars across a broad energy range, shedding light on the acceleration and emission mechanisms at play within these celestial bodies. Additionally, VERITAS observations have facilitated in-depth examinations of the intergalactic medium and the dissemination of high-energy cosmic rays. Moreover, the vast distances of many blazars have enabled researchers to place significant constraints on cosmological models and the elusive nature of dark matter. These findings underscore the potential of high-energy observatories like VERITAS to revolutionize our understanding of the fundamental aspects of the universe.",
+    "sampled": "High-energy astrophysics has recently emerged as a promising avenue for exploring the most extreme cosmic environments. The forefront of this exploration is the VERITAS observatory, offering a unique perspective into the traits of blazars, a type of active galactic nucleus known for their intense and variable emissions across the electromagnetic spectrum. By studying the physics of blazars, VERITAS has unveiled valuable insights into the universe at large. Prominently, the observatory has measured the energy spectra of blazars across a broad energy range, shedding light on the acceleration and emission mechanisms at play within these celestial bodies. Additionally, VERITAS observations have facilitated in-depth assessments of the intergalactic medium and the dissemination of high-energy cosmic rays. Moreover, the immense distances of many blazars have enabled researchers to place significant constraints on cosmological models and the elusive nature of dark matter. These findings underscore the potential of high-energy observatories like VERITAS to revolutionize our understanding of the fundamental aspects of the universe.",
+    "replacement_keys": [
+        31,
+        67,
+        102,
+        116
+    ],
+    "original_crit": 0.04902534559369087,
+    "sampled_crit": 0.013126137666404247,
+    "original_llm_likelihood": 0.04902534559369087,
+    "sampled_llm_likelihood": 0.013126137666404247
+}

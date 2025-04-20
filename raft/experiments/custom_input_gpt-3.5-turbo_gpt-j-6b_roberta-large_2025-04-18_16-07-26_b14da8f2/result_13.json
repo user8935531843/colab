@@ -1,0 +1,9 @@
+{
+    "original": "Jimmy encountered a mouse in the park, leading to a newfound friendship. Despite his excitement, his mother urged him to release the mouse to preserve its freedom. Similarly, two friends disagreed on catching bugs but found a compromise by playing both games, enjoying a memorable day together. Little Bear discovered the joy of music with his Mommy through a radio, while Nora embraced nature's beauty by interacting with a bunny in a meadow. Lastly, a young reindeer learned to be cautious around icy holes, heeding his mother's warning to maintain safety. Lucy experienced a magical encounter with a flame, promising to care for her family before embarking on a liberating journey.",
+    "sampled": "Jimmy encountered a mouse in the park, leading to a newfound friendship. Despite his excitement, his mother urged him to release the mouse to preserve its freedom. Similarly, two friends disagreed on catching bugs but found a compromise by playing both games, enjoying a memorable day together. Little Bear discovered the joy of music with his Mommy through a radio, while Nora embraced nature's beauty by interacting with a bunny in a meadow. Lastly, a young reindeer learned to be cautious around icy holes, heeding his mother's warning to maintain safety. Lucy experienced a magical encounter with a flame, promising to care for her family before embarking on a liberating journey.",
+    "replacement_keys": [],
+    "original_crit": 0.010949647054076195,
+    "sampled_crit": 0.010949647054076195,
+    "original_llm_likelihood": 0.010949647054076195,
+    "sampled_llm_likelihood": 0.010949647054076195
+}

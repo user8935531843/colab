@@ -1,0 +1,14 @@
+{
+    "original": "Fame comes with a price, and there is ongoing debate regarding how famous individuals are treated in the media. Some argue that celebrities are unfairly scrutinized and lack the privacy they deserve, attributing this to the nature of their fame. Others believe that this level of attention is an inherent consequence of being in the public eye. There are various reasons why fame may have negative implications for individuals. For instance, fame often encroaches on an individual's privacy, compromising their personal space and autonomy. Additionally, the constant scrutiny and criticism that come with fame can lead individuals to feel threatened and perpetually judged. Furthermore, the weight of public expectations and perceptions can create a sense of inadequacy and pressure, leaving individuals feeling like they are never enough. While some argue that fame offers benefits such as increased access to opportunities and platforms for expression, others stress the importance of maintaining privacy and autonomy in the face of intense public scrutiny. Ultimately, the impact of fame on individuals varies, with some embracing the challenges and opportunities it brings, while others find themselves navigating the complexities of public attention and perception.",
+    "sampled": "Fame comes with a price, and there is continuing debate regarding how renowned individuals are treated in the media. Some argue that celebrities are unfairly scrutinized and lack the privacy they deserve, attributing this to the nature of their fame. Others believe that this level of attention is an inherent consequence of being in the public eye. There are various reasons why fame may have negative implications for individuals. For instance, fame often encroaches on an individual's privacy, compromise their personal space and autonomy. Additionally, the constant scrutiny and criticism that come with fame can lead individuals to feel threatened and eternally judged. Furthermore, the weight of public expectations and perceptions can create a sense of inadequacy and pressure, leaving individuals feeling like they are never enough. While some argue that fame offers benefits such as increased access to opportunities and platforms for expression, others stress the importance of maintaining privacy and autonomy in the face of intense public scrutiny. Ultimately, the impact of fame on individuals varies, with some embracing the challenges and opportunities it brings, while others find themselves navigating the complexities of public attention and perception.",
+    "replacement_keys": [
+        8,
+        12,
+        78,
+        101
+    ],
+    "original_crit": 0.034083932638168335,
+    "sampled_crit": 0.003064529737457633,
+    "original_llm_likelihood": 0.034083932638168335,
+    "sampled_llm_likelihood": 0.003064529737457633
+}

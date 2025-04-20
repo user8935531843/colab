@@ -1,0 +1,11 @@
+{
+    "original": "Once, a lively mouse enjoyed frolicking in the fields until it encountered another mouse and engaged in a battle for a piece of cheese. Emerging victorious, the mouse claimed the cheese and concluded the tale.",
+    "sampled": "Once, a lively mouse enjoyed frolicking in the fields until it encountered another mouse and engaged in a battle for a piece of cheese. Emerged victorious, the mouse claimed the cheese and concluded the tale.",
+    "replacement_keys": [
+        24
+    ],
+    "original_crit": 0.15773221850395203,
+    "sampled_crit": 0.1430939882993698,
+    "original_llm_likelihood": 0.15773221850395203,
+    "sampled_llm_likelihood": 0.1430939882993698
+}

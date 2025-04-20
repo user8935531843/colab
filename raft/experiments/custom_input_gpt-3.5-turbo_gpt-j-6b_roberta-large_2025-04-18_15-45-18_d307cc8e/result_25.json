@@ -1,0 +1,9 @@
+{
+    "original": "In a serene well, resided a large green frog. Intrigued by the well's visitor, a young girl approached the frog one day. With smiles exchanged, a friendship blossomed, leading to playful moments shared between the two every day. And so, their heartwarming tale came to a close.",
+    "sampled": "In a serene well, resided a large green frog. Intrigued by the well's visitor, a young girl approached the frog one day. With smiles exchanged, a friendship blossomed, leading to playful moments shared between the two every day. And so, their heartwarming tale came to a close.",
+    "replacement_keys": [],
+    "original_crit": 0.13748538494110107,
+    "sampled_crit": 0.13748538494110107,
+    "original_llm_likelihood": 0.13748538494110107,
+    "sampled_llm_likelihood": 0.13748538494110107
+}

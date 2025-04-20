@@ -1,0 +1,9 @@
+{
+    "original": "Please provide more information or context for the last paragraph.",
+    "sampled": "Please provide more information or context for the last paragraph.",
+    "replacement_keys": [],
+    "original_crit": 0.4607818126678467,
+    "sampled_crit": 0.4607818126678467,
+    "original_llm_likelihood": 0.4607818126678467,
+    "sampled_llm_likelihood": 0.4607818126678467
+}

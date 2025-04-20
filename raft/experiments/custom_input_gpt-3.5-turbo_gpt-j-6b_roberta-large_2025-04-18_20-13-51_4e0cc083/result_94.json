@@ -1,0 +1,17 @@
+{
+    "original": "Education is a crucial investment with far-reaching benefits, providing individuals with the skills necessary for success in the workforce. Particularly in today's globalized economy, possessing the ability to compete on an international scale is imperative. Education equips individuals with the knowledge of cutting-edge technologies and critical thinking skills essential for thriving in diverse sectors. Moreover, education fosters an understanding of global cultures, enabling individuals to engage effectively with people from different backgrounds. Equally important, education cultivates responsible citizenship by imparting knowledge of democratic principles and human rights, empowering individuals to actively participate in democratic processes. The significant consequences of neglecting education surpass its initial cost, underscoring the multifaceted advantages it offers for personal and societal development. In a competitive job market, individuals lacking educational credentials face challenges in securing employment and advancing their careers. Furthermore, a lack of education can limit earning potential and restrict opportunities for personal growth and advancement. Health outcomes are also negatively impacted by a lack of education, with uneducated individuals facing greater health risks and lower life expectancies. These combined effects underscore the essential role of education in modern society, highlighting the extensive drawbacks of neglecting this crucial investment in a globalized world.",
+    "sampled": "Education is a crucial investment with far-reaching benefits, providing individuals with the skills necessary for success in the workforce. Notably in today's globalized economy, possess the ability to compete on an international scale is imperative. Education equips individuals with the knowledge of cutting-edge technologies and critical thinking skills essential for thriving in diverse sectors. Moreover, education fosters an understanding of global cultures, enabling individuals to engage effectively with people from different backgrounds. Equally important, education cultivates accountable citizenship by imparting knowledge of democratic principles and human rights, empowering individuals to actively participate in democratic processes. The significant consequences of neglecting education surpass it initial cost, underscoring the multi-faceted advantages it offers for personal and societal development. In a competitive job market, individuals lacking educational credentials face challenges in securing employment and advancing their careers. Furthermore, a lack of education can limit profits potential and restrict opportunities for personal growth and advancement. Health outcomes are also negatively impacted by a lack of education, with uneducated individuals facing greater health risks and lower life expectancies. These combined effects underscore the essential role of education in modern society, highlighting the extensive downsides of neglecting this crucial investment in a globalized world.",
+    "replacement_keys": [
+        19,
+        24,
+        76,
+        102,
+        107,
+        141,
+        188
+    ],
+    "original_crit": 0.0006803325959481299,
+    "sampled_crit": 0.00046873942483216524,
+    "original_llm_likelihood": 0.0006803325959481299,
+    "sampled_llm_likelihood": 0.00046873942483216524
+}

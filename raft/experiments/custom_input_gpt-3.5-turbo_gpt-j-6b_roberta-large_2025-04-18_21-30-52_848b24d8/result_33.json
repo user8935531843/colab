@@ -1,0 +1,11 @@
+{
+    "original": "Investigating the importance of force-free magnetic fields in the formation of astrophysical structures, this study delves into the stability of force-free surfaces that delineate magnetized regions and vacuum gaps. Leveraging the principle of minimum energy and a variational formulation, our analysis reveals the stability of force-free surfaces through small perturbation analysis, contingent on specific conditions. Notably, stability is influenced by pressure and magnetic field configurations within the magnetized regions encircling the force-free surface. These findings shed light on the stability aspects of force-free magnetic fields in vacuum gaps, with implications for comprehending phenomena like solar flares and coronal mass ejections. Moreover, the theoretical framework presented can be applied to diverse physical systems, encompassing laboratory plasma experiments and fusion devices.",
+    "sampled": "Investigating the importance of force-free magnetic fields in the formation of astrophysical structures, this study delves into the stability of force-free surfaces that delineate magnetized regions and vacuum gaps. Leveraging the principle of minimum energy and a variational formulation, our analysis reveals the stability of force-free surfaces through petite perturbation analysis, contingent on specific conditions. Notably, stability is influenced by pressure and magnetic field configurations within the magnetized regions encircling the force-free surface. These findings shed light on the stability aspects of force-free magnetic fields in vacuum gaps, with implications for comprehending phenomena like solar flares and coronal mass ejections. Moreover, the theoretical framework presented can be applied to diverse physical systems, encompassing laboratory plasma experiments and fusion devices.",
+    "replacement_keys": [
+        48
+    ],
+    "original_crit": 0.025652365759015083,
+    "sampled_crit": 0.018495526164770126,
+    "original_llm_likelihood": 0.025652365759015083,
+    "sampled_llm_likelihood": 0.018495526164770126
+}

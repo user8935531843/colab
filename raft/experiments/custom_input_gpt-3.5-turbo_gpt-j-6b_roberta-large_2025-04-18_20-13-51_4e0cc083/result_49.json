@@ -1,0 +1,12 @@
+{
+    "original": "Children should be taught both competition and cooperation, as they are essential life skills that benefit personal relationships, workforce success, and societal harmony. Competition can instill goal-setting and resilience, while cooperation fosters teamwork and conflict resolution. Learning to compete allows children to strive for achievement and deal with setbacks, while learning to cooperate encourages positive relationships and effective collaboration. Both skills are necessary for a well-rounded individual who can navigate various aspects of life, from personal connections to professional endeavors. Ultimately, teaching children to both compete and cooperate equips them with the tools needed to thrive in an increasingly complex and interconnected world.",
+    "sampled": "Children should be taught both competition and cooperation, as they are essential life skills that benefit personal relationships, employees success, and societal harmony. Competition can instillation goal-setting and resilience, while cooperation fosters teamwork and conflict resolution. Learning to compete allows children to strive for achievement and deal with setbacks, while learning to cooperate encourages positive relationships and effective collaboration. Both skills are necessary for a well-rounded individual who can navigate various aspects of life, from personal connections to professional endeavors. Ultimately, teaching children to both compete and cooperate equips them with the tools needed to thrive in an increasingly complex and interconnected world.",
+    "replacement_keys": [
+        18,
+        25
+    ],
+    "original_crit": 0.052415989339351654,
+    "sampled_crit": 0.001822135061956942,
+    "original_llm_likelihood": 0.052415989339351654,
+    "sampled_llm_likelihood": 0.001822135061956942
+}

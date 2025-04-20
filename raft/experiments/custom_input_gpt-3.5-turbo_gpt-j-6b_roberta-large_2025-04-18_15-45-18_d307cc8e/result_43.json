@@ -1,0 +1,13 @@
+{
+    "original": "John searched high and low for a case, finally finding a small one that filled him with excitement. However, his joy turned to disappointment when he discovered the case was empty. John returned home feeling dejected and longing for something more fulfilling.",
+    "sampled": "John sought elevated and low for a case, finally finding a small one that filled him with excitement. However, his joy turned to disappointment when he discovered the case was empty. John returned home feeling dejected and yearning for something more fulfilling.",
+    "replacement_keys": [
+        1,
+        2,
+        37
+    ],
+    "original_crit": 0.34190627932548523,
+    "sampled_crit": 0.026067320257425308,
+    "original_llm_likelihood": 0.34190627932548523,
+    "sampled_llm_likelihood": 0.026067320257425308
+}

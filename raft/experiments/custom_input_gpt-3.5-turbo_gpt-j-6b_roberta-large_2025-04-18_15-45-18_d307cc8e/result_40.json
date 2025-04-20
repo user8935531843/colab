@@ -1,0 +1,11 @@
+{
+    "original": "At a grand parade, crowds of enthusiastic people gathered to witness the spectacle. The lively atmosphere was filled with the sound of a vibrant band playing music, complete with drums, trumpets, and various other instruments. The spectators enthusiastically moved and danced to the catchy tunes, creating an atmosphere of pure enjoyment and excitement.",
+    "sampled": "At a grand procession, crowds of enthusiastic people gathered to witness the spectacle. The lively atmosphere was filled with the sound of a vibrant band playing music, complete with drums, trumpets, and various other instruments. The spectators enthusiastically moved and danced to the catchy tunes, creating an atmosphere of pure enjoyment and excitement.",
+    "replacement_keys": [
+        3
+    ],
+    "original_crit": 0.7520895004272461,
+    "sampled_crit": 0.716305136680603,
+    "original_llm_likelihood": 0.7520895004272461,
+    "sampled_llm_likelihood": 0.716305136680603
+}

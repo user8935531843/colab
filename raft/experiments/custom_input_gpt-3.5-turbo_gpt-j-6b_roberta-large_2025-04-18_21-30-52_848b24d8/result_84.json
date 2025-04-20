@@ -1,0 +1,11 @@
+{
+    "original": "Mass and lifetime measurements of various charmed and bottom baryons in their ground state were conducted using data obtained from $p\\bar p$ collisions at $\\sqrt{s}=1.96$ TeV, amounting to a data sample of 9.6 $\\textrm{fb}^{-1}$ and recorded by the Collider Detector at Fermilab. The baryon candidates were identified through an online event selection optimized for capturing long-lifetime heavy-flavor decay products, as well as a second event selection tailored to detect $J/\\psi \\rightarrow \\mu^+ \\, \\mu^-$ candidates. Notably, initial evidence for the $\\Omega_b^- \\rightarrow \\Omega_c^0 \\, \\pi^-$ process was observed with a significance of $3.3\\sigma$. The measured masses of the baryons were: $M(\\Xi_c^{0})$, $M(\\Xi_c^{+})$, $M(\\Lambda_b)$, $M(\\Xi_b^-)$, $M(\\Xi_b^0)$, and $M(\\Omega_b^-)$, along with the isospin splittings of the $\\Xi_b^{-,0}$ and $\\Xi_c^{0,+}$ states. In addition to mass measurements, lifetime measurements for the $\\Lambda_b$, $\\Xi_b^-$, and $\\Omega_b^-$ baryons were also reported.",
+    "sampled": "Mass and lifetime measurements of various charmed and bottom baryons in their ground state were conducted using data obtained from $p\\bar p$ collisions at $\\sqrt{s}=1.96$ TeV, amounting to a data sample of 9.6 $\\textrm{fb}^{-1}$ and recorded by the Collider Detector at Fermilab. The baryon candidates were identified through an online event selection optimized for capturing long-lifetime heavy-flavor decay products, as well as a second event selection tailored to detect $J/\\psi \\rightarrow \\mu^+ \\, \\mu^-$ candidates. Prominently, initial evidence for the $\\Omega_b^- \\rightarrow \\Omega_c^0 \\, \\pi^-$ process was observed with a significance of $3.3\\sigma$. The measured masses of the baryons were: $M(\\Xi_c^{0})$, $M(\\Xi_c^{+})$, $M(\\Lambda_b)$, $M(\\Xi_b^-)$, $M(\\Xi_b^0)$, and $M(\\Omega_b^-)$, along with the isospin splittings of the $\\Xi_b^{-,0}$ and $\\Xi_c^{0,+}$ states. In addition to mass measurements, lifetime measurements for the $\\Lambda_b$, $\\Xi_b^-$, and $\\Omega_b^-$ baryons were also reported.",
+    "replacement_keys": [
+        75
+    ],
+    "original_crit": 0.04592622444033623,
+    "sampled_crit": 0.045229580253362656,
+    "original_llm_likelihood": 0.04592622444033623,
+    "sampled_llm_likelihood": 0.045229580253362656
+}

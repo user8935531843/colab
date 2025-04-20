@@ -1,0 +1,12 @@
+{
+    "original": "Once upon a time, the young girl Lola, enchanted by purple things, stumbled upon a big, purple pastry in the park. Eager to taste it, she tugged at the pastry until it ripped in two, surprising her. Her excitement was short-lived as she hurriedly took a bite before her mother called her home. Displaying the pastry to her mother, Lola's enthusiasm shone through as she shared her discovery. In another tale, a resourceful farmer and his animals followed a duck's lead to a bountiful pond, fostering a day of exploration and camaraderie. The creative farmer thanked the duck for the delightful journey, and they all returned home content. Meanwhile, young Jill's prized toy car unveiled a surprise, leading her to a magical robot gift with its mysterious print. Lastly, intrepid Susie embarked on a mission to guide a lost kitty back home, overcoming obstacles and finding a hidden path to reunite the furry friend with its family. John and Sarah's discovery of a shiny piece of metal prompted them to seek its rightful owner, igniting the siblings' eagerness to help and find a happy resolution.",
+    "sampled": "Once upon a time, the young girl Lola, enchanted by purple things, stumbled upon a big, purple pastry in the park. Eager to taste it, she tugged at the pastry until it ripped in two, astonishing her. Her excitement was short-lived as she hurriedly took a bite before her mother called her home. Displaying the pastry to her mother, Lola's enthusiasm shone through as she shared her discovery. In another tale, a resourceful farmer and his animals followed a duck's lead to a bountiful pond, fostering a day of exploration and camaraderie. The creative farmer thankful the duck for the delightful journey, and they all returned home content. Meanwhile, young Jill's prized toy car unveiled a surprise, leading her to a magical robot gift with its mysterious print. Lastly, intrepid Susie embarked on a mission to guide a lost kitty back home, overcoming obstacles and finding a hidden path to reunite the furry friend with its family. John and Sarah's discovery of a shiny piece of metal prompted them to seek its rightful owner, igniting the siblings' eagerness to help and find a happy resolution.",
+    "replacement_keys": [
+        35,
+        95
+    ],
+    "original_crit": 0.02150825783610344,
+    "sampled_crit": 0.009689177386462688,
+    "original_llm_likelihood": 0.02150825783610344,
+    "sampled_llm_likelihood": 0.009689177386462688
+}

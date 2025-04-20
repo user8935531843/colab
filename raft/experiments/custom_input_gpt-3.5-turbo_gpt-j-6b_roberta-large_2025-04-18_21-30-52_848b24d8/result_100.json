@@ -1,0 +1,13 @@
+{
+    "original": "Through the proposed framework of Social Chemistry 101, this paper aims to delve into the cognitive processes underpinning social and moral reasoning, incorporating insights from developmental psychology, social psychology, and philosophy. Emphasizing the significance of understanding moral norms and the intricate decision-making processes that influence moral judgments, the framework navigates through conflicts arising from differing norms. By synthesizing empirical research, theoretical discussions, and case studies, Social Chemistry 101 seeks to illuminate contemporary social and moral issues, spanning from moral education to political polarization and societal transformations. This framework not only offers a holistic perspective on human behavior within societal contexts but also provides practical guidance for educators and researchers seeking to implement Social Chemistry 101 in their own work. Ultimately, by bridging disciplinary gaps and offering practical insights, Social Chemistry 101 has the potential to enhance our comprehension of human nature and societal dynamics.",
+    "sampled": "Through the proposed framework of Sociality Chemistry 101, this paper aims to delve into the cognitive processes underpinning social and moral reasoning, incorporating insights from developmental psychology, social psychology, and philosophy. Emphasizing the significance of understanding moral norms and the intricately decision-making processes that influence moral judgments, the framework navigates through conflicts arising from differing norms. By synthesizing empirical research, theoretical discussions, and case studies, Social Chemistry 101 seeks to illuminate contemporary social and moral issues, spanning from moral education to political polarization and societal transformation. This framework not only offers a holistic perspective on human behavior within societal contexts but also provides practical guidance for educators and researchers seeking to implement Social Chemistry 101 in their own work. Ultimately, by bridging disciplinary gaps and offering practical insights, Social Chemistry 101 has the potential to enhance our comprehension of human nature and societal dynamics.",
+    "replacement_keys": [
+        5,
+        40,
+        85
+    ],
+    "original_crit": 0.15479718148708344,
+    "sampled_crit": 0.09236517548561096,
+    "original_llm_likelihood": 0.15479718148708344,
+    "sampled_llm_likelihood": 0.09236517548561096
+}

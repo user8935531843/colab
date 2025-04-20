@@ -1,0 +1,12 @@
+{
+    "original": "The loud missile, once powerful and dominant, became unhappy one day, and stopped abruptly. It stood tall amidst the quietness, pondering its existence.",
+    "sampled": "The loud rocket, once powerful and dominant, became depressed one day, and stopped abruptly. It stood tall amidst the quietness, pondering its existence.",
+    "replacement_keys": [
+        2,
+        8
+    ],
+    "original_crit": 0.3379252552986145,
+    "sampled_crit": 0.24595977365970612,
+    "original_llm_likelihood": 0.3379252552986145,
+    "sampled_llm_likelihood": 0.24595977365970612
+}

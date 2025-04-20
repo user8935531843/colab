@@ -1,0 +1,9 @@
+{
+    "original": "Once, there lived a diligent man who toiled tirelessly day and night. Upon one fateful day, he indulged in a refreshing bath, using a fragrant soap that left him feeling content and immaculately clean.",
+    "sampled": "Once, there lived a diligent man who toiled tirelessly day and night. Upon one fateful day, he indulged in a refreshing bath, using a fragrant soap that left him feeling content and immaculately clean.",
+    "replacement_keys": [],
+    "original_crit": 0.128573477268219,
+    "sampled_crit": 0.128573477268219,
+    "original_llm_likelihood": 0.128573477268219,
+    "sampled_llm_likelihood": 0.128573477268219
+}

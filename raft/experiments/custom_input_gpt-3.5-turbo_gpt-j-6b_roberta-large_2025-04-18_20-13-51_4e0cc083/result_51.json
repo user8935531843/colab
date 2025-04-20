@@ -1,0 +1,12 @@
+{
+    "original": "It is believed that children should be taught to cooperate in order to develop essential life skills and foster healthy relationships. Cooperation involves working together towards a common goal, teaching children to be considerate, compromise, and communicate effectively. This skill is crucial in various aspects of life, from academic settings to personal relationships, and can help children succeed in both their future careers and personal lives. While competition has its merits in motivating children and teaching them to strive for excellence, cooperation fosters a sense of teamwork, empathy, and respect for others, ultimately shaping well-rounded individuals. In conclusion, prioritizing cooperation over competition equips children with valuable skills that will benefit them throughout their lives.",
+    "sampled": "It is believed that youngsters should be taught to collaborate in order to develop essential life skills and foster healthy relationships. Cooperation involves working together towards a common goal, teaching children to be considerate, compromise, and communicate effectively. This skill is crucial in various aspects of life, from academic settings to personal relationships, and can help children succeed in both their future careers and personal lives. While competition has its merits in motivating children and teaching them to strive for excellence, cooperation fosters a sense of teamwork, empathy, and respect for others, ultimately shaping well-rounded individuals. In conclusion, prioritizing cooperation over competition equips children with valuable skills that will benefit them throughout their lives.",
+    "replacement_keys": [
+        4,
+        9
+    ],
+    "original_crit": 0.002268402138724923,
+    "sampled_crit": 0.001152104465290904,
+    "original_llm_likelihood": 0.002268402138724923,
+    "sampled_llm_likelihood": 0.001152104465290904
+}

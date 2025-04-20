@@ -1,0 +1,9 @@
+{
+    "original": "There once existed a young girl named Lily who harbored a deep affection for fairies. She would",
+    "sampled": "There once existed a young girl named Lily who harbored a deep affection for fairies. She would",
+    "replacement_keys": [],
+    "original_crit": 0.36754706501960754,
+    "sampled_crit": 0.36754706501960754,
+    "original_llm_likelihood": 0.36754706501960754,
+    "sampled_llm_likelihood": 0.36754706501960754
+}

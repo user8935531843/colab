@@ -1,0 +1,12 @@
+{
+    "original": "A broad understanding of multiple academic subjects offers numerous advantages, including the ability to perceive interconnections between various disciplines, leading to a more comprehensive understanding of the world. Moreover, a diverse educational background equips individuals with a well-rounded education, preparing them for a range of career opportunities and cultivating critical thinking skills essential for informed citizenship. By delving into various subjects, individuals gain insights into different cultures and perspectives, fostering a global outlook in an increasingly diverse society. Additionally, possessing a broad knowledge base can enhance personal interactions, making individuals more captivating and intellectually stimulating conversationalists. Overall, a comprehensive understanding of multiple academic subjects not only facilitates interdisciplinary learning but also enhances personal growth, professional prospects, and social engagement.",
+    "sampled": "A broad understanding of numerous academic subjects offers numerous advantages, including the ability to perceive interconnections between various disciplines, leading to a more comprehensive understanding of the world. Moreover, a diverse educational background equips individuals with a well-rounded education, preparing them for a range of career opportunities and cultivating critical thinking skills essential for informed citizenship. By delving into various subjects, individuals gain insights into different cultures and perspectives, fostering a global outlook in an increasingly diverse society. Additionally, possessing a broad knowledge base can enhance personal interactions, making individuals more captivating and intellectually stimulating conversationalists. Total, a comprehensive understanding of multiple academic subjects not only facilitates interdisciplinary learning but also enhances personal growth, professional prospects, and social engagement.",
+    "replacement_keys": [
+        4,
+        96
+    ],
+    "original_crit": 0.001507521141320467,
+    "sampled_crit": 0.0007287619519047439,
+    "original_llm_likelihood": 0.001507521141320467,
+    "sampled_llm_likelihood": 0.0007287619519047439
+}

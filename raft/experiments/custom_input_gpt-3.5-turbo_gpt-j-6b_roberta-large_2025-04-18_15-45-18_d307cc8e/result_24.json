@@ -1,0 +1,11 @@
+{
+    "original": "In a quaint village, there resided a young girl with a pink bicycle, her prized possession. Delighted by the joy of riding around her home, she cherished every moment spent on her bicycle. One unfortunate day, a mishap occurred as she tumbled off her bike, resulting in a painful injury to her knee. Overwhelmed by tears and distress, her heartfelt cries echoed in the air until her mother appeared, embracing her in a warm hug. Comforted by her mother's presence, the girl found solace in the midst of her pain, gradually experiencing a sense of relief and reassurance.",
+    "sampled": "In a quaintly village, there resided a young girl with a pink bicycle, her prized possession. Delighted by the joy of riding around her home, she cherished every moment spent on her bicycle. One unfortunate day, a mishap occurred as she tumbled off her bike, resulting in a painful injury to her knee. Overwhelmed by tears and distress, her heartfelt cries echoed in the air until her mother appeared, embracing her in a warm hug. Comforted by her mother's presence, the girl found solace in the midst of her pain, gradually experiencing a sense of relief and reassurance.",
+    "replacement_keys": [
+        2
+    ],
+    "original_crit": 0.0007647426100447774,
+    "sampled_crit": 0.000732082175090909,
+    "original_llm_likelihood": 0.0007647426100447774,
+    "sampled_llm_likelihood": 0.000732082175090909
+}

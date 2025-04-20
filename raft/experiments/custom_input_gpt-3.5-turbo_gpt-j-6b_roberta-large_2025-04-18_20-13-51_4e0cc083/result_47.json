@@ -1,0 +1,14 @@
+{
+    "original": "There are two contrasting perspectives on how children should learn to interact with others – through competition or cooperation. While some argue in favor of competition, emphasizing its role in preparing children for life’s challenges, others advocate for cooperation, highlighting its importance in fostering harmonious relationships and success. The balance between competition and cooperation can vary based on individual preferences and family values. Nonetheless, I firmly believe that prioritizing cooperation in children's education is crucial for several reasons. Cooperation nurtures social skills and community building, instilling the value of teamwork and enhancing interpersonal abilities, especially in an era where technology can isolate individuals. Additionally, cooperation fosters problem-solving skills, encouraging collaborative efforts to find solutions to challenges. Learning to compromise, another vital skill learned through cooperation, enables children to navigate disagreements effectively. Moreover, cooperation instills patience and promotes the notion of taking turns, key attributes for successful interactions in life. Ultimately, by prioritizing cooperation, children can develop essential life skills, build strong relationships, and thrive in both personal and professional spheres.",
+    "sampled": "There are two differing perspectives on how youngsters should learn to interact with others – through competition or cooperation. While some argue in favor of competition, emphasizing its role in preparing children for life’s challenges, others advocate for cooperation, highlighting its importance in fostering harmonious relationships and success. The balance between competition and cooperation can vary based on individual preferences and family values. Nonetheless, I firmly believe that prioritizing cooperation in children's education is crucial for numerous reasons. Cooperation nurtures social skills and community building, instilling the value of teamwork and enhancing interpersonal abilities, especially in an era where technology can isolate individuals. Additionally, cooperation fosters problem-solving skills, encouraging collaborative efforts to find solutions to challenges. Training to compromise, another vital skill learned through cooperation, enables children to navigate disagreements effectively. Moreover, cooperation instills patience and promotes the notion of taking turns, key attributes for successful interactions in life. Ultimately, by prioritizing cooperation, children can develop essential life skills, build strong relationships, and thrive in both personal and professional spheres.",
+    "replacement_keys": [
+        3,
+        7,
+        76,
+        116
+    ],
+    "original_crit": 0.001065799966454506,
+    "sampled_crit": 0.0006623071967624128,
+    "original_llm_likelihood": 0.001065799966454506,
+    "sampled_llm_likelihood": 0.0006623071967624128
+}

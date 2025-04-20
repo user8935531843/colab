@@ -1,0 +1,9 @@
+{
+    "original": "With politeness in mind, the snail was making its way across the road when a sudden loud noise interrupted its journey. A car, oblivious to the snail's presence, drove right over it, leaving the snail in its shell. And so, the snail's adventure came to an end.",
+    "sampled": "With politeness in mind, the snail was making its way across the road when a sudden loud noise interrupted its journey. A car, oblivious to the snail's presence, drove right over it, leaving the snail in its shell. And so, the snail's adventure came to an end.",
+    "replacement_keys": [],
+    "original_crit": 0.6042933464050293,
+    "sampled_crit": 0.6042933464050293,
+    "original_llm_likelihood": 0.6042933464050293,
+    "sampled_llm_likelihood": 0.6042933464050293
+}

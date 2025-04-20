@@ -1,0 +1,11 @@
+{
+    "original": "Mama was engaged in cleaning activities, utilizing a large cord to shake and clean the room. By vigorously moving the cord back and forth, she successfully removed dirt from the room, resulting in a clean environment. Satisfied with her work, Mama stored the cord and exclaimed, \"Finished!\"",
+    "sampled": "Mama was engaged in cleaning activities, utilizing a large cable to shake and clean the room. By vigorously moving the cord back and forth, she successfully removed dirt from the room, resulting in a clean environment. Satisfied with her work, Mama stored the cord and exclaimed, \"Finished!\"",
+    "replacement_keys": [
+        9
+    ],
+    "original_crit": 0.010730261914432049,
+    "sampled_crit": 0.009653052315115929,
+    "original_llm_likelihood": 0.010730261914432049,
+    "sampled_llm_likelihood": 0.009653052315115929
+}

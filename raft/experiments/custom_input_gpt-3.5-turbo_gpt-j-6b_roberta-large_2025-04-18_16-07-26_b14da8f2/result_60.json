@@ -1,0 +1,11 @@
+{
+    "original": "Once upon a time, a stone wished for excitement but remained stationary until discovering the ability to zip around a garden, feeling joy as it moved. Charlie the cat, in need of activity, embarked on a refreshing jog and visited the vet, encountering various animals. Abigail, a three-year-old girl, found solace in a pink balloon and overcame worries. An old jeep sought adventure but encountered brave soldiers on a hill, teaching him the value of bravery. A mischievous sausage learned discipline through nightly rewards of sausages for going to bed on time. Lastly, a daring girl ventured into a feared jungle, befriending a baby monkey and overcoming her fears as they explored and played together.",
+    "sampled": "Once upon a time, a stone wished for excitement but remained stationary until discovering the ability to zip around a garden, feeling joy as it moved. Charlie the cat, in need of activity, embarked on a refreshing jog and visited the vet, encountering various animals. Abigail, a three-year-old girl, found solace in a pink balloon and overcame worries. An old jeep sought adventure but encountered courageous soldiers on a hill, teaching him the value of bravery. A mischievous sausage learned discipline through nightly rewards of sausages for going to bed on time. Lastly, a daring girl ventured into a feared jungle, befriending a baby monkey and overcoming her fears as they explored and played together.",
+    "replacement_keys": [
+        65
+    ],
+    "original_crit": 0.0007070478168316185,
+    "sampled_crit": 0.0006946490611881018,
+    "original_llm_likelihood": 0.0007070478168316185,
+    "sampled_llm_likelihood": 0.0006946490611881018
+}

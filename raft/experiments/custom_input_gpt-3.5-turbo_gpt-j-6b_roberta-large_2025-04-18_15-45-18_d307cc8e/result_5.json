@@ -1,0 +1,11 @@
+{
+    "original": "Once a lady ventured outdoors in the rain, resulting in a dampened state. Seeking refuge indoors, she settled in a chair to witness her umbrella twirl blissfully, eliciting joy within her. This simple act brought about contentment, concluding her rainy day tale.",
+    "sampled": "Once a lady ventured outdoors in the rain, resulted in a dampened state. Seeking refuge indoors, she settled in a chair to witness her umbrella twirl blissfully, eliciting joy within her. This simple act brought about contentment, concluding her rainy day tale.",
+    "replacement_keys": [
+        8
+    ],
+    "original_crit": 0.042382266372442245,
+    "sampled_crit": 0.0377265028655529,
+    "original_llm_likelihood": 0.042382266372442245,
+    "sampled_llm_likelihood": 0.0377265028655529
+}

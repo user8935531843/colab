@@ -1,0 +1,16 @@
+{
+    "original": "While some may argue that life was better when technology was simpler, I firmly believe that modern technology has revolutionized the way we live, making life more convenient in various aspects. Modern technology has vastly improved communication by enabling us to connect with anyone, anywhere in the world, at any time through smartphones. This advancement has transformed the way we stay in touch with loved ones, fostering seamless communication through phone calls, text messages, and video calls. Additionally, technology has streamlined daily tasks by allowing us to shop online, order food, book services, and more with just a few taps on our devices. These conveniences save us time and effort, empowering us to focus on other important aspects of our lives. Moreover, modern technology has enhanced safety and security by offering tools like security cameras, alarms, and GPS tracking to safeguard our homes, businesses, and personal well-being. These technologies provide us with peace of mind and a sense of security in our everyday lives. While there may be concerns surrounding modern technology, such as addiction and privacy issues, the numerous benefits it brings, including efficiency, convenience, and safety, far outweigh any drawbacks.",
+    "sampled": "While some may argue that life was better when technology was simpler, I firmly believe that modern technology has revolutionized the way we live, making life more convenient in various aspects. Contemporary technology has substantially improved communication by enabling us to connect with anyone, anywhere in the world, at any time through smartphones. This advancement has transformed the way we stay in touch with loved ones, fostering seamless communication through phone calls, text messages, and video calls. Furthermore, technology has streamlined daily tasks by allowing us to shop online, order food, book services, and more with just a few taps on our devices. These conveniences save us time and effort, empowering us to focus on other important aspects of our lives. Additionally, modern technology has enhanced safeguard and security by offering tools like security cameras, alarms, and GPS tracking to safeguard our homes, businesses, and personal well-being. These technologies provide us with peace of mind and a sense of security in our everyday lives. While there may be concerns surrounding modern technology, such as addiction and privacy issues, the several benefits it brings, including efficiency, convenience, and safety, far outweigh any drawbacks.",
+    "replacement_keys": [
+        31,
+        34,
+        77,
+        121,
+        126,
+        179
+    ],
+    "original_crit": 0.1852310597896576,
+    "sampled_crit": 0.007241660729050636,
+    "original_llm_likelihood": 0.1852310597896576,
+    "sampled_llm_likelihood": 0.007241660729050636
+}

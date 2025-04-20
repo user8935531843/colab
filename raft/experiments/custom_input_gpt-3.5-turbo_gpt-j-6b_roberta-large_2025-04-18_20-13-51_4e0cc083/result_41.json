@@ -1,0 +1,16 @@
+{
+    "original": "The debate on the lifelong nature of education continues to spark discussions among individuals. While some argue that education can be completed within a short timeframe, others advocate for a continuous process of learning throughout one's life. From my perspective, education is a lifelong journey that requires dedication and effort. Acquiring new skills and knowledge is a continuous process that enriches one's personal and professional growth. It's not a one-time endeavor, but rather a continuous effort to evolve and adapt to new challenges and opportunities. In my experience, the ability to learn and grow is essential for success in any field. As individuals, we must embrace lifelong learning to stay relevant and competitive in today's rapidly changing world. What do you believe is the most important lesson you've learned in your career thus far? Share your insights on the significance of continuous learning in shaping your personal and professional development.",
+    "sampled": "The argument on the lifelong nature of learning continues to spark talks among persons. While some argue that education can be completed within a short timeframe, others advocate for a continuous process of learning throughout one's life. From my perspective, education is a lifelong journey that requires dedication and effort. Obtaining new skills and knowledge is a continuous process that enriches one's personal and professional growth. It's not a one-time endeavor, but rather a continuous effort to evolve and adapt to new challenges and opportunities. In my experience, the ability to learn and grow is essential for success in any field. As individuals, we must embrace lifelong learning to stay relevant and competitive in today's rapidly changing world. What do you believe is the most important lesson you've learned in your career hence far? Share your insights on the significance of continuous learning in shaping your personal and professional development.",
+    "replacement_keys": [
+        1,
+        7,
+        11,
+        13,
+        50,
+        132
+    ],
+    "original_crit": 0.18702387809753418,
+    "sampled_crit": 0.0016502141952514648,
+    "original_llm_likelihood": 0.18702387809753418,
+    "sampled_llm_likelihood": 0.0016502141952514648
+}

@@ -1,0 +1,9 @@
+{
+    "original": "A beautiful swan resided in a vast lake, adorned with glistening white feathers. Yearning to soar through the skies, the swan gracefully spread its wings and ascended into the heavens, experiencing a newfound sense of joy and freedom.",
+    "sampled": "A beautiful swan resided in a vast lake, adorned with glistening white feathers. Yearning to soar through the skies, the swan gracefully spread its wings and ascended into the heavens, experiencing a newfound sense of joy and freedom.",
+    "replacement_keys": [],
+    "original_crit": 0.10087250918149948,
+    "sampled_crit": 0.10087250918149948,
+    "original_llm_likelihood": 0.10087250918149948,
+    "sampled_llm_likelihood": 0.10087250918149948
+}

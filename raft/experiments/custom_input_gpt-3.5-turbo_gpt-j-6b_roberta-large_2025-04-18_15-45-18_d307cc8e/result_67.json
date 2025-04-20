@@ -1,0 +1,12 @@
+{
+    "original": "In a grand castle, a courageous queen resided with her companions. One day, a small bird visited the castle seeking company. Welcoming the bird with open arms, the queen and her friends engaged in joyful play and merriment. And so, they all lived happily ever after.",
+    "sampled": "In a grand castle, a brave queen inhabited with her companions. One day, a small bird visited the castle seeking company. Welcoming the bird with open arms, the queen and her friends engaged in joyful play and merriment. And so, they all lived happily ever after.",
+    "replacement_keys": [
+        5,
+        7
+    ],
+    "original_crit": 0.1281888782978058,
+    "sampled_crit": 0.07259153574705124,
+    "original_llm_likelihood": 0.1281888782978058,
+    "sampled_llm_likelihood": 0.07259153574705124
+}

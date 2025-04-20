@@ -1,0 +1,15 @@
+{
+    "original": "University education has multiple functions beyond preparing students for employment, encompassing the development of critical thinking skills, fostering career readiness, and facilitating intellectual growth. A university education equips students with the ability to critically analyze and assess problems, validate information, and draw evidence-based conclusions. By providing students with the necessary skills to secure employment and excel in diverse professional settings, a university education serves as a gateway to exploring various fields of study and honing individual interests. Additionally, it paves the way for intellectual advancement by offering opportunities to learn from experts, engage in challenging academic pursuits, and contribute innovative ideas to society. The multifaceted functions of university education underscore its significance in shaping well-rounded individuals capable of making meaningful contributions to the world.",
+    "sampled": "University learning has numerous functions beyond preparing students for employment, all-encompassing the development of critical thinking skills, fostering profession readiness, and facilitating intellectual growth. A university education equips students with the ability to critically analyze and assess problems, validate information, and draw evidence-based conclusions. By providing students with the necessary skills to secure employment and excel in diverse professional settings, a university education serves as a gateway to exploring various fields of study and honing individual interests. Additionally, it paves the way for intellectual advancement by offering opportunities to learn from experts, engage in challenging academic pursuits, and contribute innovative ideas to society. The multi-faceted functions of university education underscore its significance in shaping well-rounded individuals capable of making meaningful contributions to the world.",
+    "replacement_keys": [
+        1,
+        3,
+        10,
+        18,
+        104
+    ],
+    "original_crit": 0.021477600559592247,
+    "sampled_crit": 0.010008009150624275,
+    "original_llm_likelihood": 0.021477600559592247,
+    "sampled_llm_likelihood": 0.010008009150624275
+}

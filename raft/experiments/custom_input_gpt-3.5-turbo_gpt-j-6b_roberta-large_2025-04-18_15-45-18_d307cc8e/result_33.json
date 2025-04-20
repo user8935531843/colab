@@ -1,0 +1,9 @@
+{
+    "original": "There once was a robot who was carefree and lacked caution. During a stroll in the park, he encountered a formidable bear, causing him to panic and be unable to evade the danger. Unfortunately, the bear caught him and met a tragic end.",
+    "sampled": "There once was a robot who was carefree and lacked caution. During a stroll in the park, he encountered a formidable bear, causing him to panic and be unable to evade the danger. Unfortunately, the bear caught him and met a tragic end.",
+    "replacement_keys": [],
+    "original_crit": 0.7178540229797363,
+    "sampled_crit": 0.7178540229797363,
+    "original_llm_likelihood": 0.7178540229797363,
+    "sampled_llm_likelihood": 0.7178540229797363
+}

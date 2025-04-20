@@ -1,0 +1,11 @@
+{
+    "original": "Perovskite heterojunction solar cells have garnered significant interest for their high performance and cost-effective processing capabilities. However, a key challenge hindering their widespread adoption is the instability caused by electric field responses. In this research, a novel solution is proposed to address this issue by introducing a thin yet powerful insulating layer between the perovskite layer and the hole transport layer. This innovative approach enhances the mobility of charge carriers while minimizing the impact of external electric fields. The results demonstrate a marked improvement in the operational stability of perovskite heterojunction solar cells, offering a promising avenue for the development of efficient and durable solar cell technology. These insights contribute to the advancement of perovskite solar cell design and pave the way for practical applications in the renewable energy sector.",
+    "sampled": "Perovskite heterojunction solar cells have garnered significant interest for their high performance and cost-effective processing capabilities. However, a key challenge hindering their widespread adoption is the instability caused by electric field responses. In this research, a novel solution is proposed to address this issue by introducing a thin yet strong insulating layer between the perovskite layer and the hole transport layer. This innovative approach enhances the mobility of charge carriers while minimizing the impact of external electric fields. The results demonstrate a marked improvement in the operational stability of perovskite heterojunction solar cells, offering a promising avenue for the development of efficient and durable solar cell technology. These insights contribute to the advancement of perovskite solar cell design and pave the way for practical applications in the renewable energy sector.",
+    "replacement_keys": [
+        49
+    ],
+    "original_crit": 0.1253805160522461,
+    "sampled_crit": 0.0767965242266655,
+    "original_llm_likelihood": 0.1253805160522461,
+    "sampled_llm_likelihood": 0.0767965242266655
+}

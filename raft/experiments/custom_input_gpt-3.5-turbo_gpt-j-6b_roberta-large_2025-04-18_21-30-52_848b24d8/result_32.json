@@ -1,0 +1,13 @@
+{
+    "original": "The inception of hypercyclicity originates from the realm of dynamical systems. In linear functional analysis, a bounded linear operator T that acts on a separable complex Banach space X is deemed hypercyclic if there exists a vector x within X, such that the orbit of x under T's influence spans X densely. The concept of common hypercyclic vectors in an array of operators was introduced to outline the sufficient conditions for the hypercyclicity of the group. This paper provides an insight into the contemporary understanding of common hypercyclic vectors. We delve into the different characterizations of common hypercyclic vectors, the correlation between common hypercyclic vectors and their corresponding operators, and the intersections between common hypercyclic vectors and other functional analysis concepts like composition operators and invariant subspaces. Additionally, recent progress in comprehending common hypercyclic vectors is discussed. The objective is to offer readers a comprehensive grasp of the role of common hypercyclic vectors in hypercyclicity theory, while also highlighting unresolved queries and avenues for future exploration in this domain.",
+    "sampled": "The inception of hypercyclicity originates from the realm of dynamical systems. In linear functional analysis, a bounded linear operator T that acts on a separable complex Banach space X is deemed hypercyclic if there exists a vector x throughout X, such that the orbit of x under T's influence spans X densely. The concept of commonplace hypercyclic vectors in an array of operators was introduced to outline the sufficient conditions for the hypercyclicity of the group. This paper provides an insight into the contemporary understanding of common hypercyclic vectors. We delve into the different characterizations of common hypercyclic vectors, the correlation between common hypercyclic vectors and their corresponding operators, and the intersections between common hypercyclic vectors and other functional analysis concepts like composition operators and invariant subspaces. Additionally, recent progress in understanding common hypercyclic vectors is discussed. The objective is to offer readers a comprehensive grasp of the role of common hypercyclic vectors in hypercyclicity theory, while also highlighting unresolved queries and avenues for future exploration in this domain.",
+    "replacement_keys": [
+        38,
+        55,
+        131
+    ],
+    "original_crit": 0.0028482323978096247,
+    "sampled_crit": 0.001186378300189972,
+    "original_llm_likelihood": 0.0028482323978096247,
+    "sampled_llm_likelihood": 0.001186378300189972
+}

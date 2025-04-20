@@ -1,0 +1,11 @@
+{
+    "original": "In a far-off land, resided a peculiar horse named Tim. Tim stood out from the others for his unusual fondness for sitting, contrary to the running and playing antics of his fellow equines.",
+    "sampled": "In a far-off land, inhabited a peculiar horse named Tim. Tim stood out from the others for his unusual fondness for sitting, contrary to the running and playing antics of his fellow equines.",
+    "replacement_keys": [
+        4
+    ],
+    "original_crit": 0.04598163440823555,
+    "sampled_crit": 0.027651704847812653,
+    "original_llm_likelihood": 0.04598163440823555,
+    "sampled_llm_likelihood": 0.027651704847812653
+}

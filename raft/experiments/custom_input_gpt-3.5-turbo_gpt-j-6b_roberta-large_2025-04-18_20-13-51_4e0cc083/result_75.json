@@ -1,0 +1,15 @@
+{
+    "original": "There is a widespread debate surrounding the impact of computer games on children's physical, intellectual, and psychological development. While some argue that computer games have negative effects that outweigh the positives, I contend that the benefits of playing computer games far exceed the drawbacks. Computer games offer various advantages, such as enhancing physical coordination and problem-solving skills. For example, games like \"Angry Birds\" and \"Minecraft\" require players to utilize hand-eye coordination and strategic thinking to progress. Additionally, computer games can improve cognitive abilities by engaging players in tasks that require critical thinking and creativity. Educational games like \"Civilization\" provide a platform for learning about history and can boost academic performance. Moreover, computer games can foster social skills, as seen in team-based games like \"Fortnite\" that encourage collaboration and communication among players. Although there are concerns about addiction, obesity, and exposure to violence associated with excessive gaming, I believe that the positive impact of computer games on children's development should not be discounted. Parents should monitor and regulate their children's gaming habits while recognizing the potential benefits that responsibly playing computer games can offer.",
+    "sampled": "There is a prevalent debate surrounding the impact of computer games on children's physical, intellectual, and psychological development. While some argue that computer games have negative effects that outweigh the positives, I contend that the benefits of playing computer games far exceed the drawbacks. Computer games offer numerous advantages, such as enhancing physical coordination and problem-solving skills. For example, games like \"Angry Birds\" and \"Minecraft\" require players to utilize hand-eye coordination and strategic thinking to progress. Additionally, computer games can improve cognitive abilities by engaging players in tasks that require critical thinking and creativity. Instructional games like \"Civilization\" provide a platform for learning about history and could boost academic performance. Moreover, computer games can foster social skills, as seen in team-based games like \"Fortnite\" that encourage collaboration and communication among players. Although there are concerns about addiction, adiposity, and exposure to violence associated with excessive gaming, I believe that the positive impact of computer games on children's development should not be discounted. Parents should monitor and regulate their children's gaming habits while recognizing the potential benefits that responsibly playing computer games can offer.",
+    "replacement_keys": [
+        3,
+        47,
+        94,
+        106,
+        137
+    ],
+    "original_crit": 0.043697673827409744,
+    "sampled_crit": 0.0008913615602068603,
+    "original_llm_likelihood": 0.043697673827409744,
+    "sampled_llm_likelihood": 0.0008913615602068603
+}

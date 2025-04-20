@@ -1,0 +1,9 @@
+{
+    "original": "Long ago, there existed a foolish little rabbit",
+    "sampled": "Long ago, there existed a foolish little rabbit",
+    "replacement_keys": [],
+    "original_crit": 0.4914894700050354,
+    "sampled_crit": 0.4914894700050354,
+    "original_llm_likelihood": 0.4914894700050354,
+    "sampled_llm_likelihood": 0.4914894700050354
+}

@@ -1,0 +1,11 @@
+{
+    "original": "A cheerful young girl visited a park, where she engaged in play with a ball and ran around. As her friends joined her, they indulged in shared enjoyment, laughter, and merriment. However, their playtime was cut short when rain began to fall, prompting their return home, bringing an end to their delightful outing.",
+    "sampled": "A cheerful young girl visited a park, where she engaged in play with a ball and ran around. As her friends joined her, they indulged in shared enjoyment, laughter, and merriment. However, their playtime was cut short when precipitation began to fall, prompting their return home, bringing an end to their delightful outing.",
+    "replacement_keys": [
+        38
+    ],
+    "original_crit": 0.1730375736951828,
+    "sampled_crit": 0.06577687710523605,
+    "original_llm_likelihood": 0.1730375736951828,
+    "sampled_llm_likelihood": 0.06577687710523605
+}

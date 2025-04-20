@@ -1,0 +1,12 @@
+{
+    "original": "Current differentiable neural architecture search techniques have made significant strides in reducing search costs by creating a super network and relaxing architecture representations through assigning architecture weights to candidate operations. While existing methods directly determine the importance of each operation using architecture weights, it has been noted that these weights may not accurately reflect the performance of each operation. To address this limitation, a novel approach termed as Exploiting Operation Importance for Effective Neural Architecture Search (EoiNAS) has been proposed, introducing a new indicator to fully leverage operation importance and guide model search. This innovative indicator enables a gradual operation pruning strategy to enhance search efficiency and accuracy. Experimental results have validated the effectiveness of this method, achieving an impressive error rate of 2.50\\% on CIFAR-10, surpassing current state-of-the-art approaches. Notably, when applied to ImageNet, it attained a top-1 error rate of 25.6\\%, competing with top-performing methods in a mobile setting.",
+    "sampled": "Current differentiable neural architecture search techniques have made significant strides in reducing search costs by creating a super network and relaxing architecture representations through assigning architecture weights to candidate operations. While existing methods directly determine the importance of each operation using architecture weights, it has been noted that these weights may not accurately reflect the performance of each operation. To address this limitation, a novel approach termed as Exploiting Operation Importance for Effective Neural Architecture Search (EoiNAS) has been proposed, introducing a new indicator to fully leverage operation importance and guide model search. This innovative indicator enables a gradual operation pruning strategy to enhance search efficiency and accuracy. Experimental results have validated the effectiveness of this method, achieving an impressive error rate of 2.50\\% on CIFAR-10, surpassing current state-of-the-art approaches. Significantly, when applied to ImageNet, it attained a top-1 error rate of 25.6\\%, competingly with top-performing methods in a mobile setting.",
+    "replacement_keys": [
+        130,
+        143
+    ],
+    "original_crit": 0.003566695610061288,
+    "sampled_crit": 0.0014815080212429166,
+    "original_llm_likelihood": 0.003566695610061288,
+    "sampled_llm_likelihood": 0.0014815080212429166
+}

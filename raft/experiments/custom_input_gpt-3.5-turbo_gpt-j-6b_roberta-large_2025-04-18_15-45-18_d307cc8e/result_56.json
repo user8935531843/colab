@@ -1,0 +1,11 @@
+{
+    "original": "A young girl named Lily, who adored playing outdoors, stumbled upon a large blue ladder one day. Upon climbing it, she discovered a beautiful flower at the top and plucked it joyfully, twirling around in sheer delight. Lily's heart was filled with happiness as she embraced the beauty of the moment.",
+    "sampled": "A young girl named Lily, who adored playing outdoors, stumbled upon a large blue ladder one day. Upon climbing it, she discovered a beautiful flower at the top and plucked it blissfully, twirling around in sheer delight. Lily's heart was filled with happiness as she embraced the beauty of the moment.",
+    "replacement_keys": [
+        31
+    ],
+    "original_crit": 0.03836469724774361,
+    "sampled_crit": 0.014147858135402203,
+    "original_llm_likelihood": 0.03836469724774361,
+    "sampled_llm_likelihood": 0.014147858135402203
+}

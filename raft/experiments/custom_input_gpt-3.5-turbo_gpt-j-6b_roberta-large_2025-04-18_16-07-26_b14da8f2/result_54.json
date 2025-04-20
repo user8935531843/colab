@@ -1,0 +1,12 @@
+{
+    "original": "In a park, Tiny Tom curiously approached a well with his mother, leading to a dangerous incident where he almost fell in. Upon realizing his mistake, Tom's mother emphasized the importance of caution when exploring unfamiliar things. Similar lessons in trust and kindness were highlighted in stories involving a fox and a rabbit, as well as a little girl named Sophie who showed kindness to others. Another tale showcased John learning the importance of listening to his mother's advice before embarking on new adventures. Lastly, a little boy named Sarah showcased the value of fulfilling tasks and showing kindness, leading to meaningful friendships and positive outcomes. Each story conveyed valuable lessons on curiosity, trust, kindness, and attentiveness in different scenarios.",
+    "sampled": "In a park, Miniature Tom curiously approached a well with his mother, leading to a dangerous incident where he almost fell in. Upon realizing his mistake, Tom's mother emphasized the importance of caution when exploring unfamiliar things. Similar lessons in trust and kindness were highlighted in stories involving a fox and a rabbit, as well as a little girl named Sophie who showed kindness to others. Another tale showcased John learning the importance of listening to his mother's advice before embarking on new adventures. Lastly, a little boy named Sarah showcased the value of satisfying tasks and showing kindness, leading to meaningful friendships and positive outcomes. Each story conveyed valuable lessons on curiosity, trust, kindness, and attentiveness in different scenarios.",
+    "replacement_keys": [
+        3,
+        94
+    ],
+    "original_crit": 0.00839473120868206,
+    "sampled_crit": 0.005501697771251202,
+    "original_llm_likelihood": 0.00839473120868206,
+    "sampled_llm_likelihood": 0.005501697771251202
+}

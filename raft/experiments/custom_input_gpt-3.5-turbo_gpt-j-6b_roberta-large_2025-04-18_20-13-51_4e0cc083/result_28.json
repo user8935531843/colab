@@ -1,0 +1,12 @@
+{
+    "original": "Education is an ongoing journey that never truly ends, as individuals can constantly expand their knowledge base through various avenues. Continuous learning is essential due to the ever-evolving nature of the world, where information acquired today may become outdated in the near future. Embracing lifelong learning not only enhances one's skills and understanding but also fosters a more well-rounded and engaging persona. By remaining open to new experiences and perspectives, individuals can cultivate a sense of fulfillment and enrichment in life. Education empowers individuals to adapt to changing landscapes, encouraging personal growth and intellectual stimulation. Ultimately, education is an indispensable facet of life that enables individuals to thrive and evolve in a dynamic world.",
+    "sampled": "Education is an ongoing journey that never truly ends, as individuals can constantly expand their knowledge base through various avenues. Continuous learning is essential due to the ever-evolving nature of the world, where information acquired today may become outdated in the near future. Embracing lifelong learning not only enhances one's skills and understanding but also fosters a more well-rounded and engaging persona. By remaining open to new experiences and perspectives, individuals can cultivate a sense of fulfillment and enrichment in life. Education empowers individuals to adapt to changing scenery, motivating personal growth and intellectual stimulation. Ultimately, education is an indispensable facet of life that enables individuals to thrive and evolve in a dynamic world.",
+    "replacement_keys": [
+        88,
+        89
+    ],
+    "original_crit": 0.002656839555129409,
+    "sampled_crit": 0.002200174843892455,
+    "original_llm_likelihood": 0.002656839555129409,
+    "sampled_llm_likelihood": 0.002200174843892455
+}

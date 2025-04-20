@@ -1,0 +1,14 @@
+{
+    "original": "Once, a young boy named Jack discovered a lost glove in the park. He sought out an elderly man who confirmed it was his. Jack showed interest in the soft glove and was generously granted ownership by the kind stranger. Jack cherished the gift and carried it with him wherever he went. Another tale unfolded with a pretty kitty who encountered a thief in the night. The kitty bravely confronted the intruder and chased it away, unknowingly going too far from home. The worried mommy searched in vain for the missing kitty, but it never returned. In a garden, a young boy was startled by a spider approaching him. Frightened and running, the boy's mother reassured him, easing his fear and teaching him to remain calm. Eventually, the spider ceased its pursuit, and the boy learned to manage his fears. Mary and James had a delightful summer day playing and imagining adventures in a make-believe cave. Their creativity flourished as they explored and discovered new wonders during their shared game. Meanwhile, young Andy overcame his shyness at the park, discovering new friends and learning fun activities every day. Lastly, Sandy and her mommy enjoyed a sunny day at the park, culminating in a magical moment when a butterfly landed on Sandy's shoulder, leaving her beaming with joy.",
+    "sampled": "Once, a young boy named Jack discovered a lost hand in the park. He sought out an elderly man who confirmed it was his. Jack showed interest in the softhearted glove and was generously granted ownership by the kind stranger. Jack cherished the gift and carried it with him wherever he went. Another tale unfolded with a pretty kitty who encountered a thief in the night. The kitty bravely confronted the intruder and chased it away, unknowingly going too far from home. The concerned mommy searched in vain for the missing kitty, but it never returned. In a backyard, a young boy was startled by a spider approaching him. Frightened and running, the boy's mother reassured him, easing his fear and teaching him to remain calm. Eventually, the spider ceased its pursuit, and the boy learned to manage his fears. Mary and James had a delightful summer day playing and imagining adventures in a make-believe cave. Their creativity flourished as they explored and discovered new wonders during their shared game. Meanwhile, young Andy overcame his shyness at the park, discovering new friends and learning fun activities every day. Lastly, Sandy and her mommy enjoyed a sunny day at the park, culminating in a magical moment when a butterfly landed on Sandy's shoulder, leaving her beaming with joy.",
+    "replacement_keys": [
+        9,
+        29,
+        83,
+        98
+    ],
+    "original_crit": 0.004015198443084955,
+    "sampled_crit": 0.002680704928934574,
+    "original_llm_likelihood": 0.004015198443084955,
+    "sampled_llm_likelihood": 0.002680704928934574
+}

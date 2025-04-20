@@ -1,0 +1,11 @@
+{
+    "original": "A little monkey, known for its love of climbing trees, encountered a dangerous hunter with a big gun. In a bid to evade the threat posed by the hunter, the monkey scaled higher until the danger had passed. And so, the monkey outwitted the hunter and emerged unscathed.",
+    "sampled": "A little primate, known for its love of climbing trees, encountered a dangerous hunter with a big gun. In a bid to evade the threat posed by the hunter, the monkey scaled higher until the danger had passed. And so, the monkey outwitted the hunter and emerged unscathed.",
+    "replacement_keys": [
+        2
+    ],
+    "original_crit": 0.10822610557079315,
+    "sampled_crit": 0.10219927877187729,
+    "original_llm_likelihood": 0.10822610557079315,
+    "sampled_llm_likelihood": 0.10219927877187729
+}

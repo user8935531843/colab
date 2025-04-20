@@ -1,0 +1,12 @@
+{
+    "original": "This note serves as a discussion on the algorithmic decidability of common problems encountered in quantum information theory. Problems related to entanglement theory and quantum channels are shown to be decidable through quantifier elimination when formulated compactly without quantifying over integers. However, challenges arise when dealing with asymptotically defined properties that require verification for all or specific integers N, making the development of effective procedures a daunting task. The review of tools for determining decidability is applied to quantum information theory problems, revealing that complex queries such as surpassing fidelity 1/2 with respect to a two-qubit singlet state can become undecidable. By exploring these questions further, it becomes apparent that achieving \"single-letter\" formulas in quantum information theory may present additional complexities.",
+    "sampled": "This note serves as a discussion on the algorithmic decidability of common problems encountered in quantum information theory. Problems related to entanglement theory and quantum channels are shown to be decidable through quantifier elimination when formulated compact without quantifying over integers. However, challenges arise when dealing with asymptotically defined properties that require verification for all or specific integers N, making the development of effective procedures a daunting task. The review of tools for determining decidability is applied to quantum information theory problems, revealing that complex queries such as surpassing fidelity 1/2 with respect to a two-qubit singlet state can become undecidable. By exploring these questions further, it becomes apparent that attaining \"single-letter\" formulas in quantum information theory may present additional complexities.",
+    "replacement_keys": [
+        36,
+        110
+    ],
+    "original_crit": 0.028875218704342842,
+    "sampled_crit": 0.02129310369491577,
+    "original_llm_likelihood": 0.028875218704342842,
+    "sampled_llm_likelihood": 0.02129310369491577
+}

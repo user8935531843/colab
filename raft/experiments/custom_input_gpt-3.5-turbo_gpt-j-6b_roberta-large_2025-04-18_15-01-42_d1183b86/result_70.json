@@ -1,0 +1,9 @@
+{
+    "original": "This paragraph is redundant or does not provide enough context to be rewritten in P2 style writing.",
+    "sampled": "This paragraph is redundant or does not provide enough context to be rewritten in P2 style writing.",
+    "replacement_keys": [],
+    "original_crit": 0.5582893490791321,
+    "sampled_crit": 0.5582893490791321,
+    "original_llm_likelihood": 0.5582893490791321,
+    "sampled_llm_likelihood": 0.5582893490791321
+}

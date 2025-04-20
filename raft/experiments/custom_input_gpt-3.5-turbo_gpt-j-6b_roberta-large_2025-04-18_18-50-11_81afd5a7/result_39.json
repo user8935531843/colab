@@ -1,0 +1,14 @@
+{
+    "original": "The evolving landscape of transportation is shaping the future of car usage, with several key factors driving a potential decrease in the total number of cars in use over the next two decades. The emergence of ride-hailing services like Uber, Lyft, and Didi has revolutionized car ownership by providing convenient and cost-effective alternatives, reducing the necessity for individuals to own cars. Simultaneously, the shift towards electric and hybrid vehicles, despite their higher initial costs, is reshaping the automotive industry and steering consumers towards more sustainable modes of transportation. Coupled with the growing awareness of environmental impact and the development of eco-friendly transportation options such as public transit, biking, and walking, the demand for traditional gas-powered cars is on the decline. The advent of autonomous vehicles further complicates the future of car usage, with the potential to alleviate traffic congestion and accidents, thereby making car ownership less prevalent. While cars will continue to play a vital role in our lives, advancements in technology and a shift towards sustainable and shared modes of transportation suggest a potential decline in car usage as we move towards a more integrated and environmentally-conscious future.",
+    "sampled": "The evolving landscape of transportation is shaping the future of car usage, with several key factors driving a potential decrease in the total number of cars in use over the next two decades. The emergence of ride-hailing services like Uber, Lyft, and Didi has revolutionized car ownership by providing convenient and cost-effective alternatives, reducing the necessity for individuals to own cars. Concurrently, the shift towards electric and hybrid vehicles, despite their higher initial costs, is reshaping the automotive industry and steering consumers towards more sustainable modes of transportation. Coupled with the growing awareness of environmental impact and the development of eco-conscious transportation options such as public transit, biking, and walking, the demand for traditional gas-powered cars is on the decline. The advent of autonomous vehicles further complicates the future of car usage, with the potential to alleviate traffic congestion and accidents, thereby making car ownership less widespread. While motorcars will continue to play a vital role in our lives, advancements in technology and a shift towards sustainable and shared modes of transportation suggest a potential decline in car usage as we move towards a more integrated and environmentally-conscious future.",
+    "replacement_keys": [
+        61,
+        100,
+        146,
+        148
+    ],
+    "original_crit": 0.0033638933673501015,
+    "sampled_crit": 0.0013707894831895828,
+    "original_llm_likelihood": 0.0033638933673501015,
+    "sampled_llm_likelihood": 0.0013707894831895828
+}

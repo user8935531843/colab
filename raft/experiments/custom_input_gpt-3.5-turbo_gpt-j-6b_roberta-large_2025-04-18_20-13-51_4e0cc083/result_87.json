@@ -1,0 +1,15 @@
+{
+    "original": "The debate over the most important English language skill for Chinese learners, whether reading or speaking, has long been a topic of discussion. Some argue in favor of prioritizing reading, while others emphasize the significance of speaking. In my view, speaking should take precedence over reading for Chinese learners of English. Speaking not only forms the foundation for acquiring other language skills, but also aids in enhancing overall confidence, leading to more effective interactions with native English speakers and fellow Chinese learners. Through engaging in conversations, learners are exposed to a wide range of language structures and expressions, which may be challenging to glean from textbooks alone. Moreover, practicing speaking facilitates a better understanding and retention of vocabulary and grammar, as learners actively engage with the language. Furthermore, speaking English can be a fun and enriching experience, allowing learners to connect with individuals from diverse cultures, broaden their horizons, and immerse themselves in the nuances of the language. While reading is undeniably beneficial for improving language skills, prioritizing speaking offers Chinese learners a more practical, enjoyable, and confidence-boosting approach to mastering the English language.",
+    "sampled": "The controversy over the most important English language skill for Taiwanese learners, whether reading or speaking, has long been a topic of discussion. Some argue within favor of prioritizing reading, while others emphasize the significance of speaking. In my view, speaking should take precedence over reading for Chinese learners of English. Speaking not only forms the foundation for acquiring other language skills, but also aids in enhancing overall confidence, leading to more effective interactions with native English speakers and fellow Chinese learners. Through engaging in conversations, learners are exposed to a wide range of language structures and expressions, which may be challenging to glean from textbooks alone. Moreover, practicing speaking facilitates a better understanding and retention of vocabulary and grammar, as learners actively engage with the language. Furthermore, speaking English can be a fun and enriching experience, allowing learners to connect with persons from diverse cultures, broaden their horizons, and immerse themselves in the nuanced of the language. While reading is undeniably beneficial for improving language skills, prioritizing speaking offers Chinese learners a more practical, enjoyable, and confidence-boosting approach to mastering the English language.",
+    "replacement_keys": [
+        1,
+        10,
+        25,
+        142,
+        154
+    ],
+    "original_crit": 0.0009628920815885067,
+    "sampled_crit": 0.000454663357231766,
+    "original_llm_likelihood": 0.0009628920815885067,
+    "sampled_llm_likelihood": 0.000454663357231766
+}

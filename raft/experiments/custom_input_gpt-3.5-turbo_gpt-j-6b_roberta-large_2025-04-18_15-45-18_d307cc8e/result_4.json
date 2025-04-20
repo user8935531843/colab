@@ -1,0 +1,12 @@
+{
+    "original": "A little rat named Remy was delighted to find some delicious cheese one day. Eager to add to his stash, he searched around and discovered even more mouthwatering cheese. Overjoyed, Remy relished in the thought of having an abundance of delectable cheese to enjoy.",
+    "sampled": "A little rodent named Remy was pleased to find some delicious cheese one day. Eager to add to his stash, he searched around and discovered even more mouthwatering cheese. Overjoyed, Remy relished in the thought of having an abundance of delectable cheese to enjoy.",
+    "replacement_keys": [
+        2,
+        6
+    ],
+    "original_crit": 0.15792612731456757,
+    "sampled_crit": 0.13863079249858856,
+    "original_llm_likelihood": 0.15792612731456757,
+    "sampled_llm_likelihood": 0.13863079249858856
+}

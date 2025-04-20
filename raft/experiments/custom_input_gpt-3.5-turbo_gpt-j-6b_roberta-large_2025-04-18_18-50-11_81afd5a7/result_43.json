@@ -1,0 +1,16 @@
+{
+    "original": "Traveling presents individuals with various options, each offering distinct advantages and disadvantages. Some individuals prefer embarking on solo travels, while others prefer traveling in groups. The choice between the two options entails weighing the pros and cons of each. Traveling in a group offers the advantage of having assistance with logistics, as tour guides can aid in trip planning, transportation and accommodation arrangements, and provide recommendations on places to visit. Additionally, group travel can be more cost-effective, as booking transportation and accommodation for a group often results in discounts. Moreover, tour companies may negotiate better rates for group travelers. However, there are drawbacks to traveling in a group, such as the potential limitation of not being able to visit all desired locations. Group travelers may need to compromise on their itinerary and follow the group's schedule. Additionally, group travel may limit the opportunity to interact with locals, as group members typically stay together. Ultimately, the decision between traveling alone or in a group depends on individual preferences and travel goals. Traveling in a group may be preferable for those seeking logistical support and are willing to compromise on itinerary, while solo travel may be more suitable for those desiring freedom and flexibility.",
+    "sampled": "Traveling presents individuals with various options, each offering distinct advantages and disadvantages. Some individuals prefer embarking on lone travels, while others prefer traveling in groups. The choice between the two options entails weighing the pros and cons of each. Traveling in a group offers the advantage of having assistance with logistics, as tour guides can aid in excursion planning, transportation and accommodation arrangements, and provide recommendations on places to visit. Additionally, group travel can be more cost-effective, as booking travel and accommodation for a group often results in discounts. Moreover, trip companies may negotiate better rates for group travelers. However, there are drawbacks to traveling in a group, such as the potential restriction of no being able to visit all desired locations. Group travelers may need to compromise on their itinerary and follow the group's schedule. Additionally, group travel may limit the opportunity to interact with locals, as group members typically stay together. Ultimately, the decision between traveling alone or in a group depends on individual preferences and travel goals. Traveling in a group may be preferable for those seeking logistical support and are willing to compromise on itinerary, while solo travel may be more suitable for those desiring freedom and flexibility.",
+    "replacement_keys": [
+        17,
+        57,
+        79,
+        90,
+        112,
+        114
+    ],
+    "original_crit": 0.00047635604278184474,
+    "sampled_crit": 0.0004625515721272677,
+    "original_llm_likelihood": 0.00047635604278184474,
+    "sampled_llm_likelihood": 0.0004625515721272677
+}

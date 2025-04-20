@@ -1,0 +1,9 @@
+{
+    "original": "Once, a large, furry dog enjoyed frolicking in the outdoor grass and one day, witnessed the breathtaking sunset, painting the sky in vibrant hues of orange and pink. Overwhelmed with joy, the dog barked joyfully and pranced around, displaying his love for the mesmerizing sunset.",
+    "sampled": "Once, a large, furry dog enjoyed frolicking in the outdoor grass and one day, witnessed the breathtaking sunset, painting the sky in vibrant hues of orange and pink. Overwhelmed with joy, the dog barked joyfully and pranced around, displaying his love for the mesmerizing sunset.",
+    "replacement_keys": [],
+    "original_crit": 0.3361404240131378,
+    "sampled_crit": 0.3361404240131378,
+    "original_llm_likelihood": 0.3361404240131378,
+    "sampled_llm_likelihood": 0.3361404240131378
+}

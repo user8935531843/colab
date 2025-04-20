@@ -1,0 +1,12 @@
+{
+    "original": "A fat cat, fond of outdoor activities, ventured out for a walk one day. Unfortunately, the cat slipped on a banana peel, resulting in a fall that caused injury to its heel.",
+    "sampled": "A obese cat, fond of outdoor activities, ventured out for a walk one day. Unfortunately, the cat slipped on a banana peel, resulting in a fall that caused injury to its foot.",
+    "replacement_keys": [
+        1,
+        31
+    ],
+    "original_crit": 0.27477341890335083,
+    "sampled_crit": 0.14950233697891235,
+    "original_llm_likelihood": 0.27477341890335083,
+    "sampled_llm_likelihood": 0.14950233697891235
+}

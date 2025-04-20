@@ -1,0 +1,12 @@
+{
+    "original": "New findings on approximate colourings of graphs and promise constraint satisfaction problems are introduced in our study. Firstly, we demonstrate the NP-hardness of colouring $k$-colourable graphs with $\\binom{k}{\\lfloor k/2\\rfloor}-1$ colors for every $k\\geq 4$, surpassing previous results by Bul\\'in, Krokhin, and Opr\\v{s}al [STOC'19] and Huang [APPROX-RANDOM'13]. These advancements present exponential gaps, improving upon existing linear/sub-exponential gaps. Secondly, we establish that the box complex topology of H alone dictates the NP-hardness of H-colouring of G-colourable graphs for all (non-bipartite, H-colourable) G. This formalizes the topological concept behind the findings of Krokhin and Opr\\v{s}al [FOCS'19] on 3-colouring of G-colourable graphs. Leveraging this approach, we confirm the NP-hardness of H-colouring of G-colourable graphs for H beyond $K_3$, encompassing square-free graphs and circular cliques. A key observation underpinning our findings is the application of adjoint functors for reductions in promise constraint satisfaction problems.",
+    "sampled": "New findings on approximate colouring of graphs and promise constraint satisfaction problems are introduced in our study. Firstly, we demonstrate the NP-hardness of colouring $k$-colourable graphs with $\\binom{k}{\\lfloor k/2\\rfloor}-1$ colors for every $k\\geq 4$, surpassing previous results by Bul\\'in, Krokhin, and Opr\\v{s}al [STOC] and Huang [APPROX-RANDOM'13]. These advancements present exponential gaps, improving upon existing linear/sub-exponential gaps. Secondly, we establish that the box complex topology of H alone dictates the NP-hardness of H-colouring of G-colourable graphs for all (non-bipartite, H-colourable) G. This formalizes the topological concept behind the findings of Krokhin and Opr\\v{s}al [FOCS'19] on 3-colouring of G-colourable graphs. Leveraging this approach, we confirm the NP-hardness of H-colouring of G-colourable graphs for H beyond $K_3$, encompassing square-free graphs and circular cliques. A key observation underpinning our findings is the application of adjoint functors for reductions in promise constraint satisfaction problems.",
+    "replacement_keys": [
+        4,
+        42
+    ],
+    "original_crit": 0.06330320239067078,
+    "sampled_crit": 0.04677204415202141,
+    "original_llm_likelihood": 0.06330320239067078,
+    "sampled_llm_likelihood": 0.04677204415202141
+}

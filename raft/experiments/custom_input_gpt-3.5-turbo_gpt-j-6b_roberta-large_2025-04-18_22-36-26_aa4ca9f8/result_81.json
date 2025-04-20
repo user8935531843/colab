@@ -1,0 +1,12 @@
+{
+    "original": "In hypergraph coloring theory, the minimum number of edges in a non-$2$-colorable $r$-uniform hypergraph has been a classical problem. Bounds for $m_2(r)$ and $m^\\ast_2(r)$ have been established, with the best-known ranges being \\[c \\cdot \\sqrt{r/\\log r} \\cdot 2^r \\,\\leqslant\\, m_2(r) \\,\\leqslant\\, C \\cdot r^2 \\cdot 2^r\\] and \\[c' \\cdot r^{-\\varepsilon} \\cdot 4^r \\,\\leqslant\\, m_2^\\ast(r) \\,\\leqslant\\, C' \\cdot r^4 \\cdot 4^r\\], respectively. This study shifts focus to DP-coloring, a variation of list coloring, to estimate $\\tilde{m}_2(r)$ and $\\tilde{m}^\\ast_2(r)$ for non-$2$-colorable $r$-uniform hypergraphs. The lower bound $\\tilde{m}_2(r) \\geqslant 2^{r-1}$ is proven to be nearly tight, approaching $(1 + o(1))2^{r-1}$. Furthermore, for even $r \\geqslant 2$, it is shown that $\\tilde{m}_2(r) \\geqslant 2^{r-1}+1$, challenging the sharpness of the lower bound. The unresolved question remains whether this result applies to odd $r$ values, yet there is a conjecture suggesting that the difference $\\tilde{m}_2(r) - 2^{r-1}$ can vary significantly.",
+    "sampled": "In hypergraph coloring theory, the minimum number of edges in a non-$2$-colorable $r$-uniform hypergraph has been a classical problem. Bounds for $m_2(r)$ and $m^\\ast_2(r)$ have been established, with the best-known ranges being \\[c \\cdot \\sqrt{r/\\log r} \\cdot 2^r \\,\\leqslant\\, m_2(r) \\,\\leqslant\\, C \\cdot r^2 \\cdot 2^r\\] and \\[c' \\cdot r^{-\\varepsilon} \\cdot 4^r \\,\\leqslant\\, m_2^\\ast(r) \\,\\leqslant\\, C' \\cdot r^4 \\cdot 4^r\\], respectively. This study shifts focus to DP-coloring, a variation of list coloring, to estimate $\\tilde{m}_2(r)$ and $\\tilde{m}^\\ast_2(r)$ for non-$2$-colorable $r$-uniform hypergraphs. The lower bound $\\tilde{m}_2(r) \\geqslant 2^{r-1}$ is proven to be nearly tight, nearing $(1 + o(1))2^{r-1}$. Furthermore, for even $r \\geqslant 2$, it is shown that $\\tilde{m}_2(r) \\geqslant 2^{r-1}+1$, challenging the sharpness of the lower bound. The unresolved question remains whether this result applies to odd $r$ values, however there is a conjecture suggesting that the difference $\\tilde{m}_2(r) - 2^{r-1}$ can vary significantly.",
+    "replacement_keys": [
+        93,
+        129
+    ],
+    "original_crit": 0.0077868737280368805,
+    "sampled_crit": 0.006200824864208698,
+    "original_llm_likelihood": 0.0077868737280368805,
+    "sampled_llm_likelihood": 0.006200824864208698
+}

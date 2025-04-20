@@ -1,0 +1,12 @@
+{
+    "original": "Once, a large turkey had aspirations to race against his companions. Together, they ventured to the fair for a friendly competition. Impressively, the turkey emerged victorious, showcasing his speed and agility. His friends celebrated his triumph, and together, they enjoyed a joyous time at the fair. And so, their day of camaraderie came to an end.",
+    "sampled": "Once, a large turkey had ambition to race against his companions. Together, they ventured to the fair for a friendly competition. Fantastically, the turkey emerged victorious, showcasing his speed and agility. His friends celebrated his triumph, and together, they enjoyed a joyous time at the fair. And so, their day of camaraderie came to an end.",
+    "replacement_keys": [
+        5,
+        21
+    ],
+    "original_crit": 0.3361680507659912,
+    "sampled_crit": 0.20768338441848755,
+    "original_llm_likelihood": 0.3361680507659912,
+    "sampled_llm_likelihood": 0.20768338441848755
+}

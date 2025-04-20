@@ -1,0 +1,14 @@
+{
+    "original": "Believing that education is a life-long journey, I find myself constantly seeking new avenues for learning and growth. Education serves as a continuous process that challenges individuals and keeps them abreast of a changing world. Through education, individuals can acquire the skills necessary to succeed in a modern society. With various types of education available, ranging from traditional classroom settings to online platforms, individuals have the opportunity to pursue diverse fields and gain expertise. A key aspect of education is its ability to never truly be complete, as there is always more to learn and explore. As the world evolves, so too must our knowledge and capabilities. Education also plays a vital role in personal development, enabling individuals to actively participate in society and achieve their goals. Despite the challenges and setbacks that may arise, such as having to balance work and further education, the journey of education continues to offer new opportunities for growth and development.",
+    "sampled": "Believing that learning is a life-long journey, I search myself constantly seeking new avenues for learning and growth. Learning serves as a continuous process that challenges persons and keeps them abreast of a changing world. Through education, individuals can acquire the skills necessary to succeed in a modern society. With various types of education available, ranging from traditional classroom settings to online platforms, individuals have the opportunity to pursue diverse fields and gain expertise. A key aspect of education is its ability to never truly be complete, as there is always more to learn and explore. As the world evolves, so too must our knowledge and capabilities. Education also plays a vital role in personal development, enabling individuals to actively participate in society and achieve their goals. Despite the challenges and setbacks that may arise, such as having to balance work and further education, the journey of education continues to offer new opportunities for growth and development.",
+    "replacement_keys": [
+        2,
+        8,
+        18,
+        26
+    ],
+    "original_crit": 0.4572327136993408,
+    "sampled_crit": 0.022865302860736847,
+    "original_llm_likelihood": 0.4572327136993408,
+    "sampled_llm_likelihood": 0.022865302860736847
+}

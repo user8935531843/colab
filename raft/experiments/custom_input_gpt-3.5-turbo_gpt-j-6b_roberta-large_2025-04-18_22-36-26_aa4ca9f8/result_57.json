@@ -1,0 +1,11 @@
+{
+    "original": "The Pierre Auger Observatory in Malargüe, Argentina, aims to investigate ultra-high energy cosmic rays with energies exceeding 10^18 eV, utilizing a hybrid approach combining a Fluorescence Detector for calorimetric Extensive Air Shower energy measurements. Continuous monitoring of atmospheric conditions is crucial for accurate data acquisition, particularly in assessing light attenuation due to aerosols. To address this, the paper presents two methodologies for determining aerosol attenuation from laser shots emitted by the Central Laser Facility at the observatory site. By comparing results from both approaches, the study confirms compatibility and well-understood uncertainties. These aerosol attenuation measurements are currently employed at the Pierre Auger Observatory to reconstruct air shower data, highlighting the significance of advanced techniques for atmospheric aerosol attenuation assessment in research settings like the observatory.",
+    "sampled": "The Pierre Auger Observatory in Malargüe, Argentina, aims to investigate ultra-high energy cosmic rays with energies exceeding 10^18 eV, utilizing a hybrid approach combining a Fluorescence Detector for calorimetric Extensive Air Shower energy measurements. Continuous monitoring of atmospheric conditions is crucial for accurate data acquisition, particularly in assessing light attenuation due to aerosols. To address this, the paper presents two methodologies for determining aerosol attenuation from laser shots emitted by the Central Laser Facility at the observatory site. By comparing results from both approaches, the study confirms compatible and well-understood uncertainties. These aerosol attenuation measurements are currently employed at the Pierre Auger Observatory to reconstruct air shower data, highlighting the significance of advanced techniques for atmospheric aerosol attenuation assessment in research settings like the observatory.",
+    "replacement_keys": [
+        87
+    ],
+    "original_crit": 0.4991474151611328,
+    "sampled_crit": 0.29816481471061707,
+    "original_llm_likelihood": 0.4991474151611328,
+    "sampled_llm_likelihood": 0.29816481471061707
+}

@@ -1,0 +1,12 @@
+{
+    "original": "Once upon a time, a curious cat named Fluffy stumbled upon a mysterious pattern on the ground that transformed into a mesmerizing dance of shapes and colors. Intrigued by this magical discovery, Fluffy embarked on a quest to unravel the pattern's secrets, eventually learning that it was called a mandala. Meanwhile, a young girl named Sue received a shiny new spade from her mommy and embarked on a playful adventure in the yard, discovering a bug and creating a miniature castle with her newfound friend. In another tale, Sandy encountered a majestic tree in the woods and bonded with a chatty bird perched on her shoulder, appreciating the beauty of nature. The little girl's museum excursion showcased her awe and wonder at the exhibits, from dinosaur artifacts to captivating artwork from around the world. Lastly, friends Sarah and Tony collaborated to build a shelter, painting it in vibrant shades of green and blue, celebrating their teamwork with hugs of pride. Each story highlighted the power of friendship, curiosity, creativity, and the joy of discovery in everyday adventures.",
+    "sampled": "Once upon a time, a curious cat named Fluffy stumbled upon a mysterious pattern on the ground that transformed into a mesmerizing dance of shapes and colors. Intrigued by this magical discovery, Fluffy embarked on a quest to unravel the pattern's secrets, eventually learning that it was called a mandala. Meanwhile, a young girl named Sue received a shiny new spade from her mommy and embarked on a playful adventure in the yard, discovering a bug and creating a miniature castle with her newfound friend. In another tale, Sandy encountered a majestic tree in the woods and bonded with a chatty bird perched on her shoulder, appreciating the beauty of nature. The little girl's museum excursion showcased her awe and wonder at the exhibits, from dinosaur relics to captivating artwork from around the world. Lastly, friends Sarah and Tony partnered to build a shelter, painting it in vibrant shades of green and blue, celebrating their teamwork with hugs of pride. Each story highlighted the power of friendship, curiosity, creativity, and the joy of discovery in everyday adventures.",
+    "replacement_keys": [
+        126,
+        139
+    ],
+    "original_crit": 0.0031859648879617453,
+    "sampled_crit": 0.0025495586451143026,
+    "original_llm_likelihood": 0.0031859648879617453,
+    "sampled_llm_likelihood": 0.0025495586451143026
+}

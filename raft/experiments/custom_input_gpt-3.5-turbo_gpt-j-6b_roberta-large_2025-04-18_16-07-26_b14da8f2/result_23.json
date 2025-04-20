@@ -1,0 +1,11 @@
+{
+    "original": "Three separate short stories are told in this text. The first story revolves around Amy, a young girl who discovers a box of ribbons that brings joy and spreads smiles throughout her neighborhood. The second story depicts a selfish boy who learns the importance of kindness and friendship after scaring his friends, leading to a fun-filled day of playing together. The third story stars an orange tree that generously shares its fruit with local animals, finding happiness in its generosity and the ability to continue giving. In the final story, a mean pirate steals toys from children, but a group of intelligent kids band together to try to get them back. The pirate outsmarts them and escapes with the stolen toys, leaving the children disappointed. The common theme across these stories is the power of kindness, generosity, and intelligence in overcoming challenges and finding happiness.",
+    "sampled": "Three separate brief stories are told in this text. The first story revolves around Amy, a young girl who discovers a box of ribbons that brings joy and spreads smiles throughout her neighborhood. The second story depicts a selfish boy who learns the importance of kindness and friendship after scaring his friends, leading to a fun-filled day of playing together. The third story stars an orange tree that generously shares its fruit with local animals, finding happiness in its generosity and the ability to continue giving. In the final story, a mean pirate steals toys from children, but a group of intelligent kids band together to try to get them back. The pirate outsmarts them and escapes with the stolen toys, leaving the children disappointed. The common theme across these stories is the power of kindness, generosity, and intelligence in overcoming challenges and finding happiness.",
+    "replacement_keys": [
+        2
+    ],
+    "original_crit": 0.006568283308297396,
+    "sampled_crit": 0.0020214661490172148,
+    "original_llm_likelihood": 0.006568283308297396,
+    "sampled_llm_likelihood": 0.0020214661490172148
+}

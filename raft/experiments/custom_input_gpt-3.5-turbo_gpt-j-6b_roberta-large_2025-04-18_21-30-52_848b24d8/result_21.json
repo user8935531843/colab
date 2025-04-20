@@ -1,0 +1,11 @@
+{
+    "original": "In this study, we introduce a novel method for implementing online deep reinforcement learning (DRL) to facilitate unmanned aerial vehicles (UAVs) in autonomously navigating and exploring intricate outdoor settings. Leveraging Proximal Policy Optimization (PPO) and Deep Q-Networks (DQNs), our approach establishes a holistic learning framework for UAVs, incorporating raw visual inputs from onboard sensors and utilizing cutting-edge convolutional neural networks (CNNs) to extract high-level features. These features are subsequently utilized by PPO and DQNs for real-time decision-making during UAV operations. Through a series of extensive experiments conducted in a realistic aerial simulation setting, we showcase the efficacy of our approach in enabling UAVs to efficiently and accurately navigate and explore outdoor environments. Our proposed methodology presents a promising avenue for the development of robust and adaptable autonomous UAV systems capable of operating effectively in complex outdoor landscapes.",
+    "sampled": "In this study, we introduce a novel method for implementing online deep reinforcement learning (DRL) to facilitate drone aerial vehicles (UAVs) in autonomously navigating and exploring intricate outdoor settings. Leveraging Proximal Policy Optimization (PPO) and Deep Q-Networks (DQNs), our approach establishes a holistic learning framework for UAVs, incorporating raw visual inputs from onboard sensors and utilizing cutting-edge convolutional neural networks (CNNs) to extract high-level features. These features are subsequently utilized by PPO and DQNs for real-time decision-making during UAV operations. Through a series of extensive experiments conducted in a realistic aerial simulation setting, we showcase the efficacy of our approach in enabling UAVs to efficiently and accurately navigate and explore outdoor environments. Our proposed methodology presents a promising avenue for the development of robust and adaptable autonomous UAV systems capable of operating effectively in complex outdoor landscapes.",
+    "replacement_keys": [
+        17
+    ],
+    "original_crit": 0.016614988446235657,
+    "sampled_crit": 0.015746306627988815,
+    "original_llm_likelihood": 0.016614988446235657,
+    "sampled_llm_likelihood": 0.015746306627988815
+}

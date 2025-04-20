@@ -1,0 +1,13 @@
+{
+    "original": "Cosmic microwave background (CMB) polarization serves as a valuable tool in exploring the early Universe's evolution, with a focus on analyzing CMB B-mode polarization's potential to unveil primordial gravitational waves from cosmic inflation. However, the measurement of CMB polarization is influenced by various physical phenomena, including cosmological birefringence, which introduces a rotation in the linear polarization direction of CMB photons. This study delves into the repercussions of fluctuations in the cosmological birefringence field on CMB B-mode polarization, revealing the potential generation of non-Gaussian features in the B-mode power spectra and an overall decrease in polarization amplitude. Through Monte Carlo simulations, we assess the statistical relevance of our findings and discuss the implications of birefringence fluctuations for current and forthcoming CMB experiments. The necessity of eliminating birefringence-induced systematic errors in CMB polarization data is emphasized to enable the detection of primordial gravitational waves. Furthermore, the investigation of cosmological birefringence could offer valuable insights into the early Universe's nature.",
+    "sampled": "Cosmic microwave background (CMB) polarization serves as a valuable tool in exploring the early Universe's evolution, with a focus on examining CMB B-mode polarization's potential to unveil primordial gravitational waves from cosmic inflation. However, the measurement of CMB polarization is influenced by various physical phenomena, including cosmic birefringence, which introduces a rotation in the linear polarization direction of CMB photons. This study delves into the repercussions of fluctuations in the cosmological birefringence field on CMB B-mode polarization, revealing the potential generation of non-Gaussian features in the B-mode power spectra and an overall decrease in polarization amplitude. Through Monte Carlo simulations, we assess the statistical relevance of our findings and discuss the implications of birefringence fluctuations for current and forthcoming CMB experiments. The mandatory of eliminating birefringence-induced systematic errors in CMB polarization data is emphasized to enable the detection of primordial gravitational waves. Furthermore, the investigation of cosmological birefringence could offer valuable insights into the early Universe's nature.",
+    "replacement_keys": [
+        20,
+        46,
+        122
+    ],
+    "original_crit": 0.00529786292463541,
+    "sampled_crit": 0.0024743194226175547,
+    "original_llm_likelihood": 0.00529786292463541,
+    "sampled_llm_likelihood": 0.0024743194226175547
+}

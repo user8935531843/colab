@@ -1,0 +1,11 @@
+{
+    "original": "Once, a petite duck enjoyed wading in the mud. One day, it stumbled upon a vast puddle of mud, gleefully immersing itself and getting covered in dirt. The small duck relished its playtime in the mud.",
+    "sampled": "Once, a petite duck enjoyed wading in the mud. One day, it stumbled upon a vast puddle of mud, delightedly immersing itself and getting covered in dirt. The small duck relished its playtime in the mud.",
+    "replacement_keys": [
+        19
+    ],
+    "original_crit": 0.0915951207280159,
+    "sampled_crit": 0.08389595150947571,
+    "original_llm_likelihood": 0.0915951207280159,
+    "sampled_llm_likelihood": 0.08389595150947571
+}

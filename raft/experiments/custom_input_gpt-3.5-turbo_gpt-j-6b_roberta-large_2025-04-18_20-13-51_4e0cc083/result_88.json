@@ -1,0 +1,14 @@
+{
+    "original": "As an AI language model, I cannot form opinions as humans do. However, based on research and data analysis, both reading and speaking skills are crucial for Chinese learners of English. Depending on their goals and priorities, one skill may be more important than the other. Chinese students who plan to study abroad or work in English-speaking countries may prioritize reading skills, as they need to comprehend academic materials and understand cultural nuances. On the other hand, speaking skills are equally vital for those aiming to communicate effectively in professional settings or social situations. Developing both skills simultaneously can enhance overall language proficiency and career prospects. By reading aloud, watching English media with subtitles, engaging in language exchange programs, and practicing with native speakers, learners can improve their reading and speaking abilities in tandem. Ultimately, mastering both skills can lead to greater success in studying, working, and interacting in English-speaking environments.",
+    "sampled": "As an AI english model, I cannot form opinions as people do. However, based on research and data analysis, both reading and speaking skills are crucial for Mandarin learners of English. Depending on their goals and priorities, one talent may be more important than the other. Chinese students who plan to study abroad or work in English-speaking countries may prioritize reading skills, as they need to comprehend academic materials and understand cultural nuances. On the other hand, speaking skills are equally vital for those aiming to communicate effectively in professional settings or social situations. Developing both skills simultaneously can enhance overall language proficiency and career prospects. By reading aloud, watching English media with subtitles, engaging in language exchange programs, and practicing with native speakers, learners can improve their reading and speaking abilities in tandem. Ultimately, mastering both skills can lead to greater success in studying, working, and interacting in English-speaking environments.",
+    "replacement_keys": [
+        3,
+        10,
+        27,
+        38
+    ],
+    "original_crit": 0.0004843303468078375,
+    "sampled_crit": 0.0004539399524219334,
+    "original_llm_likelihood": 0.0004843303468078375,
+    "sampled_llm_likelihood": 0.0004539399524219334
+}

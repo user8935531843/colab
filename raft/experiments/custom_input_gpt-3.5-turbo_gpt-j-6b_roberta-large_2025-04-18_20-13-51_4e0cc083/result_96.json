@@ -1,0 +1,13 @@
+{
+    "original": "It is widely recognized that education comes at a high cost, encompassing expenses like tuition, room and board, and associated costs. However, the repercussions of neglecting education are even more costly. A well-educated workforce is crucial for a country's competitiveness in the global economy. To attract and retain businesses, a skilled and educated workforce is essential. Countries with educated populations are more likely to attract businesses due to higher productivity levels and greater value creation. Additionally, an educated populace is indispensable for solving complex global issues like climate change, poverty, and disease, as it requires a profound understanding of science, technology, and other disciplines. Without education, a country will lack the capability to address these challenges effectively. Despite the high costs associated with education, the benefits of an educated populace far outweigh them. Investing in education is paramount for a country to maintain its competitive edge and tackle the challenges of the 21st century effectively.",
+    "sampled": "It is widely recognized that learning comes at a high cost, all-encompassing expenses like tuition, room and board, and associated costs. However, the repercussions of neglecting education are even more costly. A well-educated workforce is crucial for a country's competitiveness in the global economy. To attract and retain businesses, a skilled and educated workforce is essential. Nations with educated populations are more likely to attract businesses due to higher productivity levels and greater value creation. Additionally, an educated populace is indispensable for solving complex global issues like climate change, poverty, and disease, as it requires a profound understanding of science, technology, and other disciplines. Without education, a country will lack the capability to address these challenges effectively. Despite the high costs associated with education, the benefits of an educated populace far outweigh them. Investing in education is paramount for a country to maintain its competitive edge and tackle the challenges of the 21st century effectively.",
+    "replacement_keys": [
+        5,
+        11,
+        56
+    ],
+    "original_crit": 0.7003340125083923,
+    "sampled_crit": 0.19540007412433624,
+    "original_llm_likelihood": 0.7003340125083923,
+    "sampled_llm_likelihood": 0.19540007412433624
+}

@@ -1,0 +1,16 @@
+{
+    "original": "Platform criminalism, a prevalent issue in the illicit goods and services distribution landscape, has been examined in this study to shed light on the geographic dynamics of darknet market supply chains. Focusing on the \"last-mile\" locations where illicit items are delivered, an analysis of over 200 darknet markets was conducted to provide a comprehensive overview of the distribution network. Findings suggest that the bulk of darknet market transactions are concentrated in affluent developed nations, indicating a substantial demand for illegal goods in these regions. Moreover, the research highlights a clustering of last-mile locations in urban hubs, signifying proximity to consumer markets as a key factor in determining delivery destinations. Additionally, a higher incidence of criminal activity in these last-mile communities points to the potential existence of broader criminal networks. The insights gleaned from this study have critical implications for law enforcement and policymakers, enabling the development of targeted interventions to disrupt the supply chain and curb criminal activities.",
+    "sampled": "Platform illegalism, a widespread issue in the illicit goods and services distribution landscape, has been investigated in this study to shed light on the geographic dynamics of darknet market supply chains. Focusing on the \"last-mile\" places where illicit items are delivered, an analysis of over 200 darknet markets was conducted to provide a comprehensive overview of the distribution network. Findings suggest that the bulk of darknet market transactions are concentrated in prosperous developed nations, indicating a substantial demand for illegal goods in these regions. Moreover, the research highlights a clustering of last-mile locations in urban hubs, signifying vicinity to consumer markets as a key factor in determining delivery destinations. Additionally, a higher incidence of criminal activity in these last-mile communities points to the potential existence of broader criminal networks. The insights gleaned from this study have critical implications for law enforcement and policymakers, enabling the development of targeted interventions to disrupt the supply chain and curb criminal activities.",
+    "replacement_keys": [
+        1,
+        3,
+        15,
+        35,
+        71,
+        97
+    ],
+    "original_crit": 0.0031321384012699127,
+    "sampled_crit": 0.0010653493227437139,
+    "original_llm_likelihood": 0.0031321384012699127,
+    "sampled_llm_likelihood": 0.0010653493227437139
+}

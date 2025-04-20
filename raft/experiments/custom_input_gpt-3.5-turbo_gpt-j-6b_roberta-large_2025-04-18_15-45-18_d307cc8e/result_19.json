@@ -1,0 +1,12 @@
+{
+    "original": "In a whimsical tale from yesteryears, a caring mother delighted in spending time with her young son, engaging in playful activities with balls, blocks, and dolls. Their shared joy was evident as they bonded over their games, with the mother finding immense happiness in their time together. The young boy reciprocated his mother's love wholeheartedly.",
+    "sampled": "In a whimsy tale from yesteryears, a caring mother pleased in spending time with her young son, engaging in playful activities with balls, blocks, and dolls. Their shared joy was evident as they bonded over their games, with the mother finding immense happiness in their time together. The young boy reciprocated his mother's love wholeheartedly.",
+    "replacement_keys": [
+        2,
+        9
+    ],
+    "original_crit": 0.0442587248980999,
+    "sampled_crit": 0.016677657142281532,
+    "original_llm_likelihood": 0.0442587248980999,
+    "sampled_llm_likelihood": 0.016677657142281532
+}

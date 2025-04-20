@@ -1,0 +1,17 @@
+{
+    "original": "The past two decades have witnessed a significant surge in the number of cars on the road, nearly doubling the total count of cars in use. Nevertheless, a downward trend is projected for the next twenty years, driven by several factors. Firstly, the escalating costs associated with owning and operating a car, inclusive of high gasoline prices and increasing maintenance expenditures, will make car ownership financially burdensome. Secondly, the economic repercussions of recent recessions have left many individuals financially strained, leading to a decline in the number of people who can afford car ownership. Thirdly, the ongoing urbanization trend is foreseen to continue, resulting in more individuals opting for public transport in lieu of private vehicles as cities enhance accessibility through alternative transportation modes like bike-sharing programs. Lastly, the decreasing trend in teenagers obtaining driver's licenses is expected to persist, with many opting to delay obtaining licenses until later years. In summary, the anticipated decrease in the number of cars in use over the next two decades can be attributed to the rising costs of ownership, declining affordability, urbanization trends, and shifting preferences among younger demographics.",
+    "sampled": "The past two decades have witnessed a significant surge in the number of motorcars on the road, nearly doubling the total count of cars in use. Nonetheless, a descending trend is projected for the next twenty years, driven by several factors. Firstly, the escalating costs associated with owning and operating a car, all-inclusive of high gasoline prices and increasing maintenance expenditures, will make car ownership financially burdensome. Secondly, the economic repercussions of recent recessions have left many individuals financially strained, leading to a decline in the number of people who can afford car ownership. Thirdly, the ongoing urbanization trend is foreseen to continue, resulting in more individuals opting for public transport in lieu of private vehicles as cities enhance accessibility through alternative transportation modes like bike-sharing programs. Lastly, the descending trend in juveniles acquiring driver's licenses is expected to persist, with many opting to delay obtaining licenses until later years. In summary, the anticipated decrease in the number of cars in use over the next two decades can be attributed to the rising costs of ownership, declining affordability, urbanization trends, and shifting preferences among younger demographics.",
+    "replacement_keys": [
+        13,
+        26,
+        28,
+        52,
+        129,
+        132,
+        133
+    ],
+    "original_crit": 0.002465906087309122,
+    "sampled_crit": 0.00047834875294938684,
+    "original_llm_likelihood": 0.002465906087309122,
+    "sampled_llm_likelihood": 0.00047834875294938684
+}

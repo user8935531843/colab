@@ -1,0 +1,11 @@
+{
+    "original": "UniSent, a sentiment lexicon available in over 1000 languages, combines machine learning and human annotation to create a versatile lexicon. By leveraging crowdsourced annotations and machine learning techniques, UniSent addresses the challenge of limited sentiment lexicons for numerous languages. With over 150,000 entries spanning multiple languages, UniSent has proven its efficacy across various datasets, including Twitter, Yelp, and IMDB. Notably, UniSent outperforms existing sentiment analysis systems in cross-lingual evaluations, marking a significant advancement in sentiment analysis research. The availability of UniSent as a resource benefits researchers in linguistics, computer science, and social sciences, enabling comprehensive sentiment analysis in diverse linguistic contexts. Future explorations of UniSent include applications in advanced natural language processing tasks such as detecting irony/sarcasm, recognizing emotions, and mining opinions, promising further advancements in sentiment analysis research.",
+    "sampled": "UniSent, a sentiment lexicon available in over 1000 languages, combines machine learning and human annotation to create a versatile lexicon. By leveraging crowdsourced annotations and machine learning techniques, UniSent addresses the challenge of limited sentiment lexicons for numerous languages. With over 150,000 entries spanning multiple languages, UniSent has proven its efficacy across various datasets, including Twitter, Yelp, and IMDB. Notably, UniSent outperforms existing sentiment analysis systems in cross-lingual evaluations, marking a significant advancement in sentiment analysis research. The availability of UniSent as a resource advantages researchers in linguistics, computer science, and social sciences, enabling comprehensive sentiment analysis in diverse linguistic contexts. Future explorations of UniSent include applications in advanced natural language processing tasks such as detecting irony/sarcasm, recognizing emotions, and mining opinions, promising further advancements in sentiment analysis research.",
+    "replacement_keys": [
+        84
+    ],
+    "original_crit": 0.008127902634441853,
+    "sampled_crit": 0.007053808309137821,
+    "original_llm_likelihood": 0.008127902634441853,
+    "sampled_llm_likelihood": 0.007053808309137821
+}

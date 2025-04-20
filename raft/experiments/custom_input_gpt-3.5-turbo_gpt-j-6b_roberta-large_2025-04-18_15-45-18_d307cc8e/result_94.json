@@ -1,0 +1,9 @@
+{
+    "original": "There was a red car that journeyed to a vast green field adorned with an array of flowers. Parking in the field, the driver alighted and settled into a seat, observing the birds soaring through the sky. The peaceful scene marked the end of the story.",
+    "sampled": "There was a red car that journeyed to a vast green field adorned with an array of flowers. Parking in the field, the driver alighted and settled into a seat, observing the birds soaring through the sky. The peaceful scene marked the end of the story.",
+    "replacement_keys": [],
+    "original_crit": 0.4020458161830902,
+    "sampled_crit": 0.4020458161830902,
+    "original_llm_likelihood": 0.4020458161830902,
+    "sampled_llm_likelihood": 0.4020458161830902
+}

@@ -1,0 +1,11 @@
+{
+    "original": "In a serene pond, a graceful goose with sleek feathers enjoyed its solitary swim. When approached by an eager duck seeking companionship, the goose politely declined, choosing solitude over company. Disheartened, the duck retreated, leaving the goose to relish its peaceful swim alone. Such was the tale of the goose and the duck, a brief encounter ending in tranquil isolation.",
+    "sampled": "In a serene pond, a graceful goose with sleek feathers enjoyed its solitude swim. When approached by an eager duck seeking companionship, the goose politely declined, choosing solitude over company. Disheartened, the duck retreated, leaving the goose to relish its peaceful swim alone. Such was the tale of the goose and the duck, a brief encounter ending in tranquil isolation.",
+    "replacement_keys": [
+        12
+    ],
+    "original_crit": 0.0016774757532402873,
+    "sampled_crit": 0.0015459433197975159,
+    "original_llm_likelihood": 0.0016774757532402873,
+    "sampled_llm_likelihood": 0.0015459433197975159
+}

@@ -1,0 +1,14 @@
+{
+    "original": "Once upon a time, there was a playful puppy named Jack who enjoyed printing colorful patterns on paper. One day, Jack found a small pill and tried to print it, but his mother advised him to find something bigger. They printed a big red leaf, which made Jack very happy. From then on, Jack continued printing colorful objects. In another tale, a mysterious teacher revealed the power of a pale gem to a village, teaching them how to make it magical. By placing the gem in water, reciting a special spell, and invoking luck and fortune, the villagers experienced newfound prosperity. Additionally, a bridge attracted various animals, including a little mouse who encountered a big dog. The mouse, wanting to prove his bravery, found himself in danger but ultimately outwitted by the dog. Furthermore, a boy followed a bossy chipmunk through a landscape, leading him to incredible discoveries. Lastly, a young boy named John celebrated his birthday with friends and received a special chair as a present, enjoying the best cake he had ever tasted. In a separate story, Timmy learned the importance of politeness and cooperation when helping his mother find a hanger in the closet, ultimately earning ice cream for his courteous behavior.",
+    "sampled": "Once upon a time, there was a playful puppy named Jack who enjoyed printing colorful patterns on paper. One day, Jack found a small pill and tried to print it, but his mother advised him to find something bigger. They printed a big red leaf, which made Jack very happy. From then on, Jack continued printing colorful objects. In another tale, a mysterious teacher revealed the power of a pale ruby to a village, teaching them how to make it magical. By placing the gem in water, reciting a special spell, and invoking luck and fortune, the villagers experienced newfound prosperity. Also, a bridge attracted various animals, including a little mouse who encountered a big dog. The mouse, wanting to prove his bravery, found himself in danger but ultimately outwitted by the dog. Moreover, a boy followed a bossy chipmunk through a landscape, leading him to unbelievable discoveries. Lastly, a young boy named John celebrated his birthday with friends and received a special chair as a present, enjoying the best cake he had ever tasted. In a separate story, Timmy learned the importance of politeness and cooperation when helping his mother find a hanger in the closet, ultimately earning ice cream for his courteous behavior.",
+    "replacement_keys": [
+        70,
+        101,
+        133,
+        146
+    ],
+    "original_crit": 0.007134649902582169,
+    "sampled_crit": 0.0046761822886765,
+    "original_llm_likelihood": 0.007134649902582169,
+    "sampled_llm_likelihood": 0.0046761822886765
+}

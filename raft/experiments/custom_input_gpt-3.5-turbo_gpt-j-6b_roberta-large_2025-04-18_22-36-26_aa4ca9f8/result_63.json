@@ -1,0 +1,12 @@
+{
+    "original": "This study introduces a novel standard action for D-branes, analogous to the Polyakov action for fundamental strings, based on non-Abelian gauged sigma model principles. The action incorporates elements such as dilaton terms, gauge-theory components, and Chern-Simons/Wess-Zumino terms that couple maps and connections to Ramond-Ramond fields. Through a comprehensive analysis of maps and covariant calculus, the study explores the first and second variations of the standard action, shedding light on the dynamics and equations of motion for D-branes. By delving into the hierarchical admissible conditions for pairs of maps and connections, the study illuminates the interplay between harmonic maps, gauge theory, and fuzzy extensions, paving the way for a deeper understanding of the fundamental dynamics of D-branes and their potential for quantization as essential dynamical entities.",
+    "sampled": "This study introduces a novel standard action for D-branes, analogous to the Polyakov action for fundamental strings, based on non-Abelian gauged sigma model principles. The action incorporates elements such as dilaton terms, gauge-theory components, and Chern-Simons/Wess-Zumino terms that couple maps and connections to Ramond-Ramond fields. Through a comprehensive analysis of maps and covariant calculus, the study explores the first and second variations of the standard action, shedding light on the dynamics and equations of motion for D-branes. By delving into the hierarchical permissible conditions for pairs of maps and connections, the study illuminates the interplay between harmonic maps, gauge theory, and fuzzy extension, paving the way for a deeper understanding of the fundamental dynamics of D-branes and their potential for quantization as essential dynamical entities.",
+    "replacement_keys": [
+        82,
+        102
+    ],
+    "original_crit": 0.03581450879573822,
+    "sampled_crit": 0.033982280641794205,
+    "original_llm_likelihood": 0.03581450879573822,
+    "sampled_llm_likelihood": 0.033982280641794205
+}

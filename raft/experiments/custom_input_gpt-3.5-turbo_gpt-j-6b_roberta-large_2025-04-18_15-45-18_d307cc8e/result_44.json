@@ -1,0 +1,11 @@
+{
+    "original": "A car with four tires experienced a flat tire, causing it distress. The car then sought help from a mechanic who inflated the tire, restoring its functionality and bringing happiness to the car as it resumed its journey.",
+    "sampled": "A automotive with four tires experienced a flat tire, causing it distress. The car then sought help from a mechanic who inflated the tire, restoring its functionality and bringing happiness to the car as it resumed its journey.",
+    "replacement_keys": [
+        1
+    ],
+    "original_crit": 0.4899146556854248,
+    "sampled_crit": 0.3790205717086792,
+    "original_llm_likelihood": 0.4899146556854248,
+    "sampled_llm_likelihood": 0.3790205717086792
+}

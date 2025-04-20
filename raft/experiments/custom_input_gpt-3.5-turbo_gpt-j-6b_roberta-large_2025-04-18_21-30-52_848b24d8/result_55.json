@@ -1,0 +1,11 @@
+{
+    "original": "This study introduces an innovative technique for incorporating symbolic temporal knowledge into deep sequential models, which have demonstrated superior performance across various applications. The suggested hybrid model merges the expressive abilities of recurrent neural networks with the logical reasoning capabilities of first-order logic. By integrating constraints on temporal event relations, the model's interpretability and accuracy are enhanced. The methodology involves learning both a continuous representation of observed data and a discrete representation of temporal knowledge. Assessment on standard tasks, including time-series prediction and event classification, showcases the model's superiority in accuracy and efficiency compared to existing approaches. Furthermore, the model exhibits adeptness in comprehending and reasoning about intricate temporal dependencies, signifying a promising avenue for theoretical exploration and real-world implementations in fields like natural language processing and robotics.",
+    "sampled": "This study introduces an innovative technique for incorporating symbolic temporal knowledge into deep sequential models, which have demonstrated superior performance across various applications. The suggested hybrid model merges the expressive abilities of recurrent neural networks with the logical reasoning capabilities of first-order logic. By integrating constraints on temporal event relations, the model's interpretability and accuracy are enhanced. The methodology involves learning both a continuous representation of observed data and a discrete representation of temporal knowledge. Examination on standard tasks, including time-series prediction and event classification, showcases the model's superiority in accuracy and efficiency compared to existing approaches. Furthermore, the model exhibits adeptness in comprehending and reasoning about intricate temporal dependencies, signifying a promising avenue for theoretical exploration and real-world implementations in fields like natural language processing and robotics.",
+    "replacement_keys": [
+        75
+    ],
+    "original_crit": 0.002859920496121049,
+    "sampled_crit": 0.002826334210112691,
+    "original_llm_likelihood": 0.002859920496121049,
+    "sampled_llm_likelihood": 0.002826334210112691
+}

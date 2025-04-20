@@ -1,0 +1,14 @@
+{
+    "original": "University education, while primarily aimed at preparing students for employment, serves multiple purposes. The core function of university education is to provide students with the necessary skills and knowledge for their future careers. However, university education also offers additional benefits, such as fostering critical thinking and problem-solving skills that are crucial not only in the workplace but also in daily life. Furthermore, university education helps students develop personal and social skills, including effective communication, teamwork, and time management, which are essential for success in any career. Additionally, university education exposes students to diverse cultures and perspectives, fostering a global outlook that is increasingly important in today's interconnected world. In conclusion, while preparing students for employment is a key function of university education, it also provides a wide range of advantages that contribute to overall personal and professional development.",
+    "sampled": "University learning, while mostly aimed at preparing students for employment, serves multiple purposes. The core function of university education is to provide students with the necessary skills and knowledge for their future careers. However, university education also offers extra benefits, such as fostering critical thinking and problem-solving skills that are crucial not only in the workplace but also in daily life. Furthermore, university education helps students develop personal and social skills, including effective communication, teamwork, and time management, which are essential for success in any career. Additionally, university education exposes students to diverse cultures and perspectives, fostering a global outlook that is increasingly important in today's interconnected world. In conclusion, while preparing students for employment is a key function of university education, it also provides a wide range of benefits that contribute to overall personal and professional development.",
+    "replacement_keys": [
+        1,
+        3,
+        38,
+        129
+    ],
+    "original_crit": 0.00511982711032033,
+    "sampled_crit": 0.0016735864337533712,
+    "original_llm_likelihood": 0.00511982711032033,
+    "sampled_llm_likelihood": 0.0016735864337533712
+}

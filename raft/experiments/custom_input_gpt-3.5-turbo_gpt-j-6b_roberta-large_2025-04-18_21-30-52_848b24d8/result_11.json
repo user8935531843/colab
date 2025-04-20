@@ -1,0 +1,11 @@
+{
+    "original": "In a finite group $G$, if $K$ is a subgroup and the probability that an element of $G$ commutes with an element of $K$ is denoted as $Pr(K,G)$, where $Pr(K,G)\\geq\\epsilon$ for a fixed value of $\\epsilon>0$, then there exists a normal subgroup $T\\leq G$ and a subgroup $B\\leq K$ with $\\epsilon$-bounded indexes $[G:T]$ and $[K:B]$, along with an $\\epsilon$-bounded order of the commutator subgroup $[T,B]$. This generalization of P. M. Neumann's theorem, which applies when $K=G$, yields a set of corollaries with various implications. One such implication is that if $K$ is the generalized Fitting subgroup $F^*(G)$, then $G$ possesses a class-2-nilpotent normal subgroup $R$ with $\\epsilon$-bounded index $[G:R]$ and commutator subgroup order $[R,R]$. Additionally, scenarios where $K$ belongs to the lower central series terms or is a Sylow subgroup are also considered within this framework.",
+    "sampled": "In a finite group $G$, if $K$ is a subgroup and the probability that an element of $G$ commutes with an element of $K$ is denotes as $Pr(K,G)$, where $Pr(K,G)\\geq\\epsilon$ for a fixed value of $\\epsilon>0$, then there exists a normal subgroup $T\\leq G$ and a subgroup $B\\leq K$ with $\\epsilon$-bounded indexes $[G:T]$ and $[K:B]$, along with an $\\epsilon$-bounded order of the commutator subgroup $[T,B]$. This generalization of P. M. Neumann's theorem, which applies when $K=G$, yields a set of corollaries with various implications. One such implication is that if $K$ is the generalized Fitting subgroup $F^*(G)$, then $G$ possesses a class-2-nilpotent normal subgroup $R$ with $\\epsilon$-bounded index $[G:R]$ and commutator subgroup order $[R,R]$. Additionally, scenarios where $K$ belongs to the lower central series terms or is a Sylow subgroup are also considered within this framework.",
+    "replacement_keys": [
+        25
+    ],
+    "original_crit": 0.03633513301610947,
+    "sampled_crit": 0.02922460436820984,
+    "original_llm_likelihood": 0.03633513301610947,
+    "sampled_llm_likelihood": 0.02922460436820984
+}

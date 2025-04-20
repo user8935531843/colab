@@ -1,0 +1,12 @@
+{
+    "original": "I believe that education is a life-long process that should be continuously pursued. There are multiple reasons for this belief. Firstly, education serves as a means for continual learning and self-improvement, enabling individuals to explore new interests, understand diverse cultures, and enhance their knowledge base. Education also aids in personal growth by fostering well-rounded individuals who can appreciate various perspectives and become confident leaders. Furthermore, education is essential for professional advancement, offering opportunities for career progression, skill development, and staying abreast of industry developments. In conclusion, education is a dynamic and ongoing journey that empowers individuals to learn, grow, and excel in various aspects of their personal and professional lives.",
+    "sampled": "I believe that learning is a life-long process that should be continuously pursued. There are multiple reasons for this belief. Firstly, education serves as a means for continual learning and self-improvement, enabling individuals to explore new interests, understand diverse cultures, and enhance their knowledge base. Education also aids in personal growth by fostering rounded individuals who can appreciate various perspectives and become confident leaders. Furthermore, education is essential for professional advancement, offering opportunities for career progression, skill development, and staying abreast of industry developments. In conclusion, education is a dynamic and ongoing journey that empowers individuals to learn, grow, and excel in various aspects of their personal and professional lives.",
+    "replacement_keys": [
+        3,
+        53
+    ],
+    "original_crit": 0.7050984501838684,
+    "sampled_crit": 0.3082996606826782,
+    "original_llm_likelihood": 0.7050984501838684,
+    "sampled_llm_likelihood": 0.3082996606826782
+}

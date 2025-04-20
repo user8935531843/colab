@@ -1,0 +1,12 @@
+{
+    "original": "In a land far away, there resided a chubby feline that enjoyed frolicking with a discarded bin. Upon discovering a toy within the bin one fateful day, the cat's excitement knew no bounds as he indulged in play for hours on end. The cat's joy knew no bounds, bringing a contented conclusion to his playful escapades.",
+    "sampled": "In a land far away, there inhabited a chubby feline that enjoyed frolicking with a jettisoned bin. Upon discovering a toy within the bin one fateful day, the cat's excitement knew no bounds as he indulged in play for hours on end. The cat's joy knew no bounds, bringing a contented conclusion to his playful escapades.",
+    "replacement_keys": [
+        6,
+        15
+    ],
+    "original_crit": 0.076238714158535,
+    "sampled_crit": 0.060823239386081696,
+    "original_llm_likelihood": 0.076238714158535,
+    "sampled_llm_likelihood": 0.060823239386081696
+}

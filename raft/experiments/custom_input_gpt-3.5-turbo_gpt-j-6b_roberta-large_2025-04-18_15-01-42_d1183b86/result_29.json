@@ -1,0 +1,13 @@
+{
+    "original": "An ordered Fe(001) ultra-thin film grown epitaxially on MgO(001) underwent oxidation through post-deposition annealing in an oxygen-rich atmosphere. LEED patterns revealed the formation of magnetite (Fe$_3$O$_4$) after one hour of oxygen exposure, indicating stability even after further annealing for four hours. However, X-ray Photoelectron Spectroscopy (XPS) analysis of the Fe $2p$ core levels suggested the presence of predominantly trivalent iron in an iron oxide compound. This discrepancy was investigated through charge transfer multiplet calculations for the Fe $2p$ XPS spectra. It was discovered that Mg ions from the substrate infiltrated the magnetite film, replacing octahedrally coordinated Fe$^{2+}$ ions and occupying additional octahedral sites within the inverse spinel structure. Various potential models were proposed to explain the segregation of Mg ions into the magnetite films, shedding light on the altered Fe $2p$ XPS spectra.",
+    "sampled": "An ordered Fe(001) thin-sheet film grown epitaxially on MgO(001) underwent oxidation through post-deposition annealing in an oxygen-rich atmosphere. LEED patterns revealed the formation of magnetite (Fe$_3$O$_4$) after one hour of oxygen exposure, indicating stability even after further annealing for four hours. However, X-ray Photoelectron Spectroscopy (XPS) analysis of the Fe $2p$ core levels suggested the presence of predominantly trivalent iron in an iron oxide compound. This discrepancy was investigated through charge transfer multiplet calculations for the Fe $2p$ XPS spectra. It was discovered that Mg ions from the substrate infiltrated the magnetite film, replacing octahedrally coordinated Fe$^{2+}$ ions and occupying extra octahedral sites within the inverse spinel structure. Varied potential models were proposed to explain the segregation of Mg ions into the magnetite films, shedding light on the altered Fe $2p$ XPS spectra.",
+    "replacement_keys": [
+        3,
+        100,
+        108
+    ],
+    "original_crit": 0.012302877381443977,
+    "sampled_crit": 0.009376069530844688,
+    "original_llm_likelihood": 0.012302877381443977,
+    "sampled_llm_likelihood": 0.009376069530844688
+}

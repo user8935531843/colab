@@ -1,0 +1,12 @@
+{
+    "original": "In a faraway land, lived a bald man who awoke abruptly one morning. Without hesitation, he rose from bed and gazed at his reflection in the mirror. Upon seeing his bald head, a smile crept upon his face, relishing in his baldness.",
+    "sampled": "In a faraway land, lived a hairless man who awakened abruptly one morning. Without hesitation, he rose from bed and gazed at his reflection in the mirror. Upon seeing his bald head, a smile crept upon his face, relishing in his baldness.",
+    "replacement_keys": [
+        6,
+        9
+    ],
+    "original_crit": 0.05980989709496498,
+    "sampled_crit": 0.030695302411913872,
+    "original_llm_likelihood": 0.05980989709496498,
+    "sampled_llm_likelihood": 0.030695302411913872
+}

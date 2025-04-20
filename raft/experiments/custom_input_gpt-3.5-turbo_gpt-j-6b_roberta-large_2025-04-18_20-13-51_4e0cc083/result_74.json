@@ -1,0 +1,13 @@
+{
+    "original": "I concur with the notion that computer games have had more negative effects than positive ones on children's physical, intellectual, and psychological development. The addictive nature of computer games can lead to various negative consequences, such as lack of sleep, reduced focus in school, and potential mental health issues like ADHD or OCD. Additionally, the immersive and time-consuming nature of computer games can hinder social skill development and limit creativity. In order to mitigate these adverse effects, it is crucial to implement measures that restrict children's exposure to computer games. Despite the potential benefits of computer games in enhancing concentration, problem-solving skills, and creativity, it is essential to establish boundaries to prevent the negative impacts on children's overall development. While computer games can provide an outlet for entertainment and skill development, moderation and supervision are necessary to ensure a balanced approach to their usage.",
+    "sampled": "I concur with the notion that computer games have had more negative effects than positive ones on children's physical, intellectual, and psychological development. The addictive nature of computer games can lead to various negative consequences, such as lack of sleep, reduced focus in school, and potentiality mental health issues like ADHD or OCD. Additionally, the immersive and time-consuming nature of computer games can hinder social ability development and limit creativity. In order to mitigate these adverse effects, it is crucial to implement measures that restrict children's exposure to computer games. Despite the potential benefits of computer games in enhancing concentration, problem-solving skills, and creativity, it is essential to establish boundaries to prevent the negative impacts on children's overall development. While computer games can provide an outlet for entertainment and skill development, moderating and supervision are necessary to ensure a balanced approach to their usage.",
+    "replacement_keys": [
+        45,
+        65,
+        131
+    ],
+    "original_crit": 0.2289564609527588,
+    "sampled_crit": 0.0025856022257357836,
+    "original_llm_likelihood": 0.2289564609527588,
+    "sampled_llm_likelihood": 0.0025856022257357836
+}
